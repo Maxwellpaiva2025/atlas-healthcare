@@ -58,13 +58,13 @@ export default function Header() {
         transition={{ duration: 0.5 }}
       >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex items-center justify-between h-20 sm:h-24 md:h-28 lg:h-32">
+          <div className="flex items-center justify-between h-36 sm:h-28 md:h-32 lg:h-36">
             {/* Logo */}
             <Link to={createPageUrl('Home')} className="flex items-center">
               <img 
                 src={LOGO_URL} 
                 alt="Atlas Healthcare" 
-                className={`h-16 sm:h-20 md:h-24 lg:h-28 transition-all duration-300 ${
+                className={`h-32 sm:h-24 md:h-28 lg:h-32 transition-all duration-300 ${
                   isScrolled ? 'brightness-100' : 'brightness-0 invert'
                 }`}
               />
