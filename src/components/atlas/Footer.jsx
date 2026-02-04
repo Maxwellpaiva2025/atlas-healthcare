@@ -33,7 +33,7 @@ export default function Footer() {
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-10">
           {/* Brand */}
           <div>
-            <img src={LOGO_URL} alt="Atlas Healthcare" className="h-12 mb-4 brightness-0 invert" />
+            <img src={LOGO_URL} alt="Atlas Healthcare" className="h-16 sm:h-20 mb-4 brightness-0 invert" />
             <p className="text-white/70 text-sm leading-relaxed mb-4">
               {t.footer.description}
             </p>

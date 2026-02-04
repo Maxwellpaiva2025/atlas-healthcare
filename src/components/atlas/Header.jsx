@@ -64,7 +64,7 @@ export default function Header() {
               <img 
                 src={LOGO_URL} 
                 alt="Atlas Healthcare" 
-                className={`h-10 sm:h-12 transition-all duration-300 ${
+                className={`h-14 sm:h-16 md:h-20 transition-all duration-300 ${
                   isScrolled ? 'brightness-100' : 'brightness-0 invert'
                 }`}
               />

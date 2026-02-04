@@ -41,7 +41,7 @@ export default function LanguageSelector() {
         <motion.img
           src={LOGO_URL}
           alt="Atlas Healthcare"
-          className="h-28 sm:h-36 mx-auto mb-6 drop-shadow-2xl"
+          className="h-40 sm:h-48 md:h-56 mx-auto mb-6 drop-shadow-2xl"
           initial={{ scale: 0.8 }}
           animate={{ scale: 1 }}
           transition={{ duration: 0.5, delay: 0.2 }}
