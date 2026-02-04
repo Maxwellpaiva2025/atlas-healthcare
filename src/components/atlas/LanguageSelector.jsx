@@ -5,14 +5,7 @@ import { useLanguage } from './LanguageContext';
 
 const LOGO_URL = "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/user_68ffcb51eeb9e0ad79e826fd/2572f9067_Screenshot_2026-02-04_at_14-31-24_Fwd_Atlas_Logo_-Portuguese_-_maxwellnascimento2022_gmailcom_-_Gmail-removebg-preview.png";
 
-const badges = [
-  { icon: Star, label: { pt: "4.9/5 Google Reviews", es: "4.9/5 Google Reviews", en: "4.9/5 Google Reviews" } },
-  { icon: Clock, label: { pt: "12+ Anos de Experiência", es: "12+ Años de Experiencia", en: "12+ Years Experience" } },
-  { icon: Shield, label: { pt: "100% Aceito pelo USCIS", es: "100% Aceptado por USCIS", en: "100% USCIS Accepted" } },
-  { icon: Award, label: { pt: "One-Stop Shop", es: "One-Stop Shop", en: "One-Stop Shop" } },
-  { icon: Users, label: { pt: "Civil Surgeon Autorizado", es: "Civil Surgeon Autorizado", en: "USCIS Authorized" } },
-  { icon: Star, label: { pt: "+10,000 Exames", es: "+10,000 Exámenes", en: "+10,000 Exams" } },
-];
+
 
 const languages = [
   { code: 'pt', name: 'PORTUGUÊS', cta: 'Clique para Continuar', flag: '🇧🇷' },
@@ -77,23 +70,7 @@ export default function LanguageSelector() {
         </motion.div>
       </motion.div>
 
-      {/* Badges */}
-      <motion.div
-        className="flex flex-wrap justify-center gap-2 sm:gap-3 mb-10 max-w-3xl relative z-10"
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ delay: 0.6 }}
-      >
-        {badges.map((badge, index) => (
-          <div
-            key={index}
-            className="flex items-center gap-1.5 px-3 py-1.5 bg-white/10 backdrop-blur-sm rounded-full text-xs text-white/80 border border-white/10"
-          >
-            <badge.icon className="w-3.5 h-3.5 text-[#4ECCA3]" />
-            <span>{badge.label.en}</span>
-          </div>
-        ))}
-      </motion.div>
+
 
       {/* Language Cards */}
       <motion.div
