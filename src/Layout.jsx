@@ -1,8 +1,10 @@
 import React from 'react';
+import ScrollToTop from './components/ScrollToTop';
 
 export default function Layout({ children }) {
   return (
     <div className="antialiased">
+      <ScrollToTop />
       <style>{`
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
         
