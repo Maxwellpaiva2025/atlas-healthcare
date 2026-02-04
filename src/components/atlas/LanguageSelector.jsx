@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { MapPin, Star, Shield, Clock, Award, Users } from 'lucide-react';
 import { useLanguage } from './LanguageContext';
 
-const LOGO_URL = "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/user_68ffcb51eeb9e0ad79e826fd/2572f9067_Screenshot_2026-02-04_at_14-31-24_Fwd_Atlas_Logo_-Portuguese_-_maxwellnascimento2022_gmailcom_-_Gmail-removebg-preview.png";
+const LOGO_URL = "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/698388acd2bf994a97ff1d42/284e33aed_LOGO.png";
 
 
 
