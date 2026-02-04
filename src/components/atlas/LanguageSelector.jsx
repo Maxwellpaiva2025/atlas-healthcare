@@ -42,7 +42,7 @@ export default function LanguageSelector() {
 
         {/* Welcome text */}
         <motion.h1
-          className="text-3xl sm:text-4xl md:text-5xl font-light text-white mb-3 tracking-wide"
+          className="text-2xl sm:text-3xl md:text-4xl font-light text-white mb-3 tracking-wide"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ delay: 0.3 }}
