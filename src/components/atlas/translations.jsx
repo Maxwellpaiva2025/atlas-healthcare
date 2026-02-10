@@ -188,7 +188,7 @@ export const translations = {
     aboutPage: {
       title: "Sobre Nós",
       mission: "Nossa Missão",
-      missionText: "Reunir famílias através de um processo de exame médico de imigração eficiente, compassivo e confiável.",
+      missionText: "Na Atlas Healthcare, nossa missão é ir além do atendimento: é construir pontes entre pessoas, culturas e novos começos. Acreditamos que cuidar da saúde também é cuidar de histórias, famílias e sonhos que atravessam fronteiras em busca de segurança, dignidade e pertencimento.\n\nTrabalhamos para aproximar corações e reunir lares, oferecendo um atendimento eficiente, humano e orientado por processos claros, para que cada pessoa se sinta acolhida, compreendida e respeitada — independentemente do idioma, da origem ou da complexidade da sua jornada.\n\nCom a confiança de quem já auxiliou mais de 10.000 famílias, assumimos o compromisso de transformar burocracia em clareza, medo em orientação e distância em reconexão. Cada atendimento é tratado como único, porque entendemos que por trás de cada formulário existe uma vida, uma família e um futuro em construção.\n\nNossa missão é ser mais do que um serviço de saúde: é ser um ponto de apoio sólido em momentos decisivos, garantindo que cada novo começo seja conduzido com responsabilidade, empatia e excelência.",
       values: "Nossos Valores",
       valuesList: ["Excelência médica", "Compaixão", "Transparência", "Eficiência", "Acessibilidade"]
     },
@@ -425,7 +425,7 @@ export const translations = {
     aboutPage: {
       title: "Sobre Nosotros",
       mission: "Nuestra Misión",
-      missionText: "Reunir familias a través de un proceso de examen médico de inmigración eficiente, compasivo y confiable.",
+      missionText: "En Atlas Healthcare, nuestra misión es ir más allá de la atención: es construir puentes entre personas, culturas y nuevos comienzos. Creemos que cuidar de la salud también es cuidar de historias, familias y sueños que atraviesan fronteras en busca de seguridad, dignidad y pertenencia.\n\nTrabajamos para acercar corazones y reunir hogares, ofreciendo una atención eficiente, humana y orientada por procesos claros, para que cada persona se sienta acogida, comprendida y respetada — independientemente del idioma, del origen o de la complejidad de su jornada.\n\nCon la confianza de quienes ya han ayudado a más de 10,000 familias, asumimos el compromiso de transformar burocracia en claridad, miedo en orientación y distancia en reconexión. Cada atención es tratada como única, porque entendemos que detrás de cada formulario existe una vida, una familia y un futuro en construcción.\n\nNuestra misión es ser más que un servicio de salud: es ser un punto de apoyo sólido en momentos decisivos, garantizando que cada nuevo comienzo sea conducido con responsabilidad, empatía y excelencia.",
       values: "Nuestros Valores",
       valuesList: ["Excelencia médica", "Compasión", "Transparencia", "Eficiencia", "Accesibilidad"]
     },
@@ -646,7 +646,7 @@ export const translations = {
     aboutPage: {
       title: "About Us",
       mission: "Our Mission",
-      missionText: "Reuniting families through an efficient, compassionate and reliable immigration medical exam process.",
+      missionText: "At Atlas Healthcare, our mission goes beyond providing care: it's about building bridges between people, cultures, and new beginnings. We believe that caring for health also means caring for stories, families, and dreams that cross borders in search of safety, dignity, and belonging.\n\nWe work to bring hearts closer and reunite homes, offering efficient, humane care guided by clear processes, so that every person feels welcomed, understood, and respected — regardless of language, origin, or the complexity of their journey.\n\nWith the trust of those who have already helped over 10,000 families, we commit to transforming bureaucracy into clarity, fear into guidance, and distance into reconnection. Each appointment is treated as unique, because we understand that behind every form there is a life, a family, and a future being built.\n\nOur mission is to be more than a health service: it's to be a solid support point in decisive moments, ensuring that every new beginning is conducted with responsibility, empathy, and excellence.",
       values: "Our Values",
       valuesList: ["Medical excellence", "Compassion", "Transparency", "Efficiency", "Accessibility"]
     },
