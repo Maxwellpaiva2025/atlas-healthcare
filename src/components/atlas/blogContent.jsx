@@ -2,224 +2,133 @@ export const blogArticles = {
   pt: {
     1: {
       content: `
-<p style="color: #4ECCA3; font-size: 1.1rem; font-weight: 600; margin-bottom: 1.5rem;">O exame médico de imigração é um dos passos mais importantes no processo de obtenção de residência permanente nos Estados Unidos. Realizado por um Civil Surgeon autorizado pelo USCIS, este exame visa proteger a saúde pública e garantir que os imigrantes não representem riscos à saúde da população americana.</p>
+<h2>Introdução</h2>
+<p>O exame médico de imigração é um dos passos mais importantes no processo de obtenção de residência permanente nos Estados Unidos. Realizado por um Civil Surgeon autorizado pelo USCIS (U.S. Citizenship and Immigration Services), este exame visa proteger a saúde pública e garantir que os imigrantes não representem riscos à saúde da população americana.</p>
+<p>Neste artigo, vamos explorar em detalhes tudo o que você precisa saber sobre o exame médico de imigração, desde os requisitos até o que esperar no dia do agendamento.</p>
 
-<div style="background: #f8f9fa; border-left: 4px solid #4ECCA3; padding: 1.5rem; margin: 2rem 0; border-radius: 8px;">
-<p style="margin: 0; font-weight: 600;">📌 Neste guia completo, você vai descobrir:</p>
-<ul style="margin-top: 0.5rem; margin-bottom: 0;">
-<li>O que é um Civil Surgeon e por que escolhê-lo corretamente</li>
-<li>Todos os componentes obrigatórios do exame</li>
-<li>Exames laboratoriais exigidos pelo USCIS</li>
-<li>O que esperar no dia do seu agendamento</li>
-</ul>
-</div>
+<h2>O que é um Civil Surgeon?</h2>
+<p>Um Civil Surgeon é um médico licenciado que recebeu autorização especial do USCIS para realizar exames médicos de imigração. Nem todo médico pode realizar este exame - apenas aqueles que passaram por um processo de designação rigoroso. O Dr. Wingo, da Atlas Healthcare, é um Civil Surgeon autorizado com anos de experiência, tendo realizado mais de 10.000 exames de imigração.</p>
 
-<h2 style="color: #1a3a5c; font-size: 2rem; font-weight: 700; margin-top: 3rem; margin-bottom: 1.5rem; border-bottom: 3px solid #4ECCA3; padding-bottom: 0.5rem;">👨‍⚕️ O que é um Civil Surgeon?</h2>
+<h2>O que está incluído no Exame Médico de Imigração?</h2>
+<p>O exame médico de imigração é abrangente e inclui vários componentes obrigatórios:</p>
 
-<p>Um <strong>Civil Surgeon</strong> é um médico licenciado que recebeu autorização especial do USCIS para realizar exames médicos de imigração. <strong>Nem todo médico pode realizar este exame</strong> - apenas aqueles que passaram por um processo de designação rigoroso.</p>
-
-<div style="background: #e8f5f0; padding: 1.5rem; margin: 1.5rem 0; border-radius: 8px;">
-<p style="margin: 0; font-weight: 600; color: #1a3a5c;">✅ Dr. Wingo, da Atlas Healthcare:</p>
-<ul style="margin-top: 0.5rem; margin-bottom: 0;">
-<li>Civil Surgeon autorizado pelo USCIS</li>
-<li>Mais de <strong>10.000 exames</strong> realizados</li>
-<li>Anos de experiência especializada</li>
-<li><strong>100% de aceitação</strong> pelo USCIS</li>
-</ul>
-</div>
-
-<h2 style="color: #1a3a5c; font-size: 2rem; font-weight: 700; margin-top: 3rem; margin-bottom: 1.5rem; border-bottom: 3px solid #4ECCA3; padding-bottom: 0.5rem;">📋 O que está incluído no Exame Médico de Imigração?</h2>
-
-<p style="font-size: 1.1rem; margin-bottom: 1.5rem;">O exame médico de imigração é abrangente e inclui <strong>5 componentes obrigatórios</strong>:</p>
-
-<h3 style="color: #1a3a5c; font-size: 1.5rem; font-weight: 600; margin-top: 2rem; margin-bottom: 1rem;">1️⃣ Exame Físico Completo</h3>
+<h3>1. Exame Físico Completo</h3>
 <p>O médico realizará uma avaliação física completa, incluindo:</p>
-<ul style="line-height: 1.8;">
-<li>✓ Verificação de pressão arterial</li>
-<li>✓ Auscultação cardíaca e pulmonar</li>
-<li>✓ Exame abdominal</li>
-<li>✓ Avaliação geral do estado de saúde</li>
-<li>✓ Verificação de sinais de doenças contagiosas</li>
+<ul>
+<li>Verificação de pressão arterial</li>
+<li>Auscultação cardíaca e pulmonar</li>
+<li>Exame abdominal</li>
+<li>Avaliação geral do estado de saúde</li>
+<li>Verificação de sinais de doenças contagiosas</li>
 </ul>
 
-<h3 style="color: #1a3a5c; font-size: 1.5rem; font-weight: 600; margin-top: 2rem; margin-bottom: 1rem;">2️⃣ Revisão de Histórico Médico</h3>
-<p>O Civil Surgeon revisará seu histórico médico completo:</p>
-<ul style="line-height: 1.8;">
-<li>✓ Doenças anteriores</li>
-<li>✓ Cirurgias realizadas</li>
-<li>✓ Condições crônicas</li>
-<li>✓ Medicamentos em uso</li>
-<li>✓ Hospitalizações</li>
+<h3>2. Revisão de Histórico Médico</h3>
+<p>O Civil Surgeon revisará seu histórico médico completo, incluindo:</p>
+<ul>
+<li>Doenças anteriores</li>
+<li>Cirurgias realizadas</li>
+<li>Condições crônicas</li>
+<li>Medicamentos em uso</li>
+<li>Hospitalizações</li>
 </ul>
 
-<h3 style="color: #1a3a5c; font-size: 1.5rem; font-weight: 600; margin-top: 2rem; margin-bottom: 1rem;">3️⃣ Exames Laboratoriais Obrigatórios</h3>
-<p>O USCIS exige uma série de exames laboratoriais específicos:</p>
+<h3>3. Exames Laboratoriais Obrigatórios</h3>
+<p>O USCIS exige uma série de exames laboratoriais:</p>
 
-<div style="background: #fff; border: 2px solid #e0e0e0; padding: 1rem; margin: 1rem 0; border-radius: 8px;">
-<p style="font-weight: 600; color: #1a3a5c; margin-bottom: 0.5rem;">🔬 QuantiFERON-TB Gold (Teste de Tuberculose)</p>
-<ul style="margin: 0;">
+<p><strong>QuantiFERON-TB Gold (Teste de Tuberculose)</strong></p>
+<ul>
 <li>Detecta infecção pelo Mycobacterium tuberculosis</li>
-<li>Exame de sangue moderno e preciso</li>
-<li>Resultados em <strong>24-48 horas</strong></li>
+<li>É um exame de sangue mais moderno e preciso que o teste cutâneo tradicional</li>
+<li>Resultados geralmente disponíveis em 24-48 horas</li>
 </ul>
-</div>
 
-<div style="background: #fff; border: 2px solid #e0e0e0; padding: 1rem; margin: 1rem 0; border-radius: 8px;">
-<p style="font-weight: 600; color: #1a3a5c; margin-bottom: 0.5rem;">🔬 Sífilis RPR (Rapid Plasma Reagin)</p>
-<ul style="margin: 0;">
+<p><strong>Sífilis RPR (Rapid Plasma Reagin)</strong></p>
+<ul>
 <li>Rastreamento para sífilis</li>
 <li>Exame de sangue simples e rápido</li>
-<li>Se positivo, requer confirmação adicional</li>
+<li>Se positivo, requer confirmação com testes adicionais</li>
 </ul>
-</div>
 
-<div style="background: #fff; border: 2px solid #e0e0e0; padding: 1rem; margin: 1rem 0; border-radius: 8px;">
-<p style="font-weight: 600; color: #1a3a5c; margin-bottom: 0.5rem;">🔬 Gonorrhea (Gonorreia)</p>
-<ul style="margin: 0;">
-<li>Teste para detectar Neisseria gonorrhoeae</li>
-<li>Realizado por exame de urina ou swab</li>
+<p><strong>Gonorrhea (Gonorreia)</strong></p>
+<ul>
+<li>Teste para detectar infecção por Neisseria gonorrhoeae</li>
+<li>Pode ser realizado através de exame de urina ou swab</li>
 <li>Importante para a saúde pública</li>
 </ul>
-</div>
 
-<h3 style="color: #1a3a5c; font-size: 1.5rem; font-weight: 600; margin-top: 2rem; margin-bottom: 1rem;">4️⃣ Revisão do Cartão de Vacinação</h3>
-<p>O USCIS exige que os imigrantes estejam vacinados contra determinadas doenças:</p>
-
-<div style="background: #f0f8ff; padding: 1.5rem; margin: 1.5rem 0; border-radius: 8px; border-left: 4px solid #4ECCA3;">
-<p style="font-weight: 600; margin-bottom: 1rem;">💉 Vacinas Obrigatórias:</p>
-<ul style="margin: 0; line-height: 1.8;">
-<li>• Hepatite A e B</li>
-<li>• Influenza (gripe)</li>
-<li>• Varicela (catapora)</li>
-<li>• MMR (sarampo, caxumba e rubéola)</li>
-<li>• Tdap (tétano, difteria e coqueluche)</li>
-<li>• Pneumocócica</li>
-<li>• Meningocócica</li>
-<li>• Rotavírus (para crianças)</li>
+<h3>4. Revisão do Cartão de Vacinação</h3>
+<p>O USCIS exige que os imigrantes estejam vacinados contra determinadas doenças. O Civil Surgeon revisará seu cartão de vacinação para verificar se você possui as vacinas obrigatórias:</p>
+<ul>
+<li>Hepatite A e B</li>
+<li>Influenza (gripe)</li>
+<li>Varicela (catapora)</li>
+<li>MMR (sarampo, caxumba e rubéola)</li>
+<li>Tdap (tétano, difteria e coqueluche)</li>
+<li>Pneumocócica</li>
+<li>Meningocócica</li>
+<li>Rotavírus (para crianças)</li>
 </ul>
-</div>
+<p>Se você não tiver comprovação de vacinação ou precisar de vacinas adicionais, elas podem ser administradas no próprio local.</p>
 
-<div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0; border-radius: 8px;">
-<p style="margin: 0; font-weight: 600;">💡 Não tem comprovação de vacinação?</p>
-<p style="margin: 0.5rem 0 0 0;">Sem problema! As vacinas necessárias podem ser administradas no próprio local durante sua visita.</p>
-</div>
+<h3>5. Formulário I-693</h3>
+<p>Após a conclusão de todos os exames, o Civil Surgeon preencherá e lacrará o Formulário I-693 (Report of Medical Examination and Vaccination Record). Este formulário é o documento oficial que você enviará ao USCIS como parte de seu processo de imigração.</p>
 
-<h3 style="color: #1a3a5c; font-size: 1.5rem; font-weight: 600; margin-top: 2rem; margin-bottom: 1rem;">5️⃣ Formulário I-693</h3>
-<p>Após a conclusão de todos os exames, o Civil Surgeon preencherá e lacrará o <strong>Formulário I-693</strong> (Report of Medical Examination and Vaccination Record). Este é o documento oficial que você enviará ao USCIS como parte de seu processo de imigração.</p>
+<h2>Quanto tempo leva o processo?</h2>
+<p>Na Atlas Healthcare, a maioria dos exames é completada em uma única visita de 30-45 minutos. Os resultados dos exames laboratoriais geralmente estão disponíveis em 24-48 horas, e o Formulário I-693 é lacrado e entregue ao paciente prontamente.</p>
 
-<h2 style="color: #1a3a5c; font-size: 2rem; font-weight: 700; margin-top: 3rem; margin-bottom: 1.5rem; border-bottom: 3px solid #4ECCA3; padding-bottom: 0.5rem;">⏱️ Quanto tempo leva o processo?</h2>
-
-<div style="background: #e8f5f0; padding: 1.5rem; margin: 1.5rem 0; border-radius: 8px;">
-<p style="font-weight: 600; font-size: 1.1rem; margin-bottom: 1rem; color: #1a3a5c;">Na Atlas Healthcare:</p>
-<ul style="margin: 0; line-height: 1.8; font-size: 1.05rem;">
-<li>⏱️ <strong>30-45 minutos</strong> - maioria dos exames em uma única visita</li>
-<li>📊 <strong>24-48 horas</strong> - resultados dos exames laboratoriais</li>
-<li>📄 Formulário I-693 lacrado e entregue prontamente</li>
+<h2>O que acontece se algum exame der positivo?</h2>
+<p>Se algum dos exames laboratoriais der resultado positivo:</p>
+<ul>
+<li><strong>Tuberculose:</strong> Você precisará de tratamento antes que o exame possa ser concluído</li>
+<li><strong>Sífilis:</strong> Tratamento com antibióticos é necessário</li>
+<li><strong>Gonorrhea:</strong> Tratamento com antibióticos é necessário</li>
 </ul>
-</div>
+<p>O Civil Surgeon orientará você sobre os próximos passos e, após o tratamento adequado, o exame poderá ser concluído.</p>
 
-<h2 style="color: #1a3a5c; font-size: 2rem; font-weight: 700; margin-top: 3rem; margin-bottom: 1.5rem; border-bottom: 3px solid #4ECCA3; padding-bottom: 0.5rem;">⚠️ E se algum exame der positivo?</h2>
-
-<p>Se algum dos exames laboratoriais der resultado positivo, não se preocupe. O processo é claro:</p>
-
-<div style="background: #fff; border: 2px solid #e0e0e0; padding: 1rem; margin: 1rem 0; border-radius: 8px;">
-<p style="font-weight: 600; color: #dc3545; margin-bottom: 0.5rem;">🔴 Tuberculose</p>
-<p style="margin: 0;">Você precisará de tratamento antes que o exame possa ser concluído</p>
-</div>
-
-<div style="background: #fff; border: 2px solid #e0e0e0; padding: 1rem; margin: 1rem 0; border-radius: 8px;">
-<p style="font-weight: 600; color: #dc3545; margin-bottom: 0.5rem;">🔴 Sífilis</p>
-<p style="margin: 0;">Tratamento com antibióticos é necessário</p>
-</div>
-
-<div style="background: #fff; border: 2px solid #e0e0e0; padding: 1rem; margin: 1rem 0; border-radius: 8px;">
-<p style="font-weight: 600; color: #dc3545; margin-bottom: 0.5rem;">🔴 Gonorrhea</p>
-<p style="margin: 0;">Tratamento com antibióticos é necessário</p>
-</div>
-
-<div style="background: #d1ecf1; border-left: 4px solid #0c5460; padding: 1rem; margin: 1.5rem 0; border-radius: 8px;">
-<p style="margin: 0;"><strong>👨‍⚕️ Suporte Completo:</strong> O Civil Surgeon orientará você sobre os próximos passos e, após o tratamento adequado, o exame poderá ser concluído.</p>
-</div>
-
-<h2 style="color: #1a3a5c; font-size: 2rem; font-weight: 700; margin-top: 3rem; margin-bottom: 1.5rem; border-bottom: 3px solid #4ECCA3; padding-bottom: 0.5rem;">✅ Dicas para o dia do exame</h2>
-
-<div style="background: #f8f9fa; padding: 1.5rem; margin: 1.5rem 0; border-radius: 8px;">
-<ul style="margin: 0; line-height: 2; font-size: 1.05rem;">
-<li>⏰ Chegue <strong>15 minutos antes</strong> do horário agendado</li>
-<li>📄 Traga <strong>todos os documentos necessários</strong></li>
-<li>👕 Use <strong>roupas confortáveis</strong> que permitam o exame físico</li>
-<li>💬 Esteja preparado para responder perguntas sobre seu histórico médico</li>
-<li>🤰 Não deixe de mencionar se estiver <strong>grávida ou amamentando</strong></li>
+<h2>Dicas para o dia do exame</h2>
+<ul>
+<li>Chegue 15 minutos antes do horário agendado</li>
+<li>Traga todos os documentos necessários</li>
+<li>Use roupas confortáveis que permitam o exame físico</li>
+<li>Esteja preparado para responder perguntas sobre seu histórico médico</li>
+<li>Não deixe de mencionar se estiver grávida ou amamentando</li>
 </ul>
-</div>
 
-<hr style="border: none; border-top: 2px solid #e0e0e0; margin: 3rem 0;">
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 2rem; border-radius: 12px; text-align: center; margin: 2rem 0;">
-<h3 style="color: white; font-size: 1.8rem; margin-bottom: 1rem;">📌 Em Resumo</h3>
-<ul style="list-style: none; padding: 0; margin: 1rem 0; font-size: 1.1rem; line-height: 2;">
-<li>✅ Exame completo realizado por Civil Surgeon autorizado pelo USCIS</li>
-<li>✅ Processo rápido: 30-45 minutos em uma única visita</li>
-<li>✅ Tudo incluído: exame físico, laboratório, vacinas e Formulário I-693</li>
-</ul>
-</div>
-
-<div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1.5rem; margin: 2rem 0; border-radius: 8px;">
-<p style="margin: 0; font-weight: 600; font-size: 1.1rem; color: #856404;">⚠️ IMPORTANTE:</p>
-<p style="margin: 0.5rem 0 0 0; color: #856404;">Um Civil Surgeon autorizado pelo USCIS é a <strong>única opção válida</strong> para este exame. Não arrisque seu processo de imigração com profissionais não autorizados!</p>
-</div>
-
-<div style="background: #4ECCA3; color: white; padding: 2rem; border-radius: 12px; text-align: center; margin: 3rem 0;">
-<h3 style="color: white; font-size: 1.8rem; margin-bottom: 1rem;">🎯 Pronto para agendar seu exame?</h3>
-<p style="font-size: 1.1rem; margin-bottom: 1.5rem;">Nossa equipe fala <strong>Português, Espanhol e Inglês</strong></p>
-<div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-top: 1.5rem;">
-<a href="https://atlashealthcare.janeapp.com/" style="background: white; color: #4ECCA3; padding: 1rem 2rem; border-radius: 50px; text-decoration: none; font-weight: 600; display: inline-block;">📅 Agendar Online</a>
-<a href="tel:8433529353" style="background: #1a3a5c; color: white; padding: 1rem 2rem; border-radius: 50px; text-decoration: none; font-weight: 600; display: inline-block;">📞 (843) 352-9353</a>
-</div>
-</div>
+<h2>Conclusão</h2>
+<p>O exame médico de imigração é um processo simples e direto quando você está bem preparado. Na Atlas Healthcare, nossa equipe experiente e acolhedora está pronta para guiá-lo em cada etapa do processo, garantindo que você tenha uma experiência tranquila e sem estresse.</p>
+<p><strong>Lembre-se:</strong> um Civil Surgeon autorizado pelo USCIS é a única opção válida para este exame. Não arrisque seu processo de imigração com profissionais não autorizados.</p>
       `,
     },
     2: {
       content: `
-<p style="color: #4ECCA3; font-size: 1.1rem; font-weight: 600; margin-bottom: 1.5rem;">Um dos questionamentos mais comuns entre imigrantes que iniciam o processo de obtenção de residência permanente nos Estados Unidos é sobre os custos envolvidos no exame médico de imigração. Neste guia, vamos detalhar todos os valores com total transparência.</p>
+<h2>Introdução</h2>
+<p>Um dos questionamentos mais comuns entre imigrantes que iniciam o processo de obtenção de residência permanente nos Estados Unidos é sobre os custos envolvidos no exame médico de imigração. Neste artigo, vamos detalhar todos os valores, o que está incluído e por que o investimento vale a pena quando feito com um Civil Surgeon autorizado.</p>
 
-<h2 style="color: #1a3a5c; font-size: 2rem; font-weight: 700; margin-top: 3rem; margin-bottom: 1.5rem; border-bottom: 3px solid #4ECCA3; padding-bottom: 0.5rem;">💰 Valores do Exame na Atlas Healthcare</h2>
+<h2>Valores do Exame na Atlas Healthcare</h2>
+<p>Na Atlas Healthcare, acreditamos em transparência total. Nossos valores são:</p>
+<ul>
+<li><strong>Adultos (15 anos ou mais):</strong> $460</li>
+<li><strong>Crianças (até 14 anos):</strong> $380</li>
+</ul>
 
-<div style="background: linear-gradient(135deg, #4ECCA3 0%, #3CB371 100%); color: white; padding: 2rem; border-radius: 12px; text-align: center; margin: 2rem 0;">
-<p style="color: white; font-size: 1.2rem; margin-bottom: 1.5rem; font-weight: 600;">Preços Transparentes - Tudo Incluído</p>
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; max-width: 600px; margin: 0 auto;">
-<div style="background: rgba(255,255,255,0.2); padding: 1.5rem; border-radius: 8px;">
-<p style="color: white; font-size: 0.9rem; margin-bottom: 0.5rem;">Adultos (15+ anos)</p>
-<p style="color: white; font-size: 2.5rem; font-weight: 700; margin: 0;">$460</p>
-</div>
-<div style="background: rgba(255,255,255,0.2); padding: 1.5rem; border-radius: 8px;">
-<p style="color: white; font-size: 0.9rem; margin-bottom: 0.5rem;">Crianças (até 14 anos)</p>
-<p style="color: white; font-size: 2.5rem; font-weight: 700; margin: 0;">$380</p>
-</div>
-</div>
-</div>
+<h2>O que está incluído neste valor?</h2>
+<p>É importante entender que nossos preços são tudo incluído, o que significa que você não terá surpresas ou custos adicionais:</p>
 
-<h2 style="color: #1a3a5c; font-size: 2rem; font-weight: 700; margin-top: 3rem; margin-bottom: 1.5rem; border-bottom: 3px solid #4ECCA3; padding-bottom: 0.5rem;">📦 O que está incluído neste valor?</h2>
-
-<p style="font-size: 1.1rem; margin-bottom: 1.5rem;">Nossos preços são <strong>tudo incluído</strong> - sem surpresas ou custos adicionais:</p>
-
-<div style="background: #e8f5f0; padding: 2rem; margin: 2rem 0; border-radius: 12px; border: 2px solid #4ECCA3;">
-<p style="font-weight: 700; font-size: 1.2rem; color: #1a3a5c; margin-bottom: 1.5rem;">✅ Incluído no Valor:</p>
-<ul style="line-height: 2; font-size: 1.05rem; margin: 0;">
-<li>✓ <strong>Exame físico completo</strong> realizado pelo Dr. Wingo, Civil Surgeon autorizado</li>
-<li>✓ <strong>Todos os exames laboratoriais obrigatórios:</strong>
-  <ul style="margin-left: 2rem; margin-top: 0.5rem;">
-    <li>• QuantiFERON-TB Gold (tuberculose)</li>
-    <li>• Sífilis RPR</li>
-    <li>• Gonorrhea</li>
+<h3>✅ Incluído no valor:</h3>
+<ul>
+<li>Exame físico completo realizado pelo Dr. Wingo, Civil Surgeon autorizado</li>
+<li>Todos os exames laboratoriais obrigatórios:
+  <ul>
+    <li>QuantiFERON-TB Gold (teste de tuberculose)</li>
+    <li>Sífilis RPR</li>
+    <li>Gonorrhea</li>
   </ul>
 </li>
-<li>✓ <strong>Revisão completa</strong> do cartão de vacinação</li>
-<li>✓ <strong>Vacinas necessárias</strong> (quando disponíveis no local)</li>
-<li>✓ <strong>Formulário I-693</strong> preenchido e lacrado</li>
-<li>✓ <strong>Retorno sem custo adicional</strong> se necessário</li>
+<li>Revisão completa do cartão de vacinação</li>
+<li>Administração de vacinas necessárias (quando disponíveis no local)</li>
+<li>Preenchimento e lacração do Formulário I-693</li>
+<li>Retorno sem custo adicional se necessário</li>
 </ul>
-</div>
 
 <h2>Por que o exame tem este custo?</h2>
 
@@ -302,45 +211,15 @@ export const blogArticles = {
 <li>Evite custos adicionais escolhendo um Civil Surgeon confiável de primeira</li>
 </ul>
 
-<hr style="border: none; border-top: 2px solid #e0e0e0; margin: 3rem 0;">
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 2rem; border-radius: 12px; text-align: center; margin: 2rem 0;">
-<h3 style="color: white; font-size: 1.8rem; margin-bottom: 1rem;">📌 Em Resumo</h3>
-<ul style="list-style: none; padding: 0; margin: 1rem 0; font-size: 1.1rem; line-height: 2;">
-<li>✅ Preços transparentes: $460 (adultos) | $380 (crianças)</li>
-<li>✅ Tudo incluído: exame, laboratório, vacinas e I-693</li>
-<li>✅ 100% de aceitação pelo USCIS garantida</li>
-</ul>
-</div>
-
-<div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1.5rem; margin: 2rem 0; border-radius: 8px;">
-<p style="margin: 0; font-weight: 600; font-size: 1.1rem; color: #856404;">⚠️ IMPORTANTE:</p>
-<p style="margin: 0.5rem 0 0 0; color: #856404;">Economizar no exame médico pode custar caro no futuro. Escolha qualidade, experiência e <strong>garantia de aceitação pelo USCIS</strong>.</p>
-</div>
-
-<div style="background: #4ECCA3; color: white; padding: 2rem; border-radius: 12px; text-align: center; margin: 3rem 0;">
-<h3 style="color: white; font-size: 1.8rem; margin-bottom: 1rem;">💳 Formas de Pagamento</h3>
-<p style="font-size: 1.1rem; margin-bottom: 1rem;">Aceitamos: Dinheiro • Cartões de Crédito/Débito • Transferência Bancária</p>
-<div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-top: 1.5rem;">
-<a href="https://atlashealthcare.janeapp.com/" style="background: white; color: #4ECCA3; padding: 1rem 2rem; border-radius: 50px; text-decoration: none; font-weight: 600; display: inline-block;">📅 Agendar Agora</a>
-<a href="tel:8433529353" style="background: #1a3a5c; color: white; padding: 1rem 2rem; border-radius: 50px; text-decoration: none; font-weight: 600; display: inline-block;">📞 (843) 352-9353</a>
-</div>
-</div>
+<h2>Conclusão</h2>
+<p>O exame médico de imigração é um investimento essencial no seu processo de residência permanente. Na Atlas Healthcare, oferecemos transparência total, preços justos e serviço de excelência. Nosso objetivo é fazer com que este passo importante seja o mais tranquilo possível.</p>
+<p><strong>Lembre-se:</strong> economizar no exame médico pode custar caro no futuro. Escolha qualidade, experiência e garantia de aceitação pelo USCIS.</p>
       `,
     },
     3: {
       content: `
-<p style="color: #4ECCA3; font-size: 1.1rem; font-weight: 600; margin-bottom: 1.5rem;">A preparação adequada é a chave para um exame médico de imigração tranquilo e eficiente. Este checklist completo garante que você não esqueça nada importante no dia do seu exame.</p>
-
-<div style="background: #f8f9fa; border-left: 4px solid #4ECCA3; padding: 1.5rem; margin: 2rem 0; border-radius: 8px;">
-<p style="margin: 0; font-weight: 600;">📌 Use este guia para:</p>
-<ul style="margin-top: 0.5rem; margin-bottom: 0;">
-<li>Verificar todos os documentos necessários</li>
-<li>Se preparar adequadamente para o dia do exame</li>
-<li>Evitar esquecimentos e reagendamentos</li>
-<li>Garantir um processo rápido e sem complicações</li>
-</ul>
-</div>
+<h2>Introdução</h2>
+<p>A preparação adequada é a chave para um exame médico de imigração tranquilo e eficiente. Muitos pacientes chegam à clínica preocupados se trouxeram todos os documentos necessários. Por isso, criamos este guia completo para ajudá-lo a se preparar adequadamente.</p>
 
 <h2>Documentos Essenciais (Obrigatórios)</h2>
 
@@ -448,48 +327,22 @@ export const blogArticles = {
 <li>Brinquedos ou itens de conforto podem ajudar crianças pequenas</li>
 </ul>
 
-<h2 style="color: #1a3a5c; font-size: 2rem; font-weight: 700; margin-top: 3rem; margin-bottom: 1.5rem; border-bottom: 3px solid #4ECCA3; padding-bottom: 0.5rem;">✅ Checklist Final para Imprimir</h2>
-
-<div style="background: #fff; border: 3px solid #4ECCA3; padding: 2rem; margin: 2rem 0; border-radius: 12px;">
-<p style="font-weight: 700; font-size: 1.2rem; color: #1a3a5c; margin-bottom: 1.5rem; text-align: center;">📋 Use esta lista antes de sair de casa:</p>
-<div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px;">
-<ul style="line-height: 2.5; font-size: 1.05rem; margin: 0; list-style: none; padding: 0;">
-<li>☐ <strong>Passaporte</strong> ou documento de identidade válido</li>
-<li>☐ <strong>Cartão de vacinação</strong> (se disponível)</li>
-<li>☐ <strong>Lista de medicamentos</strong></li>
-<li>☐ <strong>EAD</strong> (se aplicável)</li>
-<li>☐ <strong>Cartão de seguro saúde</strong></li>
-<li>☐ <strong>Exame I-693 anterior</strong> (se tiver)</li>
-<li>☐ <strong>Roupas confortáveis</strong></li>
-<li>☐ <strong>Água para se hidratar</strong></li>
+<h2>Checklist Final para Imprimir</h2>
+<p>Use esta lista antes de sair de casa:</p>
+<ul>
+<li>☐ Passaporte ou documento de identidade válido</li>
+<li>☐ Cartão de vacinação (se disponível)</li>
+<li>☐ Lista de medicamentos</li>
+<li>☐ EAD (se aplicável)</li>
+<li>☐ Cartão de seguro saúde</li>
+<li>☐ Exame I-693 anterior (se tiver)</li>
+<li>☐ Roupas confortáveis</li>
+<li>☐ Água para se hidratar</li>
 </ul>
-</div>
-</div>
 
-<hr style="border: none; border-top: 2px solid #e0e0e0; margin: 3rem 0;">
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 2rem; border-radius: 12px; text-align: center; margin: 2rem 0;">
-<h3 style="color: white; font-size: 1.8rem; margin-bottom: 1rem;">📌 Em Resumo</h3>
-<ul style="list-style: none; padding: 0; margin: 1rem 0; font-size: 1.1rem; line-height: 2;">
-<li>✅ Documentos essenciais: passaporte, vacinas e lista de medicamentos</li>
-<li>✅ Chegue 15 minutos antes do horário</li>
-<li>✅ Vista roupas confortáveis e hidrate-se bem</li>
-</ul>
-</div>
-
-<div style="background: #d1ecf1; border-left: 4px solid #0c5460; padding: 1.5rem; margin: 2rem 0; border-radius: 8px;">
-<p style="margin: 0; font-weight: 600; color: #0c5460;">💡 Dica Final:</p>
-<p style="margin: 0.5rem 0 0 0; color: #0c5460;">Tire uma foto de todos os seus documentos importantes e guarde no celular como backup, caso algo seja esquecido.</p>
-</div>
-
-<div style="background: #4ECCA3; color: white; padding: 2rem; border-radius: 12px; text-align: center; margin: 3rem 0;">
-<h3 style="color: white; font-size: 1.8rem; margin-bottom: 1rem;">📱 Pronto para agendar?</h3>
-<p style="font-size: 1.1rem; margin-bottom: 1.5rem;">Nossa equipe está pronta para ajudá-lo</p>
-<div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-top: 1.5rem;">
-<a href="https://atlashealthcare.janeapp.com/" style="background: white; color: #4ECCA3; padding: 1rem 2rem; border-radius: 50px; text-decoration: none; font-weight: 600; display: inline-block;">📅 Agendar Online</a>
-<a href="tel:8433529353" style="background: #1a3a5c; color: white; padding: 1rem 2rem; border-radius: 50px; text-decoration: none; font-weight: 600; display: inline-block;">📞 (843) 352-9353</a>
-</div>
-</div>
+<h2>Conclusão</h2>
+<p>Estar bem preparado é metade do caminho para um exame tranquilo. Com este checklist, você pode ter certeza de que trouxe tudo o que é necessário. Na Atlas Healthcare, nossa equipe está pronta para ajudar em caso de dúvidas ou se você precisar de alguma orientação adicional.</p>
+<p><strong>Dica final:</strong> Tire uma foto de todos os seus documentos importantes e guarde no celular como backup, caso algo seja esquecido.</p>
       `,
     },
     4: {
