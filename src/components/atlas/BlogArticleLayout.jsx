@@ -28,8 +28,12 @@ export function BlogArticleLayout({ children, articleId }) {
       <Header />
       
       {/* Article Header */}
-      <section className="relative pt-24 sm:pt-32 pb-12 bg-gradient-to-br from-[#1a3a5c] to-[#1e4a6e]">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+      <section className="relative pt-24 sm:pt-32 pb-12 bg-gradient-to-br from-[#0a0a0a] via-[#1a1a1a] to-[#0a0a0a]">
+        <div className="absolute inset-0 overflow-hidden pointer-events-none opacity-20">
+          <div className="absolute top-0 left-1/4 w-64 h-64 bg-[#4ECCA3] rounded-full blur-3xl" />
+          <div className="absolute bottom-0 right-1/4 w-64 h-64 bg-[#1a3a5c] rounded-full blur-3xl" />
+        </div>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <Link
             to={createPageUrl('Blog')}
             className="inline-flex items-center gap-2 text-white/80 hover:text-white mb-6 transition-colors"
@@ -42,17 +46,127 @@ export function BlogArticleLayout({ children, articleId }) {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
           >
-            <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-white mb-4 leading-tight">
+            <h1 className="text-3xl sm:text-4xl md:text-5xl font-light text-white mb-6 leading-tight" style={{ letterSpacing: '-0.5px' }}>
               {currentArticle?.title}
             </h1>
+            <div className="w-16 h-0.5 bg-[#4ECCA3] mb-6" />
+            <p className="text-sm text-gray-400 uppercase tracking-wider">
+              Guia Completo • Atlas Healthcare
+            </p>
           </motion.div>
         </div>
       </section>
 
       {/* Article Content */}
-      <article className="py-12 bg-white">
+      <article className="py-12 bg-[#0a0a0a]">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="prose prose-lg max-w-none">
+          <div className="article-content prose prose-lg prose-invert max-w-none">
+            <style jsx global>{`
+              .article-content {
+                color: #d0d0d0;
+                line-height: 1.7;
+              }
+              
+              .article-content h2 {
+                color: #ffffff;
+                font-size: 28px;
+                font-weight: 400;
+                margin-top: 48px;
+                margin-bottom: 24px;
+                padding-bottom: 12px;
+                border-bottom: 1px solid #333333;
+              }
+              
+              .article-content h3 {
+                color: #cccccc;
+                font-size: 22px;
+                font-weight: 500;
+                margin-top: 32px;
+                margin-bottom: 16px;
+              }
+              
+              .article-content h4 {
+                color: #aaaaaa;
+                font-size: 18px;
+                font-weight: 600;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+                margin-top: 24px;
+                margin-bottom: 12px;
+              }
+              
+              .article-content p {
+                color: #d0d0d0;
+                font-size: 17px;
+                line-height: 1.7;
+                margin-bottom: 24px;
+              }
+              
+              .article-content strong {
+                color: #ffffff;
+                font-weight: 600;
+              }
+              
+              .article-content ul, .article-content ol {
+                margin: 24px 0;
+                padding-left: 32px;
+              }
+              
+              .article-content li {
+                color: #d0d0d0;
+                margin-bottom: 12px;
+                line-height: 1.6;
+              }
+              
+              .article-content li::marker {
+                color: #4ECCA3;
+              }
+              
+              .article-content blockquote {
+                border-left: 3px solid #ffffff;
+                background: #111111;
+                padding: 20px 24px;
+                margin: 32px 0;
+                border-radius: 4px;
+              }
+              
+              .article-content table {
+                width: 100%;
+                border-collapse: collapse;
+                margin: 32px 0;
+                background: #0f0f0f;
+              }
+              
+              .article-content th {
+                background: #1a1a1a;
+                color: #ffffff;
+                padding: 16px;
+                text-align: left;
+                border: 1px solid #2a2a2a;
+                font-weight: 600;
+              }
+              
+              .article-content td {
+                padding: 16px;
+                border: 1px solid #2a2a2a;
+                color: #d0d0d0;
+              }
+              
+              .article-content tr:nth-child(even) {
+                background: #151515;
+              }
+              
+              .article-content a {
+                color: #4ECCA3;
+                text-decoration: none;
+                border-bottom: 1px solid transparent;
+                transition: border-color 0.2s;
+              }
+              
+              .article-content a:hover {
+                border-bottom-color: #4ECCA3;
+              }
+            `}</style>
             {children}
           </div>
 
@@ -60,7 +174,7 @@ export function BlogArticleLayout({ children, articleId }) {
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
-            className="mt-12 p-8 bg-gradient-to-br from-[#4ECCA3]/10 to-[#3CB371]/10 rounded-2xl border-2 border-[#4ECCA3]/20"
+            className="mt-12 p-8 bg-[#111111] rounded-xl border border-[#333333]"
           >
             <h3 className="text-2xl font-bold text-gray-900 mb-3">
               {t.language === 'pt' && 'Pronto para agendar seu exame?'}
@@ -76,7 +190,8 @@ export function BlogArticleLayout({ children, articleId }) {
               href={BOOKING_URL}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 px-8 py-4 bg-[#4ECCA3] hover:bg-[#3CB371] text-white font-semibold rounded-full transition-all shadow-lg"
+              className="inline-flex items-center gap-2 px-8 py-4 bg-white hover:bg-gray-200 text-black font-semibold uppercase tracking-wider text-sm transition-all"
+              style={{ borderRadius: '4px' }}
             >
               <Calendar className="w-5 h-5" />
               <span>{t.nav.book}</span>
@@ -87,7 +202,7 @@ export function BlogArticleLayout({ children, articleId }) {
 
       {/* Related Articles */}
       {relatedArticles.length > 0 && (
-        <section className="py-12 bg-gray-50">
+        <section className="py-12 bg-black border-t border-[#222222]">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 className="text-3xl font-bold text-gray-900 mb-8">
               {t.blog.relatedArticles}
@@ -99,7 +214,7 @@ export function BlogArticleLayout({ children, articleId }) {
                   to={createPageUrl(`BlogArticle${article.id}`)}
                   className="block group"
                 >
-                  <div className="bg-white rounded-xl shadow-md hover:shadow-lg transition-all p-6 h-full border border-gray-100 hover:border-[#4ECCA3]/30">
+                  <div className="bg-[#0f0f0f] rounded-xl border border-[#222222] hover:border-[#4ECCA3]/30 transition-all p-6 h-full">
                     <div className="w-12 h-12 bg-[#4ECCA3]/10 rounded-lg flex items-center justify-center mb-4">
                       <BookOpen className="w-6 h-6 text-[#4ECCA3]" />
                     </div>
