@@ -27,6 +27,7 @@ export default function Header() {
     { label: t.nav.exam, href: createPageUrl('ImmigrationExam') },
     { label: t.nav.expect, href: createPageUrl('WhatToExpect') },
     { label: t.nav.faq, href: createPageUrl('FAQ') },
+    { label: t.nav.blog, href: createPageUrl('Blog') },
     { label: t.nav.about, href: createPageUrl('AboutUs') },
     { label: t.nav.contact, href: createPageUrl('Contact') },
   ];

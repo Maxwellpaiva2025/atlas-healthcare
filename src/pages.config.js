@@ -53,6 +53,7 @@ import FAQ from './pages/FAQ';
 import Home from './pages/Home';
 import ImmigrationExam from './pages/ImmigrationExam';
 import WhatToExpect from './pages/WhatToExpect';
+import Blog from './pages/Blog';
 import __Layout from './Layout.jsx';
 
 
@@ -63,6 +64,7 @@ export const PAGES = {
     "Home": Home,
     "ImmigrationExam": ImmigrationExam,
     "WhatToExpect": WhatToExpect,
+    "Blog": Blog,
 }
 
 export const pagesConfig = {
