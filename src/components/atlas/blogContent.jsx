@@ -1817,13 +1817,780 @@ export const blogArticles = {
     },
   },
   en: {
-    // English versions of all 7 articles - Similar structure with translated content
-    1: { content: `<h2>Introduction</h2><p>The immigration medical exam is one of the most important steps in the process of obtaining permanent residence in the United States...</p>` },
-    2: { content: `<h2>Introduction</h2><p>One of the most common questions among immigrants starting the process of obtaining permanent residence in the United States...</p>` },
-    3: { content: `<h2>Introduction</h2><p>Proper preparation is the key to a smooth and efficient immigration medical exam...</p>` },
-    4: { content: `<h2>Introduction</h2><p>Vaccination is one of the most important components of the immigration medical exam...</p>` },
-    5: { content: `<h2>Introduction</h2><p>Pregnancy is a special time that requires additional care in all areas of health...</p>` },
-    6: { content: `<h2>Introduction</h2><p>At Atlas Healthcare, we understand that the immigration process can generate urgency and questions...</p>` },
-    7: { content: `<h2>Introduction</h2><p>When starting the immigration medical exam process, many people don't fully understand the importance...</p>` },
+    1: {
+      content: `
+<h2>Introduction</h2>
+<p>The immigration medical exam is one of the most important steps in the process of obtaining permanent residence in the United States. Conducted by a USCIS-authorized Civil Surgeon (U.S. Citizenship and Immigration Services), this exam aims to protect public health and ensure that immigrants do not pose health risks to the American population.</p>
+<p>In this article, we will explore in detail everything you need to know about the immigration medical exam, from requirements to what to expect on your appointment day.</p>
+
+<h2>What is a Civil Surgeon?</h2>
+<p>A Civil Surgeon is a licensed physician who has received special authorization from USCIS to perform immigration medical exams. Not every doctor can perform this exam - only those who have gone through a rigorous designation process. Dr. Wingo, from Atlas Healthcare, is an authorized Civil Surgeon with years of experience, having performed over 10,000 immigration exams.</p>
+
+<h2>What is Included in the Immigration Medical Exam?</h2>
+<p>The immigration medical exam is comprehensive and includes several mandatory components:</p>
+
+<h3>1. Complete Physical Examination</h3>
+<p>The physician will perform a complete physical evaluation, including:</p>
+<ul>
+<li>Blood pressure check</li>
+<li>Heart and lung auscultation</li>
+<li>Abdominal examination</li>
+<li>General health assessment</li>
+<li>Check for signs of contagious diseases</li>
+</ul>
+
+<h3>2. Medical History Review</h3>
+<p>The Civil Surgeon will review your complete medical history, including:</p>
+<ul>
+<li>Previous illnesses</li>
+<li>Surgeries performed</li>
+<li>Chronic conditions</li>
+<li>Current medications</li>
+<li>Hospitalizations</li>
+</ul>
+
+<h3>3. Mandatory Laboratory Tests</h3>
+<p>USCIS requires a series of laboratory tests:</p>
+
+<p><strong>QuantiFERON-TB Gold (Tuberculosis Test)</strong></p>
+<ul>
+<li>Detects Mycobacterium tuberculosis infection</li>
+<li>A more modern and accurate blood test than the traditional skin test</li>
+<li>Results typically available in 24-48 hours</li>
+</ul>
+
+<p><strong>Syphilis RPR (Rapid Plasma Reagin)</strong></p>
+<ul>
+<li>Syphilis screening</li>
+<li>Simple and quick blood test</li>
+<li>If positive, requires confirmation with additional tests</li>
+</ul>
+
+<p><strong>Gonorrhea</strong></p>
+<ul>
+<li>Test to detect Neisseria gonorrhoeae infection</li>
+<li>Can be performed through urine test or swab</li>
+<li>Important for public health</li>
+</ul>
+
+<h3>4. Vaccination Card Review</h3>
+<p>USCIS requires immigrants to be vaccinated against certain diseases. The Civil Surgeon will review your vaccination card to verify if you have the mandatory vaccines:</p>
+<ul>
+<li>Hepatitis A and B</li>
+<li>Influenza (flu)</li>
+<li>Varicella (chickenpox)</li>
+<li>MMR (measles, mumps, and rubella)</li>
+<li>Tdap (tetanus, diphtheria, and pertussis)</li>
+<li>Pneumococcal</li>
+<li>Meningococcal</li>
+<li>Rotavirus (for children)</li>
+</ul>
+<p>If you don't have proof of vaccination or need additional vaccines, they can be administered on-site.</p>
+
+<h3>5. Form I-693</h3>
+<p>After completing all exams, the Civil Surgeon will complete and seal Form I-693 (Report of Medical Examination and Vaccination Record). This form is the official document you will submit to USCIS as part of your immigration process.</p>
+
+<h2>How long does the process take?</h2>
+<p>At Atlas Healthcare, most exams are completed in a single 30-45 minute visit. Laboratory test results are typically available in 24-48 hours, and Form I-693 is sealed and delivered to the patient promptly.</p>
+
+<h2>What happens if a test is positive?</h2>
+<p>If any laboratory test comes back positive:</p>
+<ul>
+<li><strong>Tuberculosis:</strong> You will need treatment before the exam can be completed</li>
+<li><strong>Syphilis:</strong> Antibiotic treatment is required</li>
+<li><strong>Gonorrhea:</strong> Antibiotic treatment is required</li>
+</ul>
+<p>The Civil Surgeon will guide you on next steps and, after appropriate treatment, the exam can be completed.</p>
+
+<h2>Tips for exam day</h2>
+<ul>
+<li>Arrive 15 minutes before your scheduled time</li>
+<li>Bring all necessary documents</li>
+<li>Wear comfortable clothing that allows for physical examination</li>
+<li>Be prepared to answer questions about your medical history</li>
+<li>Be sure to mention if you are pregnant or breastfeeding</li>
+</ul>
+
+<h2>Conclusion</h2>
+<p>The immigration medical exam is a simple and straightforward process when you are well prepared. At Atlas Healthcare, our experienced and welcoming team is ready to guide you through every step of the process, ensuring you have a smooth and stress-free experience.</p>
+<p><strong>Remember:</strong> a USCIS-authorized Civil Surgeon is the only valid option for this exam. Don't risk your immigration process with unauthorized professionals.</p>
+      `,
+    },
+    2: {
+      content: `
+<h2>Introduction</h2>
+<p>One of the most common questions among immigrants starting the process of obtaining permanent residence in the United States is about the costs involved in the immigration medical exam. In this article, we will detail all the costs, what is included, and why the investment is worthwhile when done with an authorized Civil Surgeon.</p>
+
+<h2>Exam Costs at Atlas Healthcare</h2>
+<p>At Atlas Healthcare, we believe in total transparency. Our costs are:</p>
+<ul>
+<li><strong>Adults (15 years or older):</strong> $460</li>
+<li><strong>Children (up to 14 years):</strong> $380</li>
+</ul>
+
+<h2>What is included in this cost?</h2>
+<p>It's important to understand that our prices are all-inclusive, meaning you won't have surprises or additional costs:</p>
+
+<h3>✅ Included in the cost:</h3>
+<ul>
+<li>Complete physical exam performed by Dr. Wingo, authorized Civil Surgeon</li>
+<li>All mandatory laboratory tests:
+  <ul>
+    <li>QuantiFERON-TB Gold (tuberculosis test)</li>
+    <li>Syphilis RPR</li>
+    <li>Gonorrhea</li>
+  </ul>
+</li>
+<li>Complete vaccination card review</li>
+<li>Administration of necessary vaccines (when available on-site)</li>
+<li>Completion and sealing of Form I-693</li>
+<li>Return visit at no additional cost if necessary</li>
+</ul>
+
+<h2>Why does the exam have this cost?</h2>
+
+<h3>Quality and Safety</h3>
+<p>The immigration medical exam is not a routine check-up. It involves:</p>
+<ul>
+<li>Specialized and high-precision laboratory tests</li>
+<li>Evaluation by a physician with special USCIS certification</li>
+<li>Rigorous documentation that will be analyzed by the American government</li>
+<li>Legal responsibility of the Civil Surgeon</li>
+</ul>
+
+<h3>State-of-the-Art Laboratory Tests</h3>
+<p>The tests required by USCIS are specific and performed in accredited laboratories:</p>
+<ul>
+<li>QuantiFERON-TB Gold: Advanced technology for tuberculosis detection</li>
+<li>STD Testing: Syphilis and gonorrhea screening according to federal requirements</li>
+</ul>
+
+<h3>One-Visit Convenience</h3>
+<p>At Atlas Healthcare, most patients complete the entire process in a single visit. This means:</p>
+<ul>
+<li>Time savings</li>
+<li>Fewer trips</li>
+<li>Faster results</li>
+<li>Accelerated immigration process</li>
+</ul>
+
+<h2>Does health insurance cover the exam?</h2>
+<p>It's important to clarify that health insurance <strong>DOES NOT</strong> cover the cost of the immigration medical exam. This is because:</p>
+<ul>
+<li>The exam is considered an immigration requirement, not necessary medical care</li>
+<li>It's a USCIS requirement, not a medical recommendation</li>
+<li>The process involves specific documentation for immigration purposes</li>
+</ul>
+
+<h3>However, good news!</h3>
+<p>Your health insurance may cover necessary vaccines. We recommend:</p>
+<ul>
+<li>Checking with your insurer which vaccines are covered</li>
+<li>Bringing your insurance card to the appointment</li>
+<li>Our team can help verify coverage</li>
+</ul>
+
+<h2>Cost Comparison: Why not save on the exam?</h2>
+<p>Some people consider looking for cheaper options, but it's essential to understand the risks:</p>
+
+<h3>❌ Risks of unauthorized options:</h3>
+<ul>
+<li>Form I-693 may be rejected by USCIS</li>
+<li>Need to redo the entire process</li>
+<li>Loss of time and money</li>
+<li>Delay in the immigration process</li>
+<li>Possible legal complications</li>
+</ul>
+
+<h3>✅ Benefits of an authorized Civil Surgeon:</h3>
+<ul>
+<li>100% USCIS acceptance</li>
+<li>Correct and complete documentation</li>
+<li>Smooth process without complications</li>
+<li>Continuous support</li>
+<li>Quality guarantee</li>
+</ul>
+
+<h2>Payment Methods</h2>
+<p>At Atlas Healthcare, we accept:</p>
+<ul>
+<li>Cash</li>
+<li>Credit and debit cards</li>
+<li>Bank transfer</li>
+</ul>
+<p>We do not accept checks for this service.</p>
+
+<h2>Conclusion</h2>
+<p>The immigration medical exam is an essential investment in your permanent residence process. At Atlas Healthcare, we offer total transparency, fair prices, and excellent service. Our goal is to make this important step as smooth as possible.</p>
+<p><strong>Remember:</strong> saving on the medical exam can be costly in the future. Choose quality, experience, and guaranteed USCIS acceptance.</p>
+      `,
+    },
+    3: {
+      content: `
+<h2>Introduction</h2>
+<p>Proper preparation is the key to a smooth and efficient immigration medical exam. Many patients arrive at the clinic worried whether they brought all the necessary documents. That's why we created this complete guide to help you prepare properly.</p>
+
+<h2>Essential Documents (Mandatory)</h2>
+
+<h3>1. Passport or Valid ID</h3>
+<ul>
+<li>Must be an official photo document</li>
+<li>Can be passport from your country of origin</li>
+<li>State ID or American driver's license are also accepted</li>
+<li>Make sure it's not expired</li>
+</ul>
+
+<h3>2. Vaccination Card (If Available)</h3>
+<ul>
+<li>Bring your original vaccination card</li>
+<li>If it's in another language, don't worry - our team can help</li>
+<li>If you don't have one, it's not a problem - Dr. Wingo will determine which vaccines you need</li>
+<li>Previous vaccines can prevent unnecessary revaccination</li>
+</ul>
+
+<h3>3. Daily Medication List</h3>
+<p>Prepare a complete list including:</p>
+<ul>
+<li>Name of each medication</li>
+<li>Dosage</li>
+<li>Frequency of use</li>
+<li>Reason for prescription</li>
+<li>Name of the prescribing doctor</li>
+</ul>
+<p><strong>Tip:</strong> Bring medication bottles or an updated prescription.</p>
+
+<h2>Additional Documents (When Applicable)</h2>
+
+<h3>4. Work Authorization (EAD)</h3>
+<p>If you have EAD, bring:</p>
+<ul>
+<li>The original document</li>
+<li>A copy (if possible)</li>
+<li>This helps verify your current status</li>
+</ul>
+
+<h3>5. Health Insurance Card</h3>
+<p>Although insurance doesn't cover the immigration exam:</p>
+<ul>
+<li>It may cover necessary vaccines</li>
+<li>Helps verify your medical history</li>
+<li>Our team can check available coverage</li>
+</ul>
+
+<h2>Preparation for Exam Day</h2>
+
+<h3>What to wear?</h3>
+<ul>
+<li>Comfortable clothing that's easy to remove if necessary</li>
+<li>Avoid very tight clothing</li>
+<li>Comfortable shoes</li>
+<li>Avoid excessive jewelry</li>
+</ul>
+
+<h3>Food and Hydration</h3>
+<ul>
+<li>Fasting is not necessary for most tests</li>
+<li>Hydrate well - this makes blood draw easier</li>
+<li>Avoid alcohol 24 hours before the exam</li>
+<li>Light breakfast is recommended</li>
+</ul>
+
+<h2>Special Cases</h2>
+
+<h3>If you are pregnant</h3>
+<ul>
+<li>Inform us in advance when scheduling</li>
+<li>Certain vaccines may be postponed for safety</li>
+<li>Physical exam will be adapted to your condition</li>
+<li>Bring recent prenatal exams if available</li>
+</ul>
+
+<h2>Final Checklist to Print</h2>
+<p>Use this list before leaving home:</p>
+<ul>
+<li>☐ Passport or valid ID</li>
+<li>☐ Vaccination card (if available)</li>
+<li>☐ Medication list</li>
+<li>☐ EAD (if applicable)</li>
+<li>☐ Health insurance card</li>
+<li>☐ Previous I-693 exam (if any)</li>
+<li>☐ Comfortable clothing</li>
+<li>☐ Water to stay hydrated</li>
+</ul>
+
+<h2>Conclusion</h2>
+<p>Being well prepared is half the way to a smooth exam. With this checklist, you can be sure you brought everything necessary. At Atlas Healthcare, our team is ready to help if you have questions or need additional guidance.</p>
+<p><strong>Final tip:</strong> Take a photo of all your important documents and save it on your phone as a backup, in case something is forgotten.</p>
+      `,
+    },
+    4: {
+      content: `
+<h2>Introduction</h2>
+<p>Vaccination is one of the most important components of the immigration medical exam. USCIS requires immigrants to be protected against certain diseases to protect public health. In this article, we will explore in detail which vaccines are mandatory, how to verify if you are already protected, and what to do if you don't have proof.</p>
+
+<h2>Why Are Vaccines Important?</h2>
+<p>The American government requires vaccination for several reasons:</p>
+<ul>
+<li><strong>Public health protection:</strong> Prevent outbreaks of contagious diseases</li>
+<li><strong>Individual health:</strong> Protect you and your family</li>
+<li><strong>Legal compliance:</strong> Mandatory requirement for permanent residence</li>
+<li><strong>Complication prevention:</strong> Avoid diseases that can be serious</li>
+</ul>
+
+<h2>List of Mandatory Vaccines for Immigration</h2>
+
+<h3>Vaccines for Adults (15 years or older)</h3>
+
+<h4>1. Hepatitis A and B</h4>
+<ul>
+<li>Hepatitis A: Transmitted through contaminated food and water</li>
+<li>Hepatitis B: Transmitted through blood and body fluids</li>
+<li>Schedule: Hepatitis B typically requires 3 doses</li>
+<li>Importance: Protection against serious liver diseases</li>
+</ul>
+
+<h4>2. Influenza (Flu)</h4>
+<ul>
+<li>Annual update needed</li>
+<li>Important during flu season (typically October to March)</li>
+<li>Protects against serious complications</li>
+</ul>
+
+<h4>3. Varicella (Chickenpox)</h4>
+<ul>
+<li>Mandatory if you never had chickenpox</li>
+<li>Two types of proof accepted:
+  <ul>
+    <li>Documented medical history of chickenpox</li>
+    <li>Two doses of the vaccine</li>
+  </ul>
+</li>
+<li>Important: Unvaccinated adults have higher risk of complications</li>
+</ul>
+
+<h4>4. MMR (Measles, Mumps, and Rubella)</h4>
+<ul>
+<li>One of the most important vaccines</li>
+<li>Two doses needed (or proof of immunity)</li>
+<li>Measles: Highly contagious and potentially serious disease</li>
+<li>Rubella: Especially dangerous for pregnant women</li>
+</ul>
+
+<h4>5. Tdap (Tetanus, Diphtheria, and Pertussis)</h4>
+<ul>
+<li>Booster every 10 years</li>
+<li>Tetanus: Bacteria found in soil</li>
+<li>Pertussis: Serious respiratory disease, especially for babies</li>
+<li>Important: Even if you had DTP in childhood, booster is needed</li>
+</ul>
+
+<h2>How to Verify Your Vaccines</h2>
+
+<h3>1. Official Vaccination Card</h3>
+<ul>
+<li>Document from your country of origin</li>
+<li>Vaccination records from private clinics</li>
+<li>Military vaccination history (if applicable)</li>
+</ul>
+
+<h3>2. Blood Titer Tests</h3>
+<p>If you don't have proof of vaccination:</p>
+<ul>
+<li>Blood tests that measure antibodies</li>
+<li>Prove immunity against specific diseases</li>
+<li>Can replace revaccination</li>
+<li>Available at Atlas Healthcare</li>
+</ul>
+
+<h2>What if I don't have proof of vaccination?</h2>
+<p>Don't worry! This is a very common situation. Dr. Wingo will:</p>
+<ul>
+<li>Assess your individual situation</li>
+<li>Determine which vaccines are needed</li>
+<li>Offer titer tests when appropriate</li>
+<li>Administer vaccines available on-site</li>
+<li>Guide you on additional vaccines that may be needed</li>
+</ul>
+
+<h2>Vaccines Available On-Site</h2>
+<p>At Atlas Healthcare, we offer most necessary vaccines:</p>
+<ul>
+<li>✅ Influenza (flu)</li>
+<li>✅ Tdap</li>
+<li>✅ MMR</li>
+<li>✅ Varicella</li>
+<li>✅ Hepatitis A and B</li>
+<li>✅ Pneumococcal</li>
+<li>✅ Others as needed</li>
+</ul>
+
+<h2>Vaccine Side Effects</h2>
+<p>Vaccines are safe but may cause mild side effects:</p>
+<ul>
+<li>Pain at injection site</li>
+<li>Redness or swelling</li>
+<li>Low-grade fever</li>
+<li>Mild fatigue</li>
+</ul>
+<p>These symptoms typically disappear in 1-2 days.</p>
+
+<h2>Conclusion</h2>
+<p>Vaccination is an essential and beneficial step in the immigration process. Besides being a legal requirement, you will be protecting your health and your family's. At Atlas Healthcare, we make this process simple and hassle-free.</p>
+<p><strong>Remember:</strong> Even if you don't have proof of vaccination, we can help determine exactly what you need and administer necessary vaccines on the same day as the exam.</p>
+      `,
+    },
+    5: {
+      content: `
+<h2>Introduction</h2>
+<p>Pregnancy is a special time that requires additional care in all areas of health, including the immigration medical exam. Many pregnant women have doubts about the safety of the process and how it may affect their pregnancy. In this article, we will clarify all issues related to the immigration medical exam during pregnancy.</p>
+
+<h2>Can I do the immigration medical exam while pregnant?</h2>
+<p><strong>Yes!</strong> It is perfectly safe to perform the immigration medical exam during pregnancy. In fact, many women complete this process while pregnant. The important thing is to inform the Civil Surgeon about your condition so necessary adaptations can be made.</p>
+
+<h2>Adaptations for Pregnant Women</h2>
+
+<h3>1. Modified Physical Exam</h3>
+<p>The physical exam will be performed in a way that ensures your comfort and safety:</p>
+<ul>
+<li>Comfortable positions for pregnant women</li>
+<li>Avoid excessive abdominal pressure</li>
+<li>Blood pressure monitoring (important in pregnancy)</li>
+<li>Evaluation adapted to gestational stage</li>
+</ul>
+
+<h3>2. Vaccines and Pregnancy</h3>
+<p>This is the area that requires most attention:</p>
+
+<h4>✅ Vaccines Safe During Pregnancy:</h4>
+<ul>
+<li><strong>Influenza (flu):</strong> Recommended for all pregnant women</li>
+<li><strong>Tdap (tetanus, diphtheria, pertussis):</strong> Recommended between 27 and 36 weeks</li>
+</ul>
+
+<h4>⚠️ Vaccines Postponed:</h4>
+<ul>
+<li><strong>MMR (measles, mumps, rubella):</strong> Postponed until after delivery</li>
+<li><strong>Varicella:</strong> Postponed until after delivery</li>
+<li><strong>Hepatitis A:</strong> Generally postponed</li>
+</ul>
+
+<h3>3. Laboratory Tests</h3>
+<p>Most laboratory tests are safe:</p>
+<ul>
+<li><strong>QuantiFERON-TB Gold:</strong> Safe during pregnancy</li>
+<li><strong>Syphilis RPR:</strong> Important for mother and baby's health</li>
+<li><strong>Gonorrhea:</strong> Safe and necessary</li>
+</ul>
+
+<h2>When to Inform About Pregnancy?</h2>
+
+<h3>When Scheduling</h3>
+<p>We strongly recommend informing about your pregnancy when scheduling. This allows:</p>
+<ul>
+<li>Reserve additional time if necessary</li>
+<li>Prepare specific adaptations</li>
+<li>Schedule vaccines appropriate to your situation</li>
+<li>Have information about your gestational stage</li>
+</ul>
+
+<h2>Benefits of Doing the Exam During Pregnancy</h2>
+
+<h3>1. Convenience</h3>
+<ul>
+<li>Resolves an important stage before baby's birth</li>
+<li>Avoids worries during first months with new baby</li>
+<li>Allows focus on immigration process without interruptions</li>
+</ul>
+
+<h3>2. Tdap Vaccination</h3>
+<p>The Tdap vaccine is especially important in pregnancy because:</p>
+<ul>
+<li>Protects you against pertussis</li>
+<li>Passes antibodies to baby, protecting them in first months</li>
+<li>Recommended by CDC in each pregnancy</li>
+</ul>
+
+<h2>Baby's Safety</h2>
+
+<h3>Does the exam harm the baby?</h3>
+<p><strong>No.</strong> The immigration medical exam does not pose risk to the baby:</p>
+<ul>
+<li>Physical exam is adapted for pregnant women</li>
+<li>Laboratory tests are safe</li>
+<li>Safe vaccines are administered</li>
+<li>Unsafe vaccines are postponed</li>
+</ul>
+
+<h2>Timing Planning</h2>
+
+<h3>Best Time for Exam</h3>
+
+<h4>First Trimester (1-12 weeks)</h4>
+<ul>
+<li>✅ You may be feeling well</li>
+<li>⚠️ Some vaccines will be postponed</li>
+<li>⚠️ May have nausea that makes visit difficult</li>
+</ul>
+
+<h4>Second Trimester (13-27 weeks)</h4>
+<ul>
+<li>✅ Generally the most comfortable period</li>
+<li>✅ Nausea typically improved</li>
+<li>✅ Excellent time for Tdap</li>
+</ul>
+
+<h4>Third Trimester (28-40 weeks)</h4>
+<ul>
+<li>✅ Tdap can be administered (27-36 weeks)</li>
+<li>⚠️ May be more uncomfortable due to belly size</li>
+<li>⚠️ Movement may be more difficult</li>
+</ul>
+
+<h2>Conclusion</h2>
+<p>The immigration medical exam during pregnancy is safe and can be an excellent opportunity to ensure additional protection for you and your baby through vaccines like Tdap and influenza. At Atlas Healthcare, we understand the special needs of pregnant women and adapt our care to ensure comfort and safety.</p>
+      `,
+    },
+    6: {
+      content: `
+<h2>Introduction</h2>
+<p>At Atlas Healthcare, we understand that the immigration process can create urgency and questions. That's why we offer flexibility in service, accepting both appointments and walk-ins (service without appointment). In this article, we will explain how each option works and help you choose the best alternative for your needs.</p>
+
+<h2>Service Options</h2>
+
+<h3>1. Walk-ins (Recommended)</h3>
+<p>For those who need immediate service, we accept walk-ins:</p>
+
+<h4>Benefits of Walk-ins:</h4>
+<ul>
+<li>✅ Immediate service when needed</li>
+<li>✅ No need to wait for available date</li>
+<li>✅ Total schedule flexibility</li>
+<li>✅ Ideal for urgent cases</li>
+</ul>
+
+<h4>Best Days for Walk-ins:</h4>
+<p>Based on our experience, the best days are:</p>
+<ul>
+<li><strong>Mondays:</strong> Lower volume at the start of the week</li>
+<li><strong>Thursdays:</strong> Good day with reduced wait</li>
+</ul>
+<p>Recommended times: At the start of business hours (9:30) or after lunch.</p>
+
+<h3>2. Online Appointment</h3>
+<p>Our online appointment system is a way to schedule your exam:</p>
+
+<h4>Benefits of Online Appointment:</h4>
+<ul>
+<li>✅ Choose the best time for you</li>
+<li>✅ Guaranteed service on chosen day and time</li>
+<li>✅ Shorter wait time</li>
+<li>✅ Advance team preparation</li>
+<li>✅ Automatic appointment reminder</li>
+</ul>
+
+<h4>Available Hours for Appointments:</h4>
+<ul>
+<li>Monday: 9:15 - 3PM</li>
+<li>Tuesday: 9:15 - 3PM</li>
+<li>Thursday: 9:15 - 3PM</li>
+<li>Friday: 9:15 - 3PM</li>
+</ul>
+
+<h2>Service Duration</h2>
+
+<h3>Complete Exam:</h3>
+<ul>
+<li>30-45 minutes in most cases</li>
+<li>May vary depending on individual complexity</li>
+<li>Includes: Physical exam, blood draw, vaccine review</li>
+</ul>
+
+<h2>Preparation for Service</h2>
+<p>Whether scheduled appointment or walk-in, preparation is the same:</p>
+
+<h3>Required Documents:</h3>
+<ul>
+<li>Passport or valid ID</li>
+<li>Vaccination card (if available)</li>
+<li>Medication list</li>
+<li>EAD (if applicable)</li>
+<li>Health insurance card</li>
+</ul>
+
+<h3>Tips for Walk-ins:</h3>
+<ul>
+<li>Arrive early: The earlier, the shorter the wait</li>
+<li>Come prepared: With all documents</li>
+<li>Have time flexibility: There may be a wait</li>
+<li>Avoid peak hours: Mid-morning and end of afternoon</li>
+</ul>
+
+<h2>Delay Policy</h2>
+
+<h3>For Scheduled Patients:</h3>
+<ul>
+<li>Arrive 15 minutes before scheduled time</li>
+<li>Delay up to 10 minutes: Normal service</li>
+<li>Delay of 10-15 minutes: May have additional wait</li>
+<li>Delay over 15 minutes: May need to reschedule</li>
+</ul>
+
+<h2>Our Recommendation</h2>
+
+<h3>✅ Schedule Online When:</h3>
+<ul>
+<li>You can plan ahead</li>
+<li>Want to guarantee service at specific time</li>
+<li>Prefer to avoid waits</li>
+<li>Have date flexibility</li>
+</ul>
+
+<h3>✅ Come as Walk-in When:</h3>
+<ul>
+<li>You have real urgency</li>
+<li>Can't find available time online</li>
+<li>Need immediate service</li>
+<li>Are in the area and want to take advantage</li>
+</ul>
+
+<h2>Conclusion</h2>
+<p>At Atlas Healthcare, our priority is to offer quality service in the most convenient way for you. Whether through online appointment or as walk-in, our team is ready to serve you with excellence.</p>
+<p><strong>Remember:</strong> while we accept walk-ins, online appointment guarantees faster service without wait. Choose the option that best fits your needs.</p>
+      `,
+    },
+    7: {
+      content: `
+<h2>Introduction</h2>
+<p>When starting the immigration medical exam process, many people don't fully understand the importance of choosing a USCIS-authorized Civil Surgeon. In this article, we will explore the fundamental role of this professional, why authorization is mandatory, and how to make the right choice.</p>
+
+<h2>What is a Civil Surgeon?</h2>
+<p>A Civil Surgeon is a licensed physician who has received special authorization from USCIS to perform immigration medical exams. This is not just a title - it's a federal designation that requires:</p>
+
+<h3>Requirements to be a Civil Surgeon:</h3>
+<ul>
+<li>✅ Valid medical license in the state</li>
+<li>✅ Complete medical training (MD or DO)</li>
+<li>✅ Specific training on immigration requirements</li>
+<li>✅ USCIS approval after rigorous process</li>
+<li>✅ Maintenance of updated credentials</li>
+<li>✅ Knowledge of immigration laws and regulations</li>
+</ul>
+
+<h2>Why Only Authorized Civil Surgeons Can Perform the Exam?</h2>
+
+<h3>1. Legal Responsibility</h3>
+<p>The Civil Surgeon assumes legal responsibility for:</p>
+<ul>
+<li>Truthfulness of information on Form I-693</li>
+<li>Compliance with federal public health requirements</li>
+<li>Proper documentation for USCIS</li>
+<li>Correct assessment of health conditions</li>
+</ul>
+
+<h3>2. Federal Standards</h3>
+<p>USCIS establishes rigorous standards:</p>
+<ul>
+<li>Standardized procedures across the country</li>
+<li>Specific mandatory laboratory tests</li>
+<li>Uniform vaccination criteria</li>
+<li>Regulated documentation</li>
+</ul>
+
+<h2>What Does a Civil Surgeon Do?</h2>
+
+<h3>1. Complete Physical Exam</h3>
+<ul>
+<li>Systematic evaluation of all body systems</li>
+<li>Detection of contagious or concerning diseases</li>
+<li>Detailed documentation of findings</li>
+<li>Evaluation of conditions that may affect admissibility</li>
+</ul>
+
+<h3>2. Medical History Review</h3>
+<ul>
+<li>Complete analysis of previous illnesses</li>
+<li>Evaluation of treatments performed</li>
+<li>Verification of chronic conditions</li>
+<li>Documentation of medications</li>
+</ul>
+
+<h3>3. Laboratory Test Coordination</h3>
+<ul>
+<li>Prescription of mandatory tests</li>
+<li>Interpretation of results</li>
+<li>Determination of need for additional treatment</li>
+<li>Compliance documentation</li>
+</ul>
+
+<h2>Consequences of Using an Unauthorized Professional</h2>
+
+<h3>❌ Serious Risks:</h3>
+
+<h4>Form Rejected</h4>
+<ul>
+<li>USCIS does not accept exams from unauthorized professionals</li>
+<li>Can result in delay or denial of process</li>
+</ul>
+
+<h4>Loss of Time and Money</h4>
+<ul>
+<li>Need to redo entire process</li>
+<li>Additional costs with new exam</li>
+<li>Delay in immigration process</li>
+</ul>
+
+<h2>Dr. Wingo: Experience and Dedication</h2>
+
+<h3>Credentials:</h3>
+<ul>
+<li>✅ Active USCIS designation</li>
+<li>✅ Over 10,000 exams performed</li>
+<li>✅ 100% USCIS acceptance rate</li>
+<li>✅ Experience with complex cases</li>
+<li>✅ Constant regulatory updates</li>
+</ul>
+
+<h3>Differentiators:</h3>
+<ul>
+<li><strong>Multilingual service:</strong> Portuguese, Spanish, and English</li>
+<li><strong>Simplified process:</strong> Most exams in one visit</li>
+<li><strong>Specialized team:</strong> Specifically trained for immigration</li>
+<li><strong>Commitment to quality:</strong> Each patient receives individual attention</li>
+</ul>
+
+<h2>Why Choose Atlas Healthcare?</h2>
+
+<h3>1. Proven Experience</h3>
+<ul>
+<li>Over 10,000 successful exams performed</li>
+<li>100% USCIS acceptance</li>
+<li>Years of immigration-specific experience</li>
+</ul>
+
+<h3>2. Convenience</h3>
+<ul>
+<li>Everything in one place: Exam, lab, and vaccines</li>
+<li>Single visit in most cases</li>
+<li>Fast results and form ready in a few days</li>
+</ul>
+
+<h3>3. Humanized Service</h3>
+<ul>
+<li>Multilingual team: Portuguese, Spanish, and English</li>
+<li>Welcoming environment: Especially for immigrants</li>
+<li>Continuous support: Before, during, and after exam</li>
+</ul>
+
+<h2>Conclusion</h2>
+<p>Choosing a Civil Surgeon is one of the most important decisions in the immigration process. An authorized and experienced professional ensures:</p>
+<ul>
+<li>✅ Guaranteed USCIS acceptance</li>
+<li>✅ Process without complications</li>
+<li>✅ Safety and quality</li>
+<li>✅ Peace of mind at a crucial stage</li>
+</ul>
+<p><strong>Don't risk your American dream with unauthorized professionals. Choose experience, quality, and guaranteed success.</strong></p>
+      `,
+    },
   },
 };
