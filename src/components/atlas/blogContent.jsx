@@ -181,34 +181,45 @@ export const blogArticles = {
     },
     2: {
       content: `
-<h2>Introdução</h2>
-<p>Um dos questionamentos mais comuns entre imigrantes que iniciam o processo de obtenção de residência permanente nos Estados Unidos é sobre os custos envolvidos no exame médico de imigração. Neste artigo, vamos detalhar todos os valores, o que está incluído e por que o investimento vale a pena quando feito com um Civil Surgeon autorizado.</p>
+<p style="color: #4ECCA3; font-size: 1.1rem; font-weight: 600; margin-bottom: 1.5rem;">Um dos questionamentos mais comuns entre imigrantes que iniciam o processo de obtenção de residência permanente nos Estados Unidos é sobre os custos envolvidos no exame médico de imigração. Neste guia, vamos detalhar todos os valores com total transparência.</p>
 
-<h2>Valores do Exame na Atlas Healthcare</h2>
-<p>Na Atlas Healthcare, acreditamos em transparência total. Nossos valores são:</p>
-<ul>
-<li><strong>Adultos (15 anos ou mais):</strong> $460</li>
-<li><strong>Crianças (até 14 anos):</strong> $380</li>
-</ul>
+<h2 style="color: #1a3a5c; font-size: 2rem; font-weight: 700; margin-top: 3rem; margin-bottom: 1.5rem; border-bottom: 3px solid #4ECCA3; padding-bottom: 0.5rem;">💰 Valores do Exame na Atlas Healthcare</h2>
 
-<h2>O que está incluído neste valor?</h2>
-<p>É importante entender que nossos preços são tudo incluído, o que significa que você não terá surpresas ou custos adicionais:</p>
+<div style="background: linear-gradient(135deg, #4ECCA3 0%, #3CB371 100%); color: white; padding: 2rem; border-radius: 12px; text-align: center; margin: 2rem 0;">
+<p style="color: white; font-size: 1.2rem; margin-bottom: 1.5rem; font-weight: 600;">Preços Transparentes - Tudo Incluído</p>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; max-width: 600px; margin: 0 auto;">
+<div style="background: rgba(255,255,255,0.2); padding: 1.5rem; border-radius: 8px;">
+<p style="color: white; font-size: 0.9rem; margin-bottom: 0.5rem;">Adultos (15+ anos)</p>
+<p style="color: white; font-size: 2.5rem; font-weight: 700; margin: 0;">$460</p>
+</div>
+<div style="background: rgba(255,255,255,0.2); padding: 1.5rem; border-radius: 8px;">
+<p style="color: white; font-size: 0.9rem; margin-bottom: 0.5rem;">Crianças (até 14 anos)</p>
+<p style="color: white; font-size: 2.5rem; font-weight: 700; margin: 0;">$380</p>
+</div>
+</div>
+</div>
 
-<h3>✅ Incluído no valor:</h3>
-<ul>
-<li>Exame físico completo realizado pelo Dr. Wingo, Civil Surgeon autorizado</li>
-<li>Todos os exames laboratoriais obrigatórios:
-  <ul>
-    <li>QuantiFERON-TB Gold (teste de tuberculose)</li>
-    <li>Sífilis RPR</li>
-    <li>Gonorrhea</li>
+<h2 style="color: #1a3a5c; font-size: 2rem; font-weight: 700; margin-top: 3rem; margin-bottom: 1.5rem; border-bottom: 3px solid #4ECCA3; padding-bottom: 0.5rem;">📦 O que está incluído neste valor?</h2>
+
+<p style="font-size: 1.1rem; margin-bottom: 1.5rem;">Nossos preços são <strong>tudo incluído</strong> - sem surpresas ou custos adicionais:</p>
+
+<div style="background: #e8f5f0; padding: 2rem; margin: 2rem 0; border-radius: 12px; border: 2px solid #4ECCA3;">
+<p style="font-weight: 700; font-size: 1.2rem; color: #1a3a5c; margin-bottom: 1.5rem;">✅ Incluído no Valor:</p>
+<ul style="line-height: 2; font-size: 1.05rem; margin: 0;">
+<li>✓ <strong>Exame físico completo</strong> realizado pelo Dr. Wingo, Civil Surgeon autorizado</li>
+<li>✓ <strong>Todos os exames laboratoriais obrigatórios:</strong>
+  <ul style="margin-left: 2rem; margin-top: 0.5rem;">
+    <li>• QuantiFERON-TB Gold (tuberculose)</li>
+    <li>• Sífilis RPR</li>
+    <li>• Gonorrhea</li>
   </ul>
 </li>
-<li>Revisão completa do cartão de vacinação</li>
-<li>Administração de vacinas necessárias (quando disponíveis no local)</li>
-<li>Preenchimento e lacração do Formulário I-693</li>
-<li>Retorno sem custo adicional se necessário</li>
+<li>✓ <strong>Revisão completa</strong> do cartão de vacinação</li>
+<li>✓ <strong>Vacinas necessárias</strong> (quando disponíveis no local)</li>
+<li>✓ <strong>Formulário I-693</strong> preenchido e lacrado</li>
+<li>✓ <strong>Retorno sem custo adicional</strong> se necessário</li>
 </ul>
+</div>
 
 <h2>Por que o exame tem este custo?</h2>
 
@@ -291,15 +302,45 @@ export const blogArticles = {
 <li>Evite custos adicionais escolhendo um Civil Surgeon confiável de primeira</li>
 </ul>
 
-<h2>Conclusão</h2>
-<p>O exame médico de imigração é um investimento essencial no seu processo de residência permanente. Na Atlas Healthcare, oferecemos transparência total, preços justos e serviço de excelência. Nosso objetivo é fazer com que este passo importante seja o mais tranquilo possível.</p>
-<p><strong>Lembre-se:</strong> economizar no exame médico pode custar caro no futuro. Escolha qualidade, experiência e garantia de aceitação pelo USCIS.</p>
+<hr style="border: none; border-top: 2px solid #e0e0e0; margin: 3rem 0;">
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 2rem; border-radius: 12px; text-align: center; margin: 2rem 0;">
+<h3 style="color: white; font-size: 1.8rem; margin-bottom: 1rem;">📌 Em Resumo</h3>
+<ul style="list-style: none; padding: 0; margin: 1rem 0; font-size: 1.1rem; line-height: 2;">
+<li>✅ Preços transparentes: $460 (adultos) | $380 (crianças)</li>
+<li>✅ Tudo incluído: exame, laboratório, vacinas e I-693</li>
+<li>✅ 100% de aceitação pelo USCIS garantida</li>
+</ul>
+</div>
+
+<div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1.5rem; margin: 2rem 0; border-radius: 8px;">
+<p style="margin: 0; font-weight: 600; font-size: 1.1rem; color: #856404;">⚠️ IMPORTANTE:</p>
+<p style="margin: 0.5rem 0 0 0; color: #856404;">Economizar no exame médico pode custar caro no futuro. Escolha qualidade, experiência e <strong>garantia de aceitação pelo USCIS</strong>.</p>
+</div>
+
+<div style="background: #4ECCA3; color: white; padding: 2rem; border-radius: 12px; text-align: center; margin: 3rem 0;">
+<h3 style="color: white; font-size: 1.8rem; margin-bottom: 1rem;">💳 Formas de Pagamento</h3>
+<p style="font-size: 1.1rem; margin-bottom: 1rem;">Aceitamos: Dinheiro • Cartões de Crédito/Débito • Transferência Bancária</p>
+<div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-top: 1.5rem;">
+<a href="https://atlashealthcare.janeapp.com/" style="background: white; color: #4ECCA3; padding: 1rem 2rem; border-radius: 50px; text-decoration: none; font-weight: 600; display: inline-block;">📅 Agendar Agora</a>
+<a href="tel:8433529353" style="background: #1a3a5c; color: white; padding: 1rem 2rem; border-radius: 50px; text-decoration: none; font-weight: 600; display: inline-block;">📞 (843) 352-9353</a>
+</div>
+</div>
       `,
     },
     3: {
       content: `
-<h2>Introdução</h2>
-<p>A preparação adequada é a chave para um exame médico de imigração tranquilo e eficiente. Muitos pacientes chegam à clínica preocupados se trouxeram todos os documentos necessários. Por isso, criamos este guia completo para ajudá-lo a se preparar adequadamente.</p>
+<p style="color: #4ECCA3; font-size: 1.1rem; font-weight: 600; margin-bottom: 1.5rem;">A preparação adequada é a chave para um exame médico de imigração tranquilo e eficiente. Este checklist completo garante que você não esqueça nada importante no dia do seu exame.</p>
+
+<div style="background: #f8f9fa; border-left: 4px solid #4ECCA3; padding: 1.5rem; margin: 2rem 0; border-radius: 8px;">
+<p style="margin: 0; font-weight: 600;">📌 Use este guia para:</p>
+<ul style="margin-top: 0.5rem; margin-bottom: 0;">
+<li>Verificar todos os documentos necessários</li>
+<li>Se preparar adequadamente para o dia do exame</li>
+<li>Evitar esquecimentos e reagendamentos</li>
+<li>Garantir um processo rápido e sem complicações</li>
+</ul>
+</div>
 
 <h2>Documentos Essenciais (Obrigatórios)</h2>
 
@@ -407,22 +448,48 @@ export const blogArticles = {
 <li>Brinquedos ou itens de conforto podem ajudar crianças pequenas</li>
 </ul>
 
-<h2>Checklist Final para Imprimir</h2>
-<p>Use esta lista antes de sair de casa:</p>
-<ul>
-<li>☐ Passaporte ou documento de identidade válido</li>
-<li>☐ Cartão de vacinação (se disponível)</li>
-<li>☐ Lista de medicamentos</li>
-<li>☐ EAD (se aplicável)</li>
-<li>☐ Cartão de seguro saúde</li>
-<li>☐ Exame I-693 anterior (se tiver)</li>
-<li>☐ Roupas confortáveis</li>
-<li>☐ Água para se hidratar</li>
-</ul>
+<h2 style="color: #1a3a5c; font-size: 2rem; font-weight: 700; margin-top: 3rem; margin-bottom: 1.5rem; border-bottom: 3px solid #4ECCA3; padding-bottom: 0.5rem;">✅ Checklist Final para Imprimir</h2>
 
-<h2>Conclusão</h2>
-<p>Estar bem preparado é metade do caminho para um exame tranquilo. Com este checklist, você pode ter certeza de que trouxe tudo o que é necessário. Na Atlas Healthcare, nossa equipe está pronta para ajudar em caso de dúvidas ou se você precisar de alguma orientação adicional.</p>
-<p><strong>Dica final:</strong> Tire uma foto de todos os seus documentos importantes e guarde no celular como backup, caso algo seja esquecido.</p>
+<div style="background: #fff; border: 3px solid #4ECCA3; padding: 2rem; margin: 2rem 0; border-radius: 12px;">
+<p style="font-weight: 700; font-size: 1.2rem; color: #1a3a5c; margin-bottom: 1.5rem; text-align: center;">📋 Use esta lista antes de sair de casa:</p>
+<div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px;">
+<ul style="line-height: 2.5; font-size: 1.05rem; margin: 0; list-style: none; padding: 0;">
+<li>☐ <strong>Passaporte</strong> ou documento de identidade válido</li>
+<li>☐ <strong>Cartão de vacinação</strong> (se disponível)</li>
+<li>☐ <strong>Lista de medicamentos</strong></li>
+<li>☐ <strong>EAD</strong> (se aplicável)</li>
+<li>☐ <strong>Cartão de seguro saúde</strong></li>
+<li>☐ <strong>Exame I-693 anterior</strong> (se tiver)</li>
+<li>☐ <strong>Roupas confortáveis</strong></li>
+<li>☐ <strong>Água para se hidratar</strong></li>
+</ul>
+</div>
+</div>
+
+<hr style="border: none; border-top: 2px solid #e0e0e0; margin: 3rem 0;">
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 2rem; border-radius: 12px; text-align: center; margin: 2rem 0;">
+<h3 style="color: white; font-size: 1.8rem; margin-bottom: 1rem;">📌 Em Resumo</h3>
+<ul style="list-style: none; padding: 0; margin: 1rem 0; font-size: 1.1rem; line-height: 2;">
+<li>✅ Documentos essenciais: passaporte, vacinas e lista de medicamentos</li>
+<li>✅ Chegue 15 minutos antes do horário</li>
+<li>✅ Vista roupas confortáveis e hidrate-se bem</li>
+</ul>
+</div>
+
+<div style="background: #d1ecf1; border-left: 4px solid #0c5460; padding: 1.5rem; margin: 2rem 0; border-radius: 8px;">
+<p style="margin: 0; font-weight: 600; color: #0c5460;">💡 Dica Final:</p>
+<p style="margin: 0.5rem 0 0 0; color: #0c5460;">Tire uma foto de todos os seus documentos importantes e guarde no celular como backup, caso algo seja esquecido.</p>
+</div>
+
+<div style="background: #4ECCA3; color: white; padding: 2rem; border-radius: 12px; text-align: center; margin: 3rem 0;">
+<h3 style="color: white; font-size: 1.8rem; margin-bottom: 1rem;">📱 Pronto para agendar?</h3>
+<p style="font-size: 1.1rem; margin-bottom: 1.5rem;">Nossa equipe está pronta para ajudá-lo</p>
+<div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-top: 1.5rem;">
+<a href="https://atlashealthcare.janeapp.com/" style="background: white; color: #4ECCA3; padding: 1rem 2rem; border-radius: 50px; text-decoration: none; font-weight: 600; display: inline-block;">📅 Agendar Online</a>
+<a href="tel:8433529353" style="background: #1a3a5c; color: white; padding: 1rem 2rem; border-radius: 50px; text-decoration: none; font-weight: 600; display: inline-block;">📞 (843) 352-9353</a>
+</div>
+</div>
       `,
     },
     4: {
