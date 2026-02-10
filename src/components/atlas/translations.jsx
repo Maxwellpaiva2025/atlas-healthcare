@@ -692,6 +692,22 @@ export const translations = {
         message: "Message",
         send: "Send Message"
       }
+    },
+    blog: {
+      title: "Atlas Healthcare Blog",
+      subtitle: "Information and resources for your immigration process",
+      readMore: "Read more",
+      backToBlog: "Back to Blog",
+      relatedArticles: "Related articles",
+      articles: [
+        { id: 1, title: "Understanding the Immigration Medical Exam: Complete Guide to the USCIS Process", summary: "Discover everything about the immigration medical exam, the role of the Civil Surgeon, mandatory lab tests, and what to expect on your appointment day." },
+        { id: 2, title: "How Much Does the Immigration Medical Exam Cost? Understand Your Process Investment", summary: "Transparent pricing, what's included, why insurance doesn't cover it, and why it's worth investing in a USCIS-authorized Civil Surgeon." },
+        { id: 3, title: "Complete Checklist: What to Bring to Your Immigration Medical Exam", summary: "Complete list of essential documents, preparation tips, and printable checklist to ensure you don't forget anything on exam day." },
+        { id: 4, title: "Required Vaccines for Immigration: Complete Guide", summary: "Learn about all vaccines required by USCIS, how to prove immunity, and what to do if you don't have vaccination records." },
+        { id: 5, title: "Immigration Medical Exam for Pregnant Women: Safety and Special Care", summary: "Everything pregnant women need to know about the immigration exam, vaccines safe during pregnancy, and necessary adaptations." },
+        { id: 6, title: "Walk-ins and Appointments: How Atlas Healthcare Service Works", summary: "Understand the differences between online scheduling and walk-ins, best times, and how to choose the best option for your needs." },
+        { id: 7, title: "The Role of the Civil Surgeon: Why Choosing the Right Professional is Crucial", summary: "The importance of choosing a USCIS-authorized Civil Surgeon, risks of unauthorized professionals, and Dr. Wingo's credentials." }
+      ]
     }
   }
 };
