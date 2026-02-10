@@ -1040,14 +1040,781 @@ export const blogArticles = {
     },
   },
   es: {
-    // Spanish versions of all 7 articles - Similar structure with translated content
-    1: { content: `<h2>Introducción</h2><p>El examen médico de inmigración es uno de los pasos más importantes en el proceso de obtención de residencia permanente en los Estados Unidos...</p>` },
-    2: { content: `<h2>Introducción</h2><p>Una de las preguntas más comunes entre inmigrantes que inician el proceso de obtención de residencia permanente en Estados Unidos...</p>` },
-    3: { content: `<h2>Introducción</h2><p>La preparación adecuada es la clave para un examen médico de inmigración tranquilo y eficiente...</p>` },
-    4: { content: `<h2>Introducción</h2><p>La vacunación es uno de los componentes más importantes del examen médico de inmigración...</p>` },
-    5: { content: `<h2>Introducción</h2><p>El embarazo es un momento especial que requiere cuidados adicionales en todas las áreas de la salud...</p>` },
-    6: { content: `<h2>Introducción</h2><p>En Atlas Healthcare, entendemos que el proceso de inmigración puede generar urgencia y dudas...</p>` },
-    7: { content: `<h2>Introducción</h2><p>Al iniciar el proceso de examen médico de inmigración, muchas personas no entienden completamente la importancia...</p>` },
+    1: {
+      content: `
+<h2>Introducción</h2>
+<p>El examen médico de inmigración es uno de los pasos más importantes en el proceso de obtención de residencia permanente en los Estados Unidos. Realizado por un Civil Surgeon autorizado por el USCIS (U.S. Citizenship and Immigration Services), este examen tiene como objetivo proteger la salud pública y garantizar que los inmigrantes no representen riesgos para la salud de la población americana.</p>
+<p>En este artículo, exploraremos en detalle todo lo que necesita saber sobre el examen médico de inmigración, desde los requisitos hasta qué esperar el día de su cita.</p>
+
+<h2>¿Qué es un Civil Surgeon?</h2>
+<p>Un Civil Surgeon es un médico licenciado que ha recibido autorización especial del USCIS para realizar exámenes médicos de inmigración. No todos los médicos pueden realizar este examen - solo aquellos que han pasado por un proceso de designación riguroso. El Dr. Wingo, de Atlas Healthcare, es un Civil Surgeon autorizado con años de experiencia, habiendo realizado más de 10,000 exámenes de inmigración.</p>
+
+<h2>¿Qué está incluido en el Examen Médico de Inmigración?</h2>
+<p>El examen médico de inmigración es completo e incluye varios componentes obligatorios:</p>
+
+<h3>1. Examen Físico Completo</h3>
+<p>El médico realizará una evaluación física completa, incluyendo:</p>
+<ul>
+<li>Verificación de presión arterial</li>
+<li>Auscultación cardíaca y pulmonar</li>
+<li>Examen abdominal</li>
+<li>Evaluación general del estado de salud</li>
+<li>Verificación de signos de enfermedades contagiosas</li>
+</ul>
+
+<h3>2. Revisión de Historial Médico</h3>
+<p>El Civil Surgeon revisará su historial médico completo, incluyendo:</p>
+<ul>
+<li>Enfermedades anteriores</li>
+<li>Cirugías realizadas</li>
+<li>Condiciones crónicas</li>
+<li>Medicamentos en uso</li>
+<li>Hospitalizaciones</li>
+</ul>
+
+<h3>3. Exámenes de Laboratorio Obligatorios</h3>
+<p>El USCIS requiere una serie de exámenes de laboratorio:</p>
+
+<p><strong>QuantiFERON-TB Gold (Prueba de Tuberculosis)</strong></p>
+<ul>
+<li>Detecta infección por Mycobacterium tuberculosis</li>
+<li>Es un examen de sangre más moderno y preciso que la prueba cutánea tradicional</li>
+<li>Resultados generalmente disponibles en 24-48 horas</li>
+</ul>
+
+<p><strong>Sífilis RPR (Rapid Plasma Reagin)</strong></p>
+<ul>
+<li>Detección de sífilis</li>
+<li>Examen de sangre simple y rápido</li>
+<li>Si es positivo, requiere confirmación con pruebas adicionales</li>
+</ul>
+
+<p><strong>Gonorrea</strong></p>
+<ul>
+<li>Prueba para detectar infección por Neisseria gonorrhoeae</li>
+<li>Puede realizarse mediante examen de orina o hisopo</li>
+<li>Importante para la salud pública</li>
+</ul>
+
+<h3>4. Revisión de Tarjeta de Vacunación</h3>
+<p>El USCIS requiere que los inmigrantes estén vacunados contra ciertas enfermedades. El Civil Surgeon revisará su tarjeta de vacunación para verificar si tiene las vacunas obligatorias:</p>
+<ul>
+<li>Hepatitis A y B</li>
+<li>Influenza (gripe)</li>
+<li>Varicela</li>
+<li>MMR (sarampión, paperas y rubéola)</li>
+<li>Tdap (tétanos, difteria y tos ferina)</li>
+<li>Neumocócica</li>
+<li>Meningocócica</li>
+<li>Rotavirus (para niños)</li>
+</ul>
+<p>Si no tiene comprobante de vacunación o necesita vacunas adicionales, pueden administrarse en el mismo lugar.</p>
+
+<h3>5. Formulario I-693</h3>
+<p>Después de completar todos los exámenes, el Civil Surgeon completará y sellará el Formulario I-693 (Report of Medical Examination and Vaccination Record). Este formulario es el documento oficial que enviará al USCIS como parte de su proceso de inmigración.</p>
+
+<h2>¿Cuánto tiempo toma el proceso?</h2>
+<p>En Atlas Healthcare, la mayoría de los exámenes se completan en una sola visita de 30-45 minutos. Los resultados de los exámenes de laboratorio generalmente están disponibles en 24-48 horas, y el Formulario I-693 se sella y entrega al paciente prontamente.</p>
+
+<h2>¿Qué sucede si algún examen da positivo?</h2>
+<p>Si alguno de los exámenes de laboratorio da resultado positivo:</p>
+<ul>
+<li><strong>Tuberculosis:</strong> Necesitará tratamiento antes de que el examen pueda completarse</li>
+<li><strong>Sífilis:</strong> Se requiere tratamiento con antibióticos</li>
+<li><strong>Gonorrea:</strong> Se requiere tratamiento con antibióticos</li>
+</ul>
+<p>El Civil Surgeon le orientará sobre los próximos pasos y, después del tratamiento adecuado, el examen podrá completarse.</p>
+
+<h2>Consejos para el día del examen</h2>
+<ul>
+<li>Llegue 15 minutos antes de la hora programada</li>
+<li>Traiga todos los documentos necesarios</li>
+<li>Use ropa cómoda que permita el examen físico</li>
+<li>Esté preparado para responder preguntas sobre su historial médico</li>
+<li>No olvide mencionar si está embarazada o amamantando</li>
+</ul>
+
+<h2>Conclusión</h2>
+<p>El examen médico de inmigración es un proceso simple y directo cuando está bien preparado. En Atlas Healthcare, nuestro equipo experimentado y acogedor está listo para guiarlo en cada paso del proceso, garantizando que tenga una experiencia tranquila y sin estrés.</p>
+<p><strong>Recuerde:</strong> un Civil Surgeon autorizado por el USCIS es la única opción válida para este examen. No arriesgue su proceso de inmigración con profesionales no autorizados.</p>
+      `,
+    },
+    2: {
+      content: `
+<h2>Introducción</h2>
+<p>Una de las preguntas más comunes entre inmigrantes que inician el proceso de obtención de residencia permanente en Estados Unidos es sobre los costos involucrados en el examen médico de inmigración. En este artículo, detallaremos todos los valores, qué está incluido y por qué vale la pena la inversión cuando se hace con un Civil Surgeon autorizado.</p>
+
+<h2>Valores del Examen en Atlas Healthcare</h2>
+<p>En Atlas Healthcare, creemos en total transparencia. Nuestros valores son:</p>
+<ul>
+<li><strong>Adultos (15 años o más):</strong> $460</li>
+<li><strong>Niños (hasta 14 años):</strong> $380</li>
+</ul>
+
+<h2>¿Qué está incluido en este valor?</h2>
+<p>Es importante entender que nuestros precios son todo incluido, lo que significa que no tendrá sorpresas o costos adicionales:</p>
+
+<h3>✅ Incluido en el valor:</h3>
+<ul>
+<li>Examen físico completo realizado por el Dr. Wingo, Civil Surgeon autorizado</li>
+<li>Todos los exámenes de laboratorio obligatorios:
+  <ul>
+    <li>QuantiFERON-TB Gold (prueba de tuberculosis)</li>
+    <li>Sífilis RPR</li>
+    <li>Gonorrea</li>
+  </ul>
+</li>
+<li>Revisión completa de tarjeta de vacunación</li>
+<li>Administración de vacunas necesarias (cuando estén disponibles en el lugar)</li>
+<li>Completado y sellado del Formulario I-693</li>
+<li>Retorno sin costo adicional si es necesario</li>
+</ul>
+
+<h2>¿Por qué el examen tiene este costo?</h2>
+
+<h3>Calidad y Seguridad</h3>
+<p>El examen médico de inmigración no es un chequeo común. Involucra:</p>
+<ul>
+<li>Exámenes de laboratorio especializados y de alta precisión</li>
+<li>Evaluación por un médico con certificación especial del USCIS</li>
+<li>Documentación rigurosa que será analizada por el gobierno americano</li>
+<li>Responsabilidad legal del Civil Surgeon</li>
+</ul>
+
+<h3>Exámenes de Laboratorio de Vanguardia</h3>
+<p>Las pruebas requeridas por el USCIS son específicas y realizadas en laboratorios acreditados:</p>
+<ul>
+<li>QuantiFERON-TB Gold: Tecnología avanzada para detección de tuberculosis</li>
+<li>Pruebas para ETS: Detección de sífilis y gonorrea según exigencias federales</li>
+</ul>
+
+<h3>Conveniencia de Una Sola Visita</h3>
+<p>En Atlas Healthcare, la mayoría de los pacientes completa todo el proceso en una sola visita. Esto significa:</p>
+<ul>
+<li>Ahorro de tiempo</li>
+<li>Menos desplazamientos</li>
+<li>Resultados más rápidos</li>
+<li>Proceso de inmigración acelerado</li>
+</ul>
+
+<h2>¿El seguro médico cubre el examen?</h2>
+<p>Es importante aclarar que el seguro médico <strong>NO</strong> cubre el costo del examen médico de inmigración. Esto ocurre porque:</p>
+<ul>
+<li>El examen es considerado un requisito de inmigración, no un cuidado médico necesario</li>
+<li>Es una exigencia del USCIS, no una recomendación médica</li>
+<li>El proceso involucra documentación específica para fines de inmigración</li>
+</ul>
+
+<h3>¡Pero hay buenas noticias!</h3>
+<p>Su seguro médico puede cubrir las vacunas necesarias. Recomendamos:</p>
+<ul>
+<li>Verificar con su aseguradora qué vacunas están cubiertas</li>
+<li>Traer su tarjeta de seguro a la cita</li>
+<li>Nuestro equipo puede ayudar a verificar la cobertura</li>
+</ul>
+
+<h2>Comparación de Costos: ¿Por qué no economizar en el examen?</h2>
+<p>Algunas personas consideran buscar opciones más baratas, pero es fundamental entender los riesgos:</p>
+
+<h3>❌ Riesgos de opciones no autorizadas:</h3>
+<ul>
+<li>Formulario I-693 puede ser rechazado por el USCIS</li>
+<li>Necesidad de rehacer todo el proceso</li>
+<li>Pérdida de tiempo y dinero</li>
+<li>Retraso en el proceso de inmigración</li>
+<li>Posibles complicaciones legales</li>
+</ul>
+
+<h3>✅ Beneficios de un Civil Surgeon autorizado:</h3>
+<ul>
+<li>100% de aceptación por el USCIS</li>
+<li>Documentación correcta y completa</li>
+<li>Proceso ágil y sin complicaciones</li>
+<li>Soporte continuo</li>
+<li>Garantía de calidad</li>
+</ul>
+
+<h2>Formas de Pago</h2>
+<p>En Atlas Healthcare, aceptamos:</p>
+<ul>
+<li>Efectivo</li>
+<li>Tarjetas de crédito y débito</li>
+<li>Transferencia bancaria</li>
+</ul>
+<p>No aceptamos cheques para este servicio.</p>
+
+<h2>Conclusión</h2>
+<p>El examen médico de inmigración es una inversión esencial en su proceso de residencia permanente. En Atlas Healthcare, ofrecemos total transparencia, precios justos y servicio de excelencia. Nuestro objetivo es hacer que este paso importante sea lo más tranquilo posible.</p>
+<p><strong>Recuerde:</strong> economizar en el examen médico puede costar caro en el futuro. Elija calidad, experiencia y garantía de aceptación por el USCIS.</p>
+      `,
+    },
+    3: {
+      content: `
+<h2>Introducción</h2>
+<p>La preparación adecuada es la clave para un examen médico de inmigración tranquilo y eficiente. Muchos pacientes llegan a la clínica preocupados si trajeron todos los documentos necesarios. Por eso, creamos esta guía completa para ayudarlo a prepararse adecuadamente.</p>
+
+<h2>Documentos Esenciales (Obligatorios)</h2>
+
+<h3>1. Pasaporte o Documento de Identidad Válido</h3>
+<ul>
+<li>Debe ser un documento oficial con foto</li>
+<li>Puede ser pasaporte de su país de origen</li>
+<li>Documento de identidad estatal o licencia de conducir americana también son aceptados</li>
+<li>Asegúrese de que no esté vencido</li>
+</ul>
+
+<h3>2. Tarjeta de Vacunación (Si Está Disponible)</h3>
+<ul>
+<li>Traiga su tarjeta de vacunación original</li>
+<li>Si está en otro idioma, no se preocupe - nuestro equipo puede ayudar</li>
+<li>Si no tiene, no es un problema - el Dr. Wingo determinará qué vacunas necesita</li>
+<li>Vacunas anteriores pueden evitar revacunación innecesaria</li>
+</ul>
+
+<h3>3. Lista de Medicamentos Diarios</h3>
+<p>Prepare una lista completa incluyendo:</p>
+<ul>
+<li>Nombre de cada medicamento</li>
+<li>Dosificación</li>
+<li>Frecuencia de uso</li>
+<li>Motivo de la prescripción</li>
+<li>Nombre del médico que prescribió</li>
+</ul>
+<p><strong>Consejo:</strong> Traiga los frascos de medicamentos o una receta médica actualizada.</p>
+
+<h2>Documentos Adicionales (Cuando Aplicable)</h2>
+
+<h3>4. Autorización de Trabajo (EAD)</h3>
+<p>Si tiene EAD, traiga:</p>
+<ul>
+<li>El documento original</li>
+<li>Una copia (si es posible)</li>
+<li>Esto ayuda a verificar su estado actual</li>
+</ul>
+
+<h3>5. Tarjeta de Seguro Médico</h3>
+<p>Aunque el seguro no cubre el examen de inmigración:</p>
+<ul>
+<li>Puede cubrir vacunas necesarias</li>
+<li>Ayuda a verificar su historial médico</li>
+<li>Nuestro equipo puede verificar coberturas disponibles</li>
+</ul>
+
+<h2>Preparación para el Día del Examen</h2>
+
+<h3>¿Qué vestir?</h3>
+<ul>
+<li>Ropa cómoda y fácil de quitar, si es necesario</li>
+<li>Evite ropa muy ajustada</li>
+<li>Zapatos cómodos</li>
+<li>Evite joyas excesivas</li>
+</ul>
+
+<h3>Alimentación e Hidratación</h3>
+<ul>
+<li>No es necesario ayuno para la mayoría de los exámenes</li>
+<li>Hidrátese bien - esto facilita la extracción de sangre</li>
+<li>Evite alcohol 24 horas antes del examen</li>
+<li>Se recomienda desayuno ligero</li>
+</ul>
+
+<h2>Casos Especiales</h2>
+
+<h3>Si está embarazada</h3>
+<ul>
+<li>Infórmenos con anticipación al agendar</li>
+<li>Ciertas vacunas pueden posponerse por seguridad</li>
+<li>El examen físico será adaptado para su condición</li>
+<li>Traiga sus exámenes prenatales recientes, si están disponibles</li>
+</ul>
+
+<h2>Checklist Final para Imprimir</h2>
+<p>Use esta lista antes de salir de casa:</p>
+<ul>
+<li>☐ Pasaporte o documento de identidad válido</li>
+<li>☐ Tarjeta de vacunación (si está disponible)</li>
+<li>☐ Lista de medicamentos</li>
+<li>☐ EAD (si aplica)</li>
+<li>☐ Tarjeta de seguro médico</li>
+<li>☐ Examen I-693 anterior (si tiene)</li>
+<li>☐ Ropa cómoda</li>
+<li>☐ Agua para hidratarse</li>
+</ul>
+
+<h2>Conclusión</h2>
+<p>Estar bien preparado es la mitad del camino para un examen tranquilo. Con este checklist, puede estar seguro de que trajo todo lo necesario. En Atlas Healthcare, nuestro equipo está listo para ayudar en caso de dudas o si necesita alguna orientación adicional.</p>
+<p><strong>Consejo final:</strong> Tome una foto de todos sus documentos importantes y guárdela en el celular como respaldo, en caso de que olvide algo.</p>
+      `,
+    },
+    4: {
+      content: `
+<h2>Introducción</h2>
+<p>La vacunación es uno de los componentes más importantes del examen médico de inmigración. El USCIS requiere que los inmigrantes estén protegidos contra ciertas enfermedades para proteger la salud pública. En este artículo, exploraremos en detalle qué vacunas son obligatorias, cómo verificar si ya está protegido y qué hacer si no tiene comprobante.</p>
+
+<h2>¿Por qué las Vacunas Son Importantes?</h2>
+<p>El gobierno americano requiere vacunación por varios motivos:</p>
+<ul>
+<li><strong>Protección de la salud pública:</strong> Prevenir brotes de enfermedades contagiosas</li>
+<li><strong>Salud individual:</strong> Protegerlo a usted y su familia</li>
+<li><strong>Cumplimiento legal:</strong> Requisito obligatorio para residencia permanente</li>
+<li><strong>Prevención de complicaciones:</strong> Evitar enfermedades que pueden ser graves</li>
+</ul>
+
+<h2>Lista de Vacunas Obligatorias para Inmigración</h2>
+
+<h3>Vacunas para Adultos (15 años o más)</h3>
+
+<h4>1. Hepatitis A y B</h4>
+<ul>
+<li>Hepatitis A: Transmitida por alimentos y agua contaminados</li>
+<li>Hepatitis B: Transmitida por sangre y fluidos corporales</li>
+<li>Esquema: Hepatitis B generalmente requiere 3 dosis</li>
+<li>Importancia: Protección contra enfermedades hepáticas graves</li>
+</ul>
+
+<h4>2. Influenza (Gripe)</h4>
+<ul>
+<li>Actualización anual necesaria</li>
+<li>Importante durante la temporada de gripe (generalmente octubre a marzo)</li>
+<li>Protege contra complicaciones graves</li>
+</ul>
+
+<h4>3. Varicela</h4>
+<ul>
+<li>Obligatoria si nunca tuvo varicela</li>
+<li>Dos tipos de comprobante aceptados:
+  <ul>
+    <li>Historial médico documentado de varicela</li>
+    <li>Dos dosis de la vacuna</li>
+  </ul>
+</li>
+<li>Importante: Adultos no vacunados tienen mayor riesgo de complicaciones</li>
+</ul>
+
+<h4>4. MMR (Sarampión, Paperas y Rubéola)</h4>
+<ul>
+<li>Una de las vacunas más importantes</li>
+<li>Dos dosis necesarias (o comprobante de inmunidad)</li>
+<li>Sarampión: Enfermedad altamente contagiosa y potencialmente grave</li>
+<li>Rubéola: Especialmente peligrosa para mujeres embarazadas</li>
+</ul>
+
+<h4>5. Tdap (Tétanos, Difteria y Tos Ferina)</h4>
+<ul>
+<li>Refuerzo cada 10 años</li>
+<li>Tétanos: Bacteria encontrada en el suelo</li>
+<li>Tos ferina: Enfermedad respiratoria grave, especialmente para bebés</li>
+<li>Importante: Aunque haya tomado DTP en la infancia, el refuerzo es necesario</li>
+</ul>
+
+<h2>Cómo Comprobar sus Vacunas</h2>
+
+<h3>1. Tarjeta de Vacunación Oficial</h3>
+<ul>
+<li>Documento de su país de origen</li>
+<li>Registros de vacunación de clínicas particulares</li>
+<li>Historial de vacunación del ejército (si aplica)</li>
+</ul>
+
+<h3>2. Exámenes de Titulación (Blood Titer Tests)</h3>
+<p>Si no tiene comprobante de vacunación:</p>
+<ul>
+<li>Exámenes de sangre que miden anticuerpos</li>
+<li>Comprueban inmunidad contra enfermedades específicas</li>
+<li>Pueden sustituir la revacunación</li>
+<li>Disponibles en Atlas Healthcare</li>
+</ul>
+
+<h2>¿Y si no tengo comprobante de vacunación?</h2>
+<p>¡No se preocupe! Esta es una situación muy común. El Dr. Wingo:</p>
+<ul>
+<li>Evaluará su situación individual</li>
+<li>Determinará qué vacunas son necesarias</li>
+<li>Ofrecerá exámenes de titulación cuando sea apropiado</li>
+<li>Administrará vacunas disponibles en el lugar</li>
+<li>Orientará sobre vacunas adicionales que puedan ser necesarias</li>
+</ul>
+
+<h2>Vacunas Disponibles en el Lugar</h2>
+<p>En Atlas Healthcare, ofrecemos la mayoría de las vacunas necesarias:</p>
+<ul>
+<li>✅ Influenza (gripe)</li>
+<li>✅ Tdap</li>
+<li>✅ MMR</li>
+<li>✅ Varicela</li>
+<li>✅ Hepatitis A y B</li>
+<li>✅ Neumocócica</li>
+<li>✅ Otras según necesidad</li>
+</ul>
+
+<h2>Efectos Secundarios de las Vacunas</h2>
+<p>Las vacunas son seguras, pero pueden causar efectos secundarios leves:</p>
+<ul>
+<li>Dolor en el lugar de la inyección</li>
+<li>Enrojecimiento o hinchazón</li>
+<li>Fiebre baja</li>
+<li>Cansancio leve</li>
+</ul>
+<p>Estos síntomas normalmente desaparecen en 1-2 días.</p>
+
+<h2>Conclusión</h2>
+<p>La vacunación es un paso esencial y beneficioso en el proceso de inmigración. Además de ser un requisito legal, estará protegiendo su salud y la de su familia. En Atlas Healthcare, hacemos este proceso simple y sin complicaciones.</p>
+<p><strong>Recuerde:</strong> Incluso si no tiene comprobante de vacunación, podemos ayudar a determinar exactamente lo que necesita y administrar las vacunas necesarias el mismo día del examen.</p>
+      `,
+    },
+    5: {
+      content: `
+<h2>Introducción</h2>
+<p>El embarazo es un momento especial que requiere cuidados adicionales en todas las áreas de la salud, incluido el examen médico de inmigración. Muchas mujeres embarazadas tienen dudas sobre la seguridad del proceso y cómo puede afectar su gestación. En este artículo, aclararemos todas las cuestiones relacionadas con el examen médico de inmigración durante el embarazo.</p>
+
+<h2>¿Puedo hacer el examen médico de inmigración estando embarazada?</h2>
+<p><strong>¡Sí!</strong> Es perfectamente seguro realizar el examen médico de inmigración durante el embarazo. De hecho, muchas mujeres completan este proceso mientras están embarazadas. Lo importante es informar al Civil Surgeon sobre su condición para que se hagan las adaptaciones necesarias.</p>
+
+<h2>Adaptaciones para Embarazadas</h2>
+
+<h3>1. Examen Físico Modificado</h3>
+<p>El examen físico se realizará de manera que garantice su comodidad y seguridad:</p>
+<ul>
+<li>Posiciones cómodas para la embarazada</li>
+<li>Evitar presión abdominal excesiva</li>
+<li>Monitoreo de la presión arterial (importante en el embarazo)</li>
+<li>Evaluación adaptada a la etapa de gestación</li>
+</ul>
+
+<h3>2. Vacunas y Embarazo</h3>
+<p>Esta es el área que requiere más atención:</p>
+
+<h4>✅ Vacunas Seguras Durante el Embarazo:</h4>
+<ul>
+<li><strong>Influenza (gripe):</strong> Recomendada para todas las embarazadas</li>
+<li><strong>Tdap (tétanos, difteria, tos ferina):</strong> Recomendada entre 27 y 36 semanas</li>
+</ul>
+
+<h4>⚠️ Vacunas Pospuestas:</h4>
+<ul>
+<li><strong>MMR (sarampión, paperas, rubéola):</strong> Pospuesta para después del parto</li>
+<li><strong>Varicela:</strong> Pospuesta para después del parto</li>
+<li><strong>Hepatitis A:</strong> Generalmente pospuesta</li>
+</ul>
+
+<h3>3. Exámenes de Laboratorio</h3>
+<p>La mayoría de los exámenes de laboratorio son seguros:</p>
+<ul>
+<li><strong>QuantiFERON-TB Gold:</strong> Seguro durante el embarazo</li>
+<li><strong>Sífilis RPR:</strong> Importante para la salud de la madre y el bebé</li>
+<li><strong>Gonorrea:</strong> Seguro y necesario</li>
+</ul>
+
+<h2>¿Cuándo Informar sobre el Embarazo?</h2>
+
+<h3>Al Agendar</h3>
+<p>Recomendamos encarecidamente que informe sobre su embarazo al momento de agendar. Esto permite que:</p>
+<ul>
+<li>Reservemos tiempo adicional si es necesario</li>
+<li>Preparemos adaptaciones específicas</li>
+<li>Programemos vacunas adecuadas a su situación</li>
+<li>Tengamos información sobre su etapa gestacional</li>
+</ul>
+
+<h2>Beneficios de Hacer el Examen Durante el Embarazo</h2>
+
+<h3>1. Conveniencia</h3>
+<ul>
+<li>Resuelve una etapa importante antes del nacimiento del bebé</li>
+<li>Evita preocupaciones durante los primeros meses con el nuevo bebé</li>
+<li>Permite enfoque en el proceso de inmigración sin interrupciones</li>
+</ul>
+
+<h3>2. Vacunación Tdap</h3>
+<p>La vacuna Tdap es especialmente importante en el embarazo porque:</p>
+<ul>
+<li>Lo protege contra la tos ferina</li>
+<li>Pasa anticuerpos al bebé, protegiéndolo en los primeros meses</li>
+<li>Recomendada por el CDC en cada embarazo</li>
+</ul>
+
+<h2>Seguridad del Bebé</h2>
+
+<h3>¿El examen perjudica al bebé?</h3>
+<p><strong>No.</strong> El examen médico de inmigración no representa riesgo para el bebé:</p>
+<ul>
+<li>El examen físico está adaptado para embarazadas</li>
+<li>Los exámenes de laboratorio son seguros</li>
+<li>Se administran vacunas seguras</li>
+<li>Las vacunas no seguras se posponen</li>
+</ul>
+
+<h2>Planificación del Timing</h2>
+
+<h3>Mejor Momento para el Examen</h3>
+
+<h4>Primer Trimestre (1-12 semanas)</h4>
+<ul>
+<li>✅ Puede estar sintiéndose bien</li>
+<li>⚠️ Algunas vacunas serán pospuestas</li>
+<li>⚠️ Puede haber náuseas que dificulten la visita</li>
+</ul>
+
+<h4>Segundo Trimestre (13-27 semanas)</h4>
+<ul>
+<li>✅ Generalmente el período más cómodo</li>
+<li>✅ Las náuseas generalmente mejoraron</li>
+<li>✅ Excelente momento para Tdap</li>
+</ul>
+
+<h4>Tercer Trimestre (28-40 semanas)</h4>
+<ul>
+<li>✅ Tdap puede administrarse (27-36 semanas)</li>
+<li>⚠️ Puede ser más incómodo debido al tamaño de la barriga</li>
+<li>⚠️ El movimiento puede ser más difícil</li>
+</ul>
+
+<h2>Conclusión</h2>
+<p>El examen médico de inmigración durante el embarazo es seguro y puede ser una excelente oportunidad para garantizar protección adicional para usted y su bebé a través de vacunas como Tdap e influenza. En Atlas Healthcare, entendemos las necesidades especiales de las embarazadas y adaptamos nuestra atención para garantizar comodidad y seguridad.</p>
+      `,
+    },
+    6: {
+      content: `
+<h2>Introducción</h2>
+<p>En Atlas Healthcare, entendemos que el proceso de inmigración puede generar urgencia y dudas. Por eso, ofrecemos flexibilidad en la atención, aceptando tanto citas programadas como walk-ins (atención sin cita). En este artículo, explicaremos cómo funciona cada opción y le ayudaremos a elegir la mejor alternativa para su necesidad.</p>
+
+<h2>Opciones de Atención</h2>
+
+<h3>1. Walk-ins (Recomendado)</h3>
+<p>Para quienes necesitan atención inmediata, aceptamos walk-ins:</p>
+
+<h4>Beneficios de los Walk-ins:</h4>
+<ul>
+<li>✅ Atención inmediata cuando sea necesaria</li>
+<li>✅ Sin necesidad de esperar por fecha disponible</li>
+<li>✅ Flexibilidad total de horario</li>
+<li>✅ Ideal para urgencias</li>
+</ul>
+
+<h4>Mejores Días para Walk-ins:</h4>
+<p>Basado en nuestra experiencia, los mejores días son:</p>
+<ul>
+<li><strong>Lunes:</strong> Menor movimiento al inicio de la semana</li>
+<li><strong>Jueves:</strong> Buen día con espera reducida</li>
+</ul>
+<p>Horarios recomendados: Al inicio del horario de atención (9:30) o después del almuerzo.</p>
+
+<h3>2. Cita en Línea</h3>
+<p>Nuestro sistema de citas en línea es una forma de programar su examen:</p>
+
+<h4>Beneficios de la Cita en Línea:</h4>
+<ul>
+<li>✅ Elija el mejor horario para usted</li>
+<li>✅ Garantía de atención en el día y hora elegidos</li>
+<li>✅ Menor tiempo de espera</li>
+<li>✅ Preparación anticipada del equipo</li>
+<li>✅ Recordatorio automático de la cita</li>
+</ul>
+
+<h4>Horarios Disponibles para Citas:</h4>
+<ul>
+<li>Lunes: 9:15 - 3PM</li>
+<li>Martes: 9:15 - 3PM</li>
+<li>Jueves: 9:15 - 3PM</li>
+<li>Viernes: 9:15 - 3PM</li>
+</ul>
+
+<h2>Duración de la Atención</h2>
+
+<h3>Examen Completo:</h3>
+<ul>
+<li>30-45 minutos en la mayoría de los casos</li>
+<li>Puede variar según complejidad individual</li>
+<li>Incluye: Examen físico, extracción de sangre, revisión de vacunas</li>
+</ul>
+
+<h2>Preparación para la Atención</h2>
+<p>Ya sea cita programada o walk-in, la preparación es la misma:</p>
+
+<h3>Documentos Necesarios:</h3>
+<ul>
+<li>Pasaporte o identidad válida</li>
+<li>Tarjeta de vacunación (si está disponible)</li>
+<li>Lista de medicamentos</li>
+<li>EAD (si aplica)</li>
+<li>Tarjeta de seguro médico</li>
+</ul>
+
+<h3>Consejos para Walk-ins:</h3>
+<ul>
+<li>Llegue temprano: Cuanto antes, menor la espera</li>
+<li>Venga preparado: Con todos los documentos</li>
+<li>Tenga flexibilidad de tiempo: Puede haber espera</li>
+<li>Evite horarios pico: Medio de la mañana y final de la tarde</li>
+</ul>
+
+<h2>Política de Retrasos</h2>
+
+<h3>Para Pacientes con Cita:</h3>
+<ul>
+<li>Llegue 15 minutos antes del horario</li>
+<li>Retraso hasta 10 minutos: Atención normal</li>
+<li>Retraso de 10-15 minutos: Puede haber espera adicional</li>
+<li>Retraso superior a 15 minutos: Puede ser necesario reagendar</li>
+</ul>
+
+<h2>Nuestra Recomendación</h2>
+
+<h3>✅ Agende en Línea Cuando:</h3>
+<ul>
+<li>Puede planificar con anticipación</li>
+<li>Quiere garantizar atención en horario específico</li>
+<li>Prefiere evitar esperas</li>
+<li>Tiene flexibilidad de fechas</li>
+</ul>
+
+<h3>✅ Venga como Walk-in Cuando:</h3>
+<ul>
+<li>Tiene urgencia real</li>
+<li>No puede encontrar horario disponible en línea</li>
+<li>Necesita atención inmediata</li>
+<li>Está en la región y quiere aprovechar</li>
+</ul>
+
+<h2>Conclusión</h2>
+<p>En Atlas Healthcare, nuestra prioridad es ofrecer atención de calidad de la forma más conveniente para usted. Ya sea a través de cita en línea o como walk-in, nuestro equipo está listo para atenderlo con excelencia.</p>
+<p><strong>Recuerde:</strong> mientras aceptamos walk-ins, la cita en línea garantiza una atención más rápida y sin espera. Elija la opción que mejor se adapte a su necesidad.</p>
+      `,
+    },
+    7: {
+      content: `
+<h2>Introducción</h2>
+<p>Al iniciar el proceso de examen médico de inmigración, muchas personas no entienden completamente la importancia de elegir un Civil Surgeon autorizado por el USCIS. En este artículo, exploraremos el papel fundamental de este profesional, por qué la autorización es obligatoria y cómo hacer la elección correcta.</p>
+
+<h2>¿Qué es un Civil Surgeon?</h2>
+<p>Un Civil Surgeon es un médico licenciado que ha recibido autorización especial del USCIS para realizar exámenes médicos de inmigración. Este no es solo un título - es una designación federal que requiere:</p>
+
+<h3>Requisitos para ser Civil Surgeon:</h3>
+<ul>
+<li>✅ Licencia médica válida en el estado</li>
+<li>✅ Formación médica completa (MD o DO)</li>
+<li>✅ Capacitación específica sobre requisitos de inmigración</li>
+<li>✅ Aprobación del USCIS después de proceso riguroso</li>
+<li>✅ Mantenimiento de credenciales actualizadas</li>
+<li>✅ Conocimiento de las leyes y regulaciones de inmigración</li>
+</ul>
+
+<h2>¿Por Qué Solo Civil Surgeons Autorizados Pueden Realizar el Examen?</h2>
+
+<h3>1. Responsabilidad Legal</h3>
+<p>El Civil Surgeon asume responsabilidad legal sobre:</p>
+<ul>
+<li>Veracidad de la información en el Formulario I-693</li>
+<li>Conformidad con requisitos federales de salud pública</li>
+<li>Documentación adecuada para el USCIS</li>
+<li>Evaluación correcta de condiciones de salud</li>
+</ul>
+
+<h3>2. Estándares Federales</h3>
+<p>El USCIS establece estándares rigurosos:</p>
+<ul>
+<li>Procedimientos estandarizados en todo el país</li>
+<li>Exámenes de laboratorio específicos obligatorios</li>
+<li>Criterios de vacunación uniformes</li>
+<li>Documentación regulada</li>
+</ul>
+
+<h2>¿Qué Hace un Civil Surgeon?</h2>
+
+<h3>1. Examen Físico Completo</h3>
+<ul>
+<li>Evaluación sistemática de todos los sistemas corporales</li>
+<li>Detección de enfermedades contagiosas o preocupantes</li>
+<li>Documentación detallada de los hallazgos</li>
+<li>Evaluación de condiciones que puedan afectar la admisibilidad</li>
+</ul>
+
+<h3>2. Revisión de Historial Médico</h3>
+<ul>
+<li>Análisis completo de enfermedades anteriores</li>
+<li>Evaluación de tratamientos realizados</li>
+<li>Verificación de condiciones crónicas</li>
+<li>Documentación de medicaciones</li>
+</ul>
+
+<h3>3. Coordinación de Exámenes de Laboratorio</h3>
+<ul>
+<li>Prescripción de pruebas obligatorias</li>
+<li>Interpretación de resultados</li>
+<li>Determinación de necesidad de tratamiento adicional</li>
+<li>Documentación de conformidad</li>
+</ul>
+
+<h2>Consecuencias de Usar un Profesional No Autorizado</h2>
+
+<h3>❌ Riesgos Graves:</h3>
+
+<h4>Formulario Rechazado</h4>
+<ul>
+<li>El USCIS no acepta exámenes de profesionales no autorizados</li>
+<li>Puede resultar en retraso o negación del proceso</li>
+</ul>
+
+<h4>Pérdida de Tiempo y Dinero</h4>
+<ul>
+<li>Necesidad de rehacer todo el proceso</li>
+<li>Costos adicionales con nuevo examen</li>
+<li>Retraso en el proceso de inmigración</li>
+</ul>
+
+<h2>El Dr. Wingo: Experiencia y Dedicación</h2>
+
+<h3>Credenciales:</h3>
+<ul>
+<li>✅ Designación activa del USCIS</li>
+<li>✅ Más de 10,000 exámenes realizados</li>
+<li>✅ Tasa de aceptación del 100% por el USCIS</li>
+<li>✅ Experiencia con casos complejos</li>
+<li>✅ Actualización constante en regulaciones</li>
+</ul>
+
+<h3>Diferenciales:</h3>
+<ul>
+<li><strong>Atención multilingüe:</strong> Portugués, Español e Inglés</li>
+<li><strong>Proceso simplificado:</strong> Mayoría de exámenes en una visita</li>
+<li><strong>Equipo especializado:</strong> Capacitado específicamente para inmigración</li>
+<li><strong>Compromiso con calidad:</strong> Cada paciente recibe atención individual</li>
+</ul>
+
+<h2>¿Por Qué Elegir Atlas Healthcare?</h2>
+
+<h3>1. Experiencia Comprobada</h3>
+<ul>
+<li>Más de 10,000 exámenes realizados con éxito</li>
+<li>100% de aceptación por el USCIS</li>
+<li>Años de experiencia específica en inmigración</li>
+</ul>
+
+<h3>2. Conveniencia</h3>
+<ul>
+<li>Todo en un solo lugar: Examen, laboratorio y vacunas</li>
+<li>Una sola visita en la mayoría de los casos</li>
+<li>Resultados rápidos y formulario listo en pocos días</li>
+</ul>
+
+<h3>3. Atención Humanizada</h3>
+<ul>
+<li>Equipo multilingüe: Portugués, Español e Inglés</li>
+<li>Ambiente acogedor: Especialmente para inmigrantes</li>
+<li>Soporte continuo: Antes, durante y después del examen</li>
+</ul>
+
+<h2>Conclusión</h2>
+<p>La elección del Civil Surgeon es una de las decisiones más importantes en el proceso de inmigración. Un profesional autorizado y experimentado garantiza:</p>
+<ul>
+<li>✅ Aceptación garantizada por el USCIS</li>
+<li>✅ Proceso sin complicaciones</li>
+<li>✅ Seguridad y calidad</li>
+<li>✅ Tranquilidad en una etapa crucial</li>
+</ul>
+<p><strong>No arriesgue su sueño americano con profesionales no autorizados. Elija experiencia, calidad y garantía de éxito.</strong></p>
+      `,
+    },
   },
   en: {
     // English versions of all 7 articles - Similar structure with translated content
