@@ -188,7 +188,7 @@ export const translations = {
     aboutPage: {
       title: "Sobre Nós",
       mission: "Nossa Missão",
-      missionText: "Na Atlas Healthcare, nossa missão é ir além do atendimento: é construir pontes entre pessoas, culturas e novos começos. Acreditamos que cuidar da saúde também é cuidar de histórias, famílias e sonhos que atravessam fronteiras em busca de segurança, dignidade e pertencimento.\n\nTrabalhamos para aproximar corações e reunir lares, oferecendo um atendimento eficiente, humano e orientado por processos claros, para que cada pessoa se sinta acolhida, compreendida e respeitada — independentemente do idioma, da origem ou da complexidade da sua jornada.\n\nCom a confiança de quem já auxiliou mais de 10.000 famílias, assumimos o compromisso de transformar burocracia em clareza, medo em orientação e distância em reconexão. Cada atendimento é tratado como único, porque entendemos que por trás de cada formulário existe uma vida, uma família e um futuro em construção.\n\nNossa missão é ser mais do que um serviço de saúde: é ser um ponto de apoio sólido em momentos decisivos, garantindo que cada novo começo seja conduzido com responsabilidade, empatia e excelência.",
+      missionText: "Reunir famílias através de um processo de exame médico de imigração eficiente, compassivo e confiável.",
       values: "Nossos Valores",
       valuesList: ["Excelência médica", "Compaixão", "Transparência", "Eficiência", "Acessibilidade"]
     },

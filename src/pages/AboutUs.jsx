@@ -57,11 +57,9 @@ function AboutContent() {
                     {t.aboutPage.mission}
                   </h2>
                 </div>
-                <div className="text-lg text-gray-600 leading-relaxed space-y-4">
-                  {t.aboutPage.missionText.split('\n\n').map((paragraph, index) => (
-                    <p key={index}>{paragraph}</p>
-                  ))}
-                </div>
+                <p className="text-xl text-gray-600 leading-relaxed">
+                  {t.aboutPage.missionText}
+                </p>
               </motion.div>
 
               <motion.div
