@@ -2,13 +2,14 @@ export const translations = {
   pt: {
     // Navigation
     nav: {
-      home: "Início",
-      exam: "Exame de Imigração",
-      expect: "O Que Esperar",
-      faq: "Perguntas Frequentes",
-      about: "Sobre Nós",
-      contact: "Contato",
-      book: "Agendar"
+    home: "Início",
+    exam: "Exame de Imigração",
+    expect: "O Que Esperar",
+    faq: "Perguntas Frequentes",
+    blog: "Blog",
+    about: "Sobre Nós",
+    contact: "Contato",
+    book: "Agendar"
     },
     // Splash
     splash: {
@@ -145,6 +146,22 @@ export const translations = {
       callNow: "Ligar Agora",
       rights: "Todos os direitos reservados."
     },
+    blog: {
+      title: "Blog Atlas Healthcare",
+      subtitle: "Informações e recursos para seu processo de imigração",
+      readMore: "Ler mais",
+      backToBlog: "Voltar para o Blog",
+      relatedArticles: "Outros artigos",
+      articles: [
+        { id: 1, title: "Entendendo o Exame Médico de Imigração: Guia Completo para o Processo do USCIS", summary: "Descubra tudo sobre o exame médico de imigração, o papel do Civil Surgeon, exames laboratoriais obrigatórios e o que esperar no dia do seu agendamento." },
+        { id: 2, title: "Quanto Custa o Exame Médico de Imigração? Entenda os Investimentos no Seu Processo", summary: "Valores transparentes, o que está incluído, por que o seguro não cobre e por que vale a pena investir em um Civil Surgeon autorizado pelo USCIS." },
+        { id: 3, title: "Checklist Completo: O que Trazer para Seu Exame Médico de Imigração", summary: "Lista completa de documentos essenciais, dicas de preparação e checklist para imprimir e garantir que você não esqueça nada no dia do exame." },
+        { id: 4, title: "Vacinas Obrigatórias para Imigração: Guia Completo", summary: "Conheça todas as vacinas exigidas pelo USCIS, como comprovar imunidade e o que fazer se não tiver comprovação de vacinação." },
+        { id: 5, title: "Exame Médico de Imigração para Gestantes: Segurança e Cuidados Especiais", summary: "Tudo o que gestantes precisam saber sobre o exame de imigração, vacinas seguras durante a gravidez e adaptações necessárias." },
+        { id: 6, title: "Walk-ins e Agendamentos: Como Funciona o Atendimento na Atlas Healthcare", summary: "Entenda as diferenças entre agendamento online e walk-ins, melhores horários e como escolher a melhor opção para sua necessidade." },
+        { id: 7, title: "O Papel do Civil Surgeon: Por que a Escolha do Profissional Certo é Crucial", summary: "A importância de escolher um Civil Surgeon autorizado pelo USCIS, riscos de profissionais não autorizados e credenciais do Dr. Wingo." }
+      ]
+    },
     // FAQ Page
     faqPage: {
       title: "Perguntas Frequentes",
@@ -222,13 +239,14 @@ export const translations = {
   es: {
     // Navigation
     nav: {
-      home: "Inicio",
-      exam: "Examen de Inmigración",
-      expect: "Qué Esperar",
-      faq: "Preguntas Frecuentes",
-      about: "Sobre Nosotros",
-      contact: "Contacto",
-      book: "Agendar"
+    home: "Inicio",
+    exam: "Examen de Inmigración",
+    expect: "Qué Esperar",
+    faq: "Preguntas Frecuentes",
+    blog: "Blog",
+    about: "Sobre Nosotros",
+    contact: "Contacto",
+    book: "Agendar"
     },
     // Splash
     splash: {
@@ -365,6 +383,22 @@ export const translations = {
       callNow: "Llamar Ahora",
       rights: "Todos los derechos reservados."
     },
+    blog: {
+      title: "Blog Atlas Healthcare",
+      subtitle: "Información y recursos para su proceso de inmigración",
+      readMore: "Leer más",
+      backToBlog: "Volver al Blog",
+      relatedArticles: "Otros artículos",
+      articles: [
+        { id: 1, title: "Entendiendo el Examen Médico de Inmigración: Guía Completa para el Proceso del USCIS", summary: "Descubra todo sobre el examen médico de inmigración, el papel del Civil Surgeon, exámenes de laboratorio obligatorios y qué esperar el día de su cita." },
+        { id: 2, title: "¿Cuánto Cuesta el Examen Médico de Inmigración? Entienda las Inversiones en Su Proceso", summary: "Valores transparentes, qué está incluido, por qué el seguro no lo cubre y por qué vale la pena invertir en un Civil Surgeon autorizado por USCIS." },
+        { id: 3, title: "Checklist Completo: Qué Traer para Su Examen Médico de Inmigración", summary: "Lista completa de documentos esenciales, consejos de preparación y checklist para imprimir y garantizar que no olvide nada el día del examen." },
+        { id: 4, title: "Vacunas Obligatorias para Inmigración: Guía Completa", summary: "Conozca todas las vacunas exigidas por USCIS, cómo comprobar inmunidad y qué hacer si no tiene comprobante de vacunación." },
+        { id: 5, title: "Examen Médico de Inmigración para Embarazadas: Seguridad y Cuidados Especiales", summary: "Todo lo que las embarazadas necesitan saber sobre el examen de inmigración, vacunas seguras durante el embarazo y adaptaciones necesarias." },
+        { id: 6, title: "Walk-ins y Citas: Cómo Funciona la Atención en Atlas Healthcare", summary: "Entienda las diferencias entre cita online y walk-ins, mejores horarios y cómo elegir la mejor opción para su necesidad." },
+        { id: 7, title: "El Papel del Civil Surgeon: Por Qué la Elección del Profesional Correcto es Crucial", summary: "La importancia de elegir un Civil Surgeon autorizado por USCIS, riesgos de profesionales no autorizados y credenciales del Dr. Wingo." }
+      ]
+    },
     // FAQ Page
     faqPage: {
       title: "Preguntas Frecuentes",
@@ -442,13 +476,14 @@ export const translations = {
   en: {
     // Navigation
     nav: {
-      home: "Home",
-      exam: "Immigration Exam",
-      expect: "What to Expect",
-      faq: "FAQ",
-      about: "About Us",
-      contact: "Contact",
-      book: "Book Now"
+    home: "Home",
+    exam: "Immigration Exam",
+    expect: "What to Expect",
+    faq: "FAQs",
+    blog: "Blog",
+    about: "About Us",
+    contact: "Contact",
+    book: "Book Now"
     },
     // Splash
     splash: {
