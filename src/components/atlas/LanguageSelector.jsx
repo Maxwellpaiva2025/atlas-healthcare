@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { MapPin, Star, Shield, Clock, Award, Users } from 'lucide-react';
 import { useLanguage } from './LanguageContext';
 
-const LOGO_URL = "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/698388acd2bf994a97ff1d42/284e33aed_LOGO.png";
+const LOGO_URL = "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/698388acd2bf994a97ff1d42/8a327f975_LOGOport.png";
 
 
 
