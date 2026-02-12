@@ -51,7 +51,7 @@ export default function Header() {
       <motion.header
         className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
           isScrolled 
-            ? 'bg-white/95 backdrop-blur-md shadow-lg' 
+            ? 'bg-[#1a3a5c]/95 backdrop-blur-md shadow-lg' 
             : 'bg-transparent'
         }`}
         initial={{ y: -100 }}
@@ -65,9 +65,7 @@ export default function Header() {
               <img 
                 src={LOGO_URL} 
                 alt="Atlas Healthcare" 
-                className={`h-14 sm:h-16 md:h-20 transition-all duration-300 ${
-                  isScrolled ? 'brightness-100' : 'brightness-0 invert'
-                }`}
+                className="h-14 sm:h-16 md:h-20 brightness-0 invert transition-all duration-300"
               />
             </Link>
 
@@ -78,11 +76,7 @@ export default function Header() {
                   key={item.label}
                   to={item.href}
                   onClick={() => item.section && scrollToSection(item.section)}
-                  className={`px-3 py-2 text-sm font-medium rounded-lg transition-colors ${
-                    isScrolled 
-                      ? 'text-gray-700 hover:text-[#4ECCA3] hover:bg-[#4ECCA3]/10' 
-                      : 'text-white/90 hover:text-white hover:bg-white/10'
-                  }`}
+                  className="px-3 py-2 text-sm font-medium rounded-lg transition-colors text-white/90 hover:text-white hover:bg-white/10"
                 >
                   {item.label}
                 </Link>
@@ -95,11 +89,7 @@ export default function Header() {
               <div className="relative">
                 <button
                   onClick={() => setIsLangDropdownOpen(!isLangDropdownOpen)}
-                  className={`flex items-center gap-1.5 px-2 py-1.5 rounded-lg text-sm transition-colors ${
-                    isScrolled 
-                      ? 'text-gray-700 hover:bg-gray-100' 
-                      : 'text-white/90 hover:bg-white/10'
-                  }`}
+                  className="flex items-center gap-1.5 px-2 py-1.5 rounded-lg text-sm transition-colors text-white/90 hover:bg-white/10"
                 >
                   <Globe className="w-4 h-4" />
                   <span className="hidden sm:inline">
@@ -149,9 +139,7 @@ export default function Header() {
               {/* Mobile Menu Button */}
               <button
                 onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-                className={`lg:hidden p-2 rounded-lg transition-colors ${
-                  isScrolled ? 'text-gray-700' : 'text-white'
-                }`}
+                className="lg:hidden p-2 rounded-lg transition-colors text-white"
               >
                 {isMobileMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
               </button>
