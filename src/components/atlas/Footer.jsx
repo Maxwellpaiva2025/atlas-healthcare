@@ -4,7 +4,7 @@ import { useLanguage } from './LanguageContext';
 import { Link } from 'react-router-dom';
 import { createPageUrl } from '@/utils';
 
-const LOGO_URL = "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/user_68ffcb51eeb9e0ad79e826fd/ddd4d812c_LOGO.png";
+const LOGO_URL = "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/698388acd2bf994a97ff1d42/8a327f975_LOGOport.png";
 const BOOKING_URL = "https://atlashealthcare.janeapp.com/";
 const MAIN_PHONE = "8433529353";
 const MESSAGE_PHONE = "8033084933";
