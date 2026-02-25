@@ -6,7 +6,6 @@ export const translations = {
     exam: "Exame de Imigração",
     expect: "O Que Esperar",
     faq: "Perguntas Frequentes",
-    blog: "Blog",
     about: "Sobre Nós",
     contact: "Contato",
     book: "Agendar"
@@ -52,7 +51,7 @@ export const translations = {
       items: [
         { title: "Exame Personalizado", desc: "Dr. Wingo avalia seu caso individualmente. Não usamos protocolo 'tamanho único'." },
         { title: "Garantia de Aceitação", desc: "100% de aceitação pelo USCIS. Se houver erro nosso, corrigimos sem custo." },
-        { title: "Preço Transparente", desc: "Adulto: $460 | Criança: $380. Inclui TODOS os exames laboratoriais necessários." },
+        { title: "Preço Transparente", desc: "Adulto: $480-$1,030 | Criança: $380+. Inclui TODOS os exames laboratoriais necessários." },
         { title: "Rápido e Conveniente", desc: "Mesmo dia e walk-ins disponíveis. Resultados em 1 semana ou menos." },
         { title: "One-Stop Shop", desc: "Exame, laboratório e vacinas tudo no mesmo lugar. Uma visita resolve." },
         { title: "Experiência Real", desc: "Dr. Wingo tem 12+ anos e já realizou 10.000+ exames de imigração." }
@@ -146,22 +145,7 @@ export const translations = {
       callNow: "Ligar Agora",
       rights: "Todos os direitos reservados."
     },
-    blog: {
-      title: "Blog Atlas Healthcare",
-      subtitle: "Informações e recursos para seu processo de imigração",
-      readMore: "Ler mais",
-      backToBlog: "Voltar para o Blog",
-      relatedArticles: "Outros artigos",
-      articles: [
-        { id: 1, title: "Entendendo o Exame Médico de Imigração: Guia Completo para o Processo do USCIS", summary: "Descubra tudo sobre o exame médico de imigração, o papel do Civil Surgeon, exames laboratoriais obrigatórios e o que esperar no dia do seu agendamento." },
-        { id: 2, title: "Quanto Custa o Exame Médico de Imigração? Entenda os Investimentos no Seu Processo", summary: "Valores transparentes, o que está incluído, por que o seguro não cobre e por que vale a pena investir em um Civil Surgeon autorizado pelo USCIS." },
-        { id: 3, title: "Checklist Completo: O que Trazer para Seu Exame Médico de Imigração", summary: "Lista completa de documentos essenciais, dicas de preparação e checklist para imprimir e garantir que você não esqueça nada no dia do exame." },
-        { id: 4, title: "Vacinas Obrigatórias para Imigração: Guia Completo", summary: "Conheça todas as vacinas exigidas pelo USCIS, como comprovar imunidade e o que fazer se não tiver comprovação de vacinação." },
-        { id: 5, title: "Exame Médico de Imigração para Gestantes: Segurança e Cuidados Especiais", summary: "Tudo o que gestantes precisam saber sobre o exame de imigração, vacinas seguras durante a gravidez e adaptações necessárias." },
-        { id: 6, title: "Walk-ins e Agendamentos: Como Funciona o Atendimento na Atlas Healthcare", summary: "Entenda as diferenças entre agendamento online e walk-ins, melhores horários e como escolher a melhor opção para sua necessidade." },
-        { id: 7, title: "O Papel do Civil Surgeon: Por que a Escolha do Profissional Certo é Crucial", summary: "A importância de escolher um Civil Surgeon autorizado pelo USCIS, riscos de profissionais não autorizados e credenciais do Dr. Wingo." }
-      ]
-    },
+
     // FAQ Page
     faqPage: {
       title: "Perguntas Frequentes",
@@ -173,15 +157,17 @@ export const translations = {
         walkins: "Walk-ins"
       },
       questions: [
-        { q: "O que está incluído no Exame Médico de Imigração?", a: "Exame físico completo, revisão de histórico médico, exames laboratoriais obrigatórios (QuantiFERON-TB Gold, Sífilis RPR, Gonorrhea), revisão de cartão de vacinação, vacinas disponíveis no local, e Formulário I-693 lacrado para USCIS." },
-        { q: "Quanto custa o exame?", a: "Adulto: $460 | Criança: $380. Inclui TODOS os exames laboratoriais necessários. Não há cobrança para retorno se necessário." },
-        { q: "O que devo trazer para o agendamento?", a: "Passaporte ou documento de identidade, cartão de vacinação (se disponível), lista de medicamentos diários, autorização de trabalho (EAD - se aplicável), cartão de seguro saúde, exame I-693 anterior (se tiver)." },
-        { q: "Aceitam seguro saúde?", a: "O seguro saúde NÃO cobre o custo do exame médico de imigração. Porém, pode cobrir vacinas necessárias." },
-        { q: "Aceitam walk-ins?", a: "Sim! Aceitamos walk-ins. Segundas e Quintas são os melhores dias com menos espera." },
-        { q: "Quanto tempo dura o agendamento?", a: "30-45 minutos na maioria dos casos." },
-        { q: "E se eu não tiver cartão de vacinação?", a: "Não há problema! Dr. Wingo determinará quais vacinas você precisa." },
-        { q: "E se eu estiver grávida?", a: "Por favor, nos informe com antecedência. Certas vacinas podem ser adiadas." },
-        { q: "Oferecem serviços de tradução?", a: "Sim! Espanhol e Português disponíveis com uma pequena taxa adicional." }
+        { q: "Posso fazer meu Exame Médico de Imigração (IME / I-693) com meu médico de família?", a: "Não, o exame deve ser realizado por um Civil Surgeon certificado pelo USCIS." },
+        { q: "Posso usar meu seguro saúde para o Exame Médico de Imigração?", a: "O seguro saúde NÃO cobrirá os custos do exame médico de imigração em NENHUM consultório. No entanto, fazemos todo o esforço para que o custo de quaisquer vacinas necessárias seja coberto pelo seu seguro.\n\nLigue para sua seguradora antes do agendamento para verificar se vacinas preventivas são cobertas fora da franquia. Não tente tomar suas vacinas antes do agendamento para que a Dra. Wingo possa orientá-lo sobre quais você precisará. Nem todos precisarão receber todas as vacinas." },
+        { q: "E se eu não tiver seguro médico?", a: "Fornecemos as vacinas a um preço acessível para sua conveniência. No entanto, se preferir, você pode ir ao seu médico de família, farmácia local ou departamento de saúde para tomar suas vacinas. Novamente, não tente tomar suas vacinas antes do agendamento com a Dra. Wingo." },
+        { q: "Qual é o custo do Exame Médico de Imigração?", a: "O preço base do exame é $480 - isso inclui todos os exames laboratoriais necessários.\n\n(IMPORTANTE: NÃO há cobrança por uma Segunda Visita, e na maioria dos casos, NÃO há necessidade de segunda visita.)\n\nAlém do preço base, o custo final do seu exame dependerá de quantas vacinas você precisa e, raramente, de quanta coordenação de cuidados seu exame requer. O custo máximo de um exame em nosso consultório é $1030, mas isso é APENAS SE você precisar de todas as vacinas e recebê-las de nós a preços mais baixos.\n\nA faixa de preço final mais comum é $480-$1030. Entenda que nosso preço reflete o fato de que nosso consultório é um 'one-stop shop'; ao contrário de muitos outros que não fornecem laboratórios e vacinas no momento do seu agendamento.\n\n**Você NÃO precisa receber suas vacinas conosco. Se você pode obter suas vacinas com seguro privado, através do departamento de saúde ou clínica comunitária, a Dra. Wingo terá prazer em escrever uma receita que você pode levar a essa instituição.\n\n**Para exames repetidos/atualizados, oferecemos um desconto significativo.\n\n**O seguro saúde NÃO cobrirá o preço base do exame, mas pode cobrir o custo de suas vacinas.\n\n**As vacinas específicas que você precisará só podem ser determinadas pela Dra. Wingo no momento do seu exame, conversando com você e revisando quaisquer registros que você possa ter.\n\n**NÃO tente tomar suas vacinas antes do agendamento, pois isso pode fazer com que você receba vacinas desnecessárias e gaste mais do que o necessário. Além disso, NÃO atrase seu exame esperando por registros de vacinas, pois frequentemente eles não mudam quais vacinas você precisará agora.\n\n***A maneira mais rápida e econômica de completar seu exame médico de imigração é sentar-se com a Dra. Wingo o mais rápido possível." },
+        { q: "O que devo trazer para o agendamento?", a: "Itens para trazer ao seu agendamento inicial incluem:\n\n1) Passaporte (outras formas de identificação podem ser aceitáveis se seu passaporte não estiver disponível)\n\n2) Registros de vacinação se você os tiver (tudo bem se não tiver)\n\n3) Lista de medicamentos (se aplicável)\n\n4) Seu número Alien / A se você tiver um (também listado como 'USCIS Number' no Cartão de Autorização de Trabalho)\n\n5) Se você tem seguro saúde, traga seu cartão\n\n6) Se você completou este exame no passado, traga uma cópia desse exame\n\n*Você NÃO precisa jejuar para este agendamento. É importante hidratar-se bem.**\n\n*Evite usar perfumes ou cheiros fortes no agendamento, pois muitos de nossos funcionários e pacientes são sensíveis**" },
+        { q: "Quais formas de pagamento vocês aceitam?", a: "Cartões de crédito ou débito principais, cheque (deve estar pré-impresso com seu nome, endereço e telefone, e poder ser depositado imediatamente) e dinheiro." },
+        { q: "Vocês cobram uma taxa única pelo exame ou cobram por visita?", a: "Na Atlas Healthcare, você paga apenas uma vez pelo exame no dia da sua primeira visita. Cobranças adicionais só serão feitas se serviços adicionais forem necessários, como raios-X, tratamento, vacinas adicionais e/ou coordenação de cuidados." },
+        { q: "Vocês atendem agendamentos urgentes ou no mesmo dia?", a: "Sim, na Atlas Healthcare, temos prazer em aceitar solicitações de agendamento urgente, se possível." },
+        { q: "Sua clínica permite agendamento online?", a: "Sim, na Atlas Healthcare, você pode agendar convenientemente seu agendamento através do nosso link de reserva em um horário que se adeque à sua agenda. Se o dia e horário desejados não estiverem disponíveis, você pode adicionar seu nome a uma 'lista de espera', e aprovaremos sua solicitação se possível. Também oferecemos horários walk-in disponíveis segunda, terça e quinta das 10:00 às 14:00." },
+        { q: "Se meu exame expirar por qualquer motivo, preciso pagar o preço integral por um exame repetido?", a: "Não! Na Atlas Healthcare, realizamos exames para nossos clientes repetidos a um custo muito reduzido. Damos um grande desconto no preço base e aproveitaremos tudo que pudermos do seu exame anterior." },
+        { q: "O exame médico de imigração é seguro durante a gravidez?", a: "Sim, o exame médico de imigração é seguro de completar durante a gravidez.\n\nO exame inclui uma revisão do seu histórico médico e de saúde mental, um exame físico, revisão de registros de vacinação e exames laboratoriais obrigatórios pelo USCIS. Esses componentes geralmente são considerados seguros durante a gravidez.\n\n• Vacinas: Algumas vacinas não são recomendadas durante a gravidez. Se uma vacina for medicamente contraindicada devido à gravidez, a Dra. Wingo documentará isso adequadamente de acordo com as Instruções Técnicas do CDC.\n\nCada gravidez é única. Se você está grávida ou acredita que pode estar grávida, notifique nosso consultório na chegada ao seu agendamento para que possamos orientá-la adequadamente e garantir que toda a documentação seja tratada corretamente." }
       ]
     },
     // About Page
@@ -199,10 +185,10 @@ export const translations = {
       includedList: [
         "Exame físico e revisão de saúde geral",
         "Revisão de histórico médico e de saúde mental",
-        "Exames laboratoriais obrigatórios: QuantiFERON-TB Gold (tuberculose), Sífilis (RPR), Gonorrhea (urina)",
+        "Exames laboratoriais obrigatórios pelo USCIS",
         "Revisão de cartão de vacinação",
-        "Vacinas disponíveis no local",
-        "Formulário I-693 lacrado para USCIS"
+        "Vacinas administradas, se necessário",
+        "Formulário I-693 lacrado"
       ],
       cost: "Quanto custa o exame?",
       whatToBring: "O que trazer para o agendamento?",
@@ -243,7 +229,6 @@ export const translations = {
     exam: "Examen de Inmigración",
     expect: "Qué Esperar",
     faq: "Preguntas Frecuentes",
-    blog: "Blog",
     about: "Sobre Nosotros",
     contact: "Contacto",
     book: "Agendar"
@@ -289,7 +274,7 @@ export const translations = {
       items: [
         { title: "Examen Personalizado", desc: "Dr. Wingo evalúa su caso individualmente. No usamos protocolo 'talla única'." },
         { title: "Garantía de Aceptación", desc: "100% de aceptación por USCIS. Si hay error nuestro, lo corregimos sin costo." },
-        { title: "Precio Transparente", desc: "Adulto: $460 | Niño: $380. Incluye TODOS los exámenes de laboratorio necesarios." },
+        { title: "Precio Transparente", desc: "Adulto: $480-$1,030 | Niño: $380+. Incluye TODOS los exámenes de laboratorio necesarios." },
         { title: "Rápido y Conveniente", desc: "Mismo día y walk-ins disponibles. Resultados en 1 semana o menos." },
         { title: "One-Stop Shop", desc: "Examen, laboratorio y vacunas todo en el mismo lugar. Una visita resuelve." },
         { title: "Experiencia Real", desc: "Dr. Wingo tiene 12+ años y ha realizado 10,000+ exámenes de inmigración." }
@@ -383,22 +368,7 @@ export const translations = {
       callNow: "Llamar Ahora",
       rights: "Todos los derechos reservados."
     },
-    blog: {
-      title: "Blog Atlas Healthcare",
-      subtitle: "Información y recursos para su proceso de inmigración",
-      readMore: "Leer más",
-      backToBlog: "Volver al Blog",
-      relatedArticles: "Otros artículos",
-      articles: [
-        { id: 1, title: "Entendiendo el Examen Médico de Inmigración: Guía Completa para el Proceso del USCIS", summary: "Descubra todo sobre el examen médico de inmigración, el papel del Civil Surgeon, exámenes de laboratorio obligatorios y qué esperar el día de su cita." },
-        { id: 2, title: "¿Cuánto Cuesta el Examen Médico de Inmigración? Entienda las Inversiones en Su Proceso", summary: "Valores transparentes, qué está incluido, por qué el seguro no lo cubre y por qué vale la pena invertir en un Civil Surgeon autorizado por USCIS." },
-        { id: 3, title: "Checklist Completo: Qué Traer para Su Examen Médico de Inmigración", summary: "Lista completa de documentos esenciales, consejos de preparación y checklist para imprimir y garantizar que no olvide nada el día del examen." },
-        { id: 4, title: "Vacunas Obligatorias para Inmigración: Guía Completa", summary: "Conozca todas las vacunas exigidas por USCIS, cómo comprobar inmunidad y qué hacer si no tiene comprobante de vacunación." },
-        { id: 5, title: "Examen Médico de Inmigración para Embarazadas: Seguridad y Cuidados Especiales", summary: "Todo lo que las embarazadas necesitan saber sobre el examen de inmigración, vacunas seguras durante el embarazo y adaptaciones necesarias." },
-        { id: 6, title: "Walk-ins y Citas: Cómo Funciona la Atención en Atlas Healthcare", summary: "Entienda las diferencias entre cita online y walk-ins, mejores horarios y cómo elegir la mejor opción para su necesidad." },
-        { id: 7, title: "El Papel del Civil Surgeon: Por Qué la Elección del Profesional Correcto es Crucial", summary: "La importancia de elegir un Civil Surgeon autorizado por USCIS, riesgos de profesionales no autorizados y credenciales del Dr. Wingo." }
-      ]
-    },
+
     // FAQ Page
     faqPage: {
       title: "Preguntas Frecuentes",
@@ -410,15 +380,17 @@ export const translations = {
         walkins: "Walk-ins"
       },
       questions: [
-        { q: "¿Qué está incluido en el Examen Médico de Inmigración?", a: "Examen físico completo, revisión de historial médico, exámenes de laboratorio obligatorios (QuantiFERON-TB Gold, Sífilis RPR, Gonorrea), revisión de tarjeta de vacunación, vacunas disponibles en el lugar, y Formulario I-693 sellado para USCIS." },
-        { q: "¿Cuánto cuesta el examen?", a: "Adulto: $460 | Niño: $380. Incluye TODOS los exámenes de laboratorio necesarios. No hay cargo por retorno si es necesario." },
-        { q: "¿Qué debo traer a la cita?", a: "Pasaporte o documento de identidad, tarjeta de vacunación (si está disponible), lista de medicamentos diarios, autorización de trabajo (EAD - si aplica), tarjeta de seguro médico, examen I-693 anterior (si tiene)." },
-        { q: "¿Aceptan seguro médico?", a: "El seguro médico NO cubre el costo del examen médico de inmigración. Sin embargo, puede cubrir las vacunas necesarias." },
-        { q: "¿Aceptan walk-ins?", a: "¡Sí! Aceptamos walk-ins. Lunes y Jueves son los mejores días con menos espera." },
-        { q: "¿Cuánto tiempo dura la cita?", a: "30-45 minutos en la mayoría de los casos." },
-        { q: "¿Y si no tengo tarjeta de vacunación?", a: "¡No hay problema! Dr. Wingo determinará qué vacunas necesita." },
-        { q: "¿Y si estoy embarazada?", a: "Por favor, infórmenos con anticipación. Ciertas vacunas pueden ser pospuestas." },
-        { q: "¿Ofrecen servicios de traducción?", a: "¡Sí! Español y Portugués disponibles con una pequeña tarifa adicional." }
+        { q: "¿Puedo hacerme mi Examen Médico de Inmigración (IME / I-693) con mi médico de familia?", a: "No, el examen debe ser realizado por un Civil Surgeon certificado por USCIS." },
+        { q: "¿Puedo usar mi seguro médico para mi Examen Médico de Inmigración?", a: "El seguro médico NO cubrirá los costos de un examen médico de inmigración en NINGÚN consultorio. Sin embargo, hacemos todo lo posible para que el costo de cualquier vacuna necesaria sea cubierto por su seguro.\n\nLlame a su compañía de seguros antes de su cita para averiguar si las vacunas preventivas están cubiertas fuera de su deducible. No intente obtener sus vacunas antes de su cita para que la Dra. Wingo pueda aconsejarle cuáles necesitará. No todos necesitarán recibir todas las vacunas." },
+        { q: "¿Y si no tengo seguro médico?", a: "Proporcionamos las vacunas a un precio asequible para su conveniencia. Sin embargo, si lo prefiere, puede ir a su médico de familia, farmacia local o departamento de salud para obtener sus vacunas. Nuevamente, no intente obtener sus vacunas antes de su cita con la Dra. Wingo." },
+        { q: "¿Cuál es el costo del Examen Médico de Inmigración?", a: "El precio base del examen es $480 - esto incluye todos los exámenes de laboratorio necesarios.\n\n(IMPORTANTE: NO hay cargo por una Segunda Visita, y en la mayoría de los casos, NO hay necesidad de una segunda visita.)\n\nMás allá del precio base, el costo final de su examen dependerá de cuántas vacunas necesite y, raramente, de cuánta coordinación de atención requiera su examen. El costo máximo de un examen en nuestro consultorio es $1030, pero esto es SOLO SI necesita todas las vacunas y las recibe de nosotros a nuestros precios más bajos.\n\nEl rango de precio final más común es $480-$1030. Entienda que nuestro precio refleja el hecho de que nuestro consultorio es un 'one-stop shop'; a diferencia de muchos otros que no proporcionan laboratorios y vacunas en el momento de su cita.\n\n**NO tiene que obtener sus vacunas de nosotros. Si puede obtener sus vacunas con seguro médico privado, a través del departamento de salud o una clínica comunitaria, la Dra. Wingo estará encantada de escribirle una receta que puede llevar a esa instalación.\n\n**Para exámenes repetidos/actualizados, proporcionamos un descuento significativo.\n\n**El seguro médico NO cubrirá el precio base del examen, pero puede cubrir el costo de sus vacunas.\n\n**Las vacunas específicas que necesitará solo pueden ser determinadas por la Dra. Wingo en el momento de su examen hablando con usted y revisando cualquier registro que pueda tener.\n\n**NO intente obtener sus vacunas antes de su cita ya que esto puede hacer que reciba vacunas innecesarias y gaste más de lo necesario. Además, NO retrase su examen esperando registros de vacunas ya que frecuentemente no cambian qué vacunas necesitará ahora.\n\n***La forma más rápida y rentable de completar su examen médico de inmigración es sentarse con la Dra. Wingo lo antes posible." },
+        { q: "¿Qué debo traer a mi cita?", a: "Los artículos para traer a su cita inicial incluyen:\n\n1) Pasaporte (otras formas de identificación pueden ser aceptables si su pasaporte no está disponible)\n\n2) Registros de vacunación si los tiene (está bien si no los tiene)\n\n3) Lista de medicamentos (si aplica)\n\n4) Su número Alien / A si lo tiene (también listado como 'USCIS Number' en la Tarjeta de Autorización de Empleo)\n\n5) Si tiene seguro médico, traiga su tarjeta\n\n6) Si completó este examen en el pasado, traiga una copia de ese examen\n\n*NO necesita ayunar para esta cita. Es importante hidratarse bien.**\n\n*Absténgase de usar perfumes u olores fuertes en su cita ya que muchos de nuestros empleados y pacientes son sensibles**" },
+        { q: "¿Qué formas de pago aceptan?", a: "Tarjetas de crédito o débito principales, cheque (debe estar preimpreso con su nombre, dirección y teléfono, y poder depositarse inmediatamente) y efectivo." },
+        { q: "¿Cobran una tarifa única por el examen o cobran por visita?", a: "En Atlas Healthcare, solo paga una vez por su examen el día de su primera visita. Solo se incurrirán cargos adicionales si se requieren servicios adicionales como radiografías, tratamiento, vacunas adicionales y/o coordinación de atención." },
+        { q: "¿Acomodan citas urgentes o del mismo día?", a: "Sí, en Atlas Healthcare, estamos encantados de aceptar solicitudes de citas urgentes si es posible." },
+        { q: "¿Su clínica permite reserva online?", a: "Sí, en Atlas Healthcare, puede reservar convenientemente su cita a través de nuestro enlace de reserva en un horario que se ajuste a su agenda. Si el día y hora que desea no están disponibles, puede agregar su nombre a una 'lista de espera', y aprobaremos su solicitud si es posible. También ofrecemos horarios walk-in disponibles lunes, martes y jueves de 10:00am a 2:00pm." },
+        { q: "Si mi examen caduca por cualquier razón, ¿tengo que pagar el precio completo por un examen repetido?", a: "¡No! En Atlas Healthcare, realizamos exámenes para nuestros clientes repetidos a un costo muy reducido. Le damos un gran descuento en el precio base y aprovecharemos todo lo que podamos de su examen anterior." },
+        { q: "¿Es seguro el examen médico de inmigración durante el embarazo?", a: "Sí, el examen médico de inmigración es seguro de completar durante el embarazo.\n\nEl examen incluye una revisión de su historial médico y de salud mental, un examen físico, revisión de registros de vacunación y exámenes de laboratorio requeridos por USCIS. Estos componentes generalmente se consideran seguros durante el embarazo.\n\n• Vacunas: Algunas vacunas no se recomiendan durante el embarazo. Si una vacuna está médicamente contraindicada debido al embarazo, la Dra. Wingo documentará esto apropiadamente de acuerdo con las Instrucciones Técnicas del CDC.\n\nCada embarazo es único. Si está embarazada o cree que puede estar embarazada, notifique a nuestro consultorio a su llegada a su cita para que podamos guiarla apropiadamente y asegurar que toda la documentación se maneje correctamente." }
       ]
     },
     // About Page
@@ -436,10 +408,10 @@ export const translations = {
       includedList: [
         "Examen físico y revisión de salud general",
         "Revisión de historial médico y de salud mental",
-        "Exámenes de laboratorio obligatorios: QuantiFERON-TB Gold (tuberculosis), Sífilis (RPR), Gonorrea (orina)",
+        "Exámenes de laboratorio obligatorios por USCIS",
         "Revisión de tarjeta de vacunación",
-        "Vacunas disponibles en el lugar",
-        "Formulario I-693 sellado para USCIS"
+        "Vacunas administradas, si es necesario",
+        "Formulario I-693 sellado"
       ],
       cost: "¿Cuánto cuesta el examen?",
       whatToBring: "¿Qué traer a la cita?",
@@ -480,7 +452,6 @@ export const translations = {
     exam: "Immigration Exam",
     expect: "What to Expect",
     faq: "FAQs",
-    blog: "Blog",
     about: "About Us",
     contact: "Contact",
     book: "Book Now"
@@ -526,7 +497,7 @@ export const translations = {
       items: [
         { title: "Personalized Exam", desc: "Dr. Wingo evaluates your case individually. We don't use 'one-size-fits-all' protocol." },
         { title: "Acceptance Guarantee", desc: "100% USCIS acceptance. If there's our error, we correct it at no cost." },
-        { title: "Transparent Pricing", desc: "Adult: $460 | Child: $380. Includes ALL required lab tests." },
+        { title: "Transparent Pricing", desc: "Adult: $480-$1,030 | Child: $380+. Includes ALL required lab tests." },
         { title: "Fast & Convenient", desc: "Same day and walk-ins available. Results in 1 week or less." },
         { title: "One-Stop Shop", desc: "Exam, lab and vaccines all in one place. One visit solves it." },
         { title: "Real Experience", desc: "Dr. Wingo has 12+ years and has performed 10,000+ immigration exams." }
@@ -631,15 +602,17 @@ export const translations = {
         walkins: "Walk-ins"
       },
       questions: [
-        { q: "What is included in the Immigration Medical Exam?", a: "Complete physical exam, medical history review, required lab tests (QuantiFERON-TB Gold, Syphilis RPR, Gonorrhea), vaccination card review, vaccines available on-site, and sealed Form I-693 for USCIS." },
-        { q: "How much does the exam cost?", a: "Adult: $460 | Child: $380. Includes ALL required lab tests. No charge for return visit if needed." },
-        { q: "What should I bring to the appointment?", a: "Passport or ID, vaccination card (if available), daily medication list, work authorization (EAD - if applicable), health insurance card, previous I-693 exam (if any)." },
-        { q: "Do you accept health insurance?", a: "Health insurance does NOT cover the cost of the immigration medical exam. However, it may cover required vaccines." },
-        { q: "Do you accept walk-ins?", a: "Yes! We accept walk-ins. Mondays and Thursdays are the best days with less wait." },
-        { q: "How long does the appointment take?", a: "30-45 minutes in most cases." },
-        { q: "What if I don't have a vaccination card?", a: "No problem! Dr. Wingo will determine which vaccines you need." },
-        { q: "What if I'm pregnant?", a: "Please let us know in advance. Certain vaccines may be postponed." },
-        { q: "Do you offer translation services?", a: "Yes! Spanish and Portuguese available for a small additional fee." }
+        { q: "Can I get my Immigration Medical Exam (IME / I-693) completed by my family doctor?", a: "No, the exam must be completed by a USCIS-certified Civil Surgeon." },
+        { q: "Can I use my health insurance for my Immigration Medical Exam?", a: "Health insurance will NOT cover the costs of an immigration medical exam in ANY office. However, we make every effort to get the cost of any necessary vaccines covered by your insurance.\n\nPlease call your insurance company prior to your appointment to find out if preventive vaccines are covered outside of your deductible. Please do not attempt to get your vaccines before your appointment so that Dr. Wingo can advise you of which ones you will need. Everyone will not be required to receive all vaccines." },
+        { q: "What if I do not have medical insurance?", a: "We provide the vaccines at an affordable rate for your convenience. However, if you prefer, you may go to your family doctor, a local pharmacy or health department to get your vaccines. Again, please do not attempt to get your vaccines before your appointment with Dr. Wingo." },
+        { q: "What is the cost of the Immigration Medical Exam?", a: "The base price of the exam is $480 - this includes all required lab tests.\n\n(PLEASE NOTE: there is NO charge for a Second Visit, and in most cases, there is NO need for a second visit.)\n\nBeyond the base price, the final cost of your exam will depend on how many vaccines you need, and rarely, how much coordination of care your exam requires. The maximum cost of an exam in our office is $1030, but this is ONLY IF you need all vaccines, and you receive them from us at our lower prices.\n\nThe most common final price range is $480-$1030. Please understand that our pricing reflects the fact that our office is a 'one-stop shop'; unlike many others who do not provide labs and vaccinations at the time of your appointment.\n\n**You do NOT have to get your vaccines from us. If you can get your vaccines with private health insurance, through the health department, or a community clinic, Dr. Wingo is happy to write you a prescription you can take to that facility.\n\n**For repeat/updated exams, we provide a significant discount.\n\n**Health insurance will NOT cover the base price of the exam, but may cover the cost of your vaccinations.\n\n**The specific vaccinations you will need can only be determined by Dr. Wingo at the time of your exam by speaking with you and reviewing any records you may have.\n\n**Please do NOT attempt to get your vaccines before your appointment as this may cause you to receive unnecessary vaccines and spend more than you need to. Also, please do NOT delay your exam waiting on vaccine records as they frequently do not change which vaccines you will need now.\n\n***The quickest and most cost-effective way to complete your immigration medical exam is to sit down with Dr. Wingo ASAP." },
+        { q: "What do I need to bring with me to my appointment?", a: "Items to bring to your initial appointment include:\n\n1) Passport (other forms of identification may be acceptable if your passport is not available)\n\n2) Vaccination records if you have them (it's ok if you don't)\n\n3) A list of medications (if applicable)\n\n4) Your Alien / A-number if you have one (also listed as the 'USCIS Number' on the Employment Authorization Card)\n\n5) If you have health insurance, please bring your card with you.\n\n6) If you have completed this exam in the past, please bring a copy of that exam with you.\n\n*You do NOT need to fast for this appointment. It is important to hydrate well.**\n\n*Please refrain from wearing perfumes or strong smells to your appointment as many of our staff and patients are sensitive**" },
+        { q: "What forms of payment do you accept?", a: "Major credit or debit cards, check (must be pre-printed with your name, address and phone number, and able to be deposited immediately) and cash." },
+        { q: "Do you charge a single fee for the exam, or do you charge per visit?", a: "At Atlas Healthcare, you pay only once for your exam on the day of your first visit. Additional charges will only be incurred if additional services are required such as x-rays, treatment, additional vaccines and/or coordination of care." },
+        { q: "Will you accommodate urgent or same-day appointments?", a: "Yes, at Atlas Healthcare, we are happy to accept urgent appointment requests if at all possible." },
+        { q: "Does your clinic allow online booking?", a: "Yes, at Atlas Healthcare, you can conveniently book your appointment through our booking link at a time that fits your schedule. If the day and time you desire is not available, you can add your name to a 'waitlist', and we will approve your request if at all possible. We also offer walk-in hours available Monday, Tuesday and Thursday from 10:00am-2:00pm." },
+        { q: "If my exam expires for any reason, do I have to pay full price for a repeat exam?", a: "No! At Atlas Healthcare, we perform exams for our repeat clients at a greatly reduced cost. We give you a large discount on the base price and will bring forward anything we can use from your previous exam." },
+        { q: "Is the immigration medical exam safe during pregnancy?", a: "Yes, the immigration medical exam is safe to complete during pregnancy.\n\nThe exam includes a review of your medical and mental health history, a physical examination, review of vaccination records, and USCIS-required laboratory testing. These components are generally considered safe during pregnancy.\n\n• Vaccinations: Some vaccines are not recommended during pregnancy. If a vaccine is medically contraindicated due to pregnancy, Dr. Wingo will document this appropriately in accordance with CDC Technical Instructions.\n\nEvery pregnancy is unique. If you are pregnant or believe you may be pregnant, please notify our office upon arrival to your appointment so we can guide you appropriately and ensure all documentation is handled correctly." }
       ]
     },
     // About Page
@@ -657,10 +630,10 @@ export const translations = {
       includedList: [
         "Physical exam and general health review",
         "Medical and mental health history review",
-        "Required lab tests: QuantiFERON-TB Gold (tuberculosis), Syphilis (RPR), Gonorrhea (urine)",
-        "Vaccination card review",
-        "Vaccines available on-site",
-        "Sealed Form I-693 for USCIS"
+        "USCIS-required laboratory testing",
+        "Vaccination record review",
+        "Administered vaccinations, if necessary",
+        "Sealed Form I-693"
       ],
       cost: "How much does the exam cost?",
       whatToBring: "What to bring to the appointment?",
@@ -693,21 +666,6 @@ export const translations = {
         send: "Send Message"
       }
     },
-    blog: {
-      title: "Atlas Healthcare Blog",
-      subtitle: "Information and resources for your immigration process",
-      readMore: "Read more",
-      backToBlog: "Back to Blog",
-      relatedArticles: "Related articles",
-      articles: [
-        { id: 1, title: "Understanding the Immigration Medical Exam: Complete Guide to the USCIS Process", summary: "Discover everything about the immigration medical exam, the role of the Civil Surgeon, mandatory lab tests, and what to expect on your appointment day." },
-        { id: 2, title: "How Much Does the Immigration Medical Exam Cost? Understand Your Process Investment", summary: "Transparent pricing, what's included, why insurance doesn't cover it, and why it's worth investing in a USCIS-authorized Civil Surgeon." },
-        { id: 3, title: "Complete Checklist: What to Bring to Your Immigration Medical Exam", summary: "Complete list of essential documents, preparation tips, and printable checklist to ensure you don't forget anything on exam day." },
-        { id: 4, title: "Required Vaccines for Immigration: Complete Guide", summary: "Learn about all vaccines required by USCIS, how to prove immunity, and what to do if you don't have vaccination records." },
-        { id: 5, title: "Immigration Medical Exam for Pregnant Women: Safety and Special Care", summary: "Everything pregnant women need to know about the immigration exam, vaccines safe during pregnancy, and necessary adaptations." },
-        { id: 6, title: "Walk-ins and Appointments: How Atlas Healthcare Service Works", summary: "Understand the differences between online scheduling and walk-ins, best times, and how to choose the best option for your needs." },
-        { id: 7, title: "The Role of the Civil Surgeon: Why Choosing the Right Professional is Crucial", summary: "The importance of choosing a USCIS-authorized Civil Surgeon, risks of unauthorized professionals, and Dr. Wingo's credentials." }
-      ]
-    }
+
   }
 };
