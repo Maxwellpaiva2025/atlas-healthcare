@@ -49,13 +49,13 @@ export default function InfoSection() {
       content: (
         <div className="space-y-2">
           <p className="text-gray-700">
-            <span className="text-gray-500">{t.info.adult}:</span> <span className="font-semibold">$460</span>
+            <span className="text-gray-500">{t.info.adult}:</span> <span className="font-semibold">$480–$1,030</span>
           </p>
           <p className="text-gray-700">
-            <span className="text-gray-500">{t.info.child}:</span> <span className="font-semibold">$380</span>
+            <span className="text-gray-500">{t.info.child}:</span> <span className="font-semibold">$380+</span>
           </p>
           <p className="text-sm text-gray-500">
-            {t.info.range}: $460-$740
+            {t.info.range}: $480–$1,030
           </p>
         </div>
       )
