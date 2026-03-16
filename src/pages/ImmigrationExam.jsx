@@ -77,15 +77,15 @@ function ExamContent() {
             <div className="grid sm:grid-cols-2 gap-4">
               <div className="bg-white rounded-2xl p-6 border border-gray-200 shadow-lg text-center">
                 <p className="text-gray-600 mb-2">{t.info.adult}</p>
-                <p className="text-4xl font-bold text-[#4ECCA3]">$460</p>
+                <p className="text-3xl font-bold text-[#4ECCA3]">$480–$1,030</p>
               </div>
               <div className="bg-white rounded-2xl p-6 border border-gray-200 shadow-lg text-center">
                 <p className="text-gray-600 mb-2">{t.info.child}</p>
-                <p className="text-4xl font-bold text-[#4ECCA3]">$380</p>
+                <p className="text-3xl font-bold text-[#4ECCA3]">$380+</p>
               </div>
             </div>
             <p className="text-center text-gray-600 mt-4">
-              {t.info.range}: $460-$740
+              {t.info.range}: $480–$1,030
             </p>
           </motion.section>
 
