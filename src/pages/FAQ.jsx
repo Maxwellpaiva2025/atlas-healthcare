@@ -37,7 +37,11 @@ function FAQItem({ question, answer, isOpen, onClick }) {
             transition={{ duration: 0.2 }}
             className="overflow-hidden"
           >
-            <p className="pb-5 text-gray-600 leading-relaxed">{answer}</p>
+            <div className="pb-5 text-gray-600 leading-relaxed space-y-3">
+              {answer.split('\n\n').map((para, i) => (
+                <p key={i} className="whitespace-pre-line">{para}</p>
+              ))}
+            </div>
           </motion.div>
         )}
       </AnimatePresence>
