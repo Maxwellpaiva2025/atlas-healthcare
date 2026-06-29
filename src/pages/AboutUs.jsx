@@ -8,7 +8,7 @@ import TeamSection from '../components/atlas/TeamSection';
 import Footer from '../components/atlas/Footer';
 import FloatingButtons from '../components/atlas/FloatingButtons';
 
-const DR_PHOTO = "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/user_68ffcb51eeb9e0ad79e826fd/730c2bd20_TIM.jpg";
+const DR_PHOTO = "https://media.base44.com/images/public/698388acd2bf994a97ff1d42/b6f25bf85_Screenshot2026-06-29at08-40-22AtlasHealthcareImmigrationExamNearMe3040NorthHighway17MountPleasantSCUSA.png";
 
 const valueIcons = [Award, Heart, Shield, Star, Users];
 
