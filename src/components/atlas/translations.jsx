@@ -73,11 +73,30 @@ export const translations = {
     testimonials: {
       title: "O Que Nossos Pacientes Dizem",
       items: [
-        { name: "Abigail", text: "Fiz meu exame médico de imigração aqui hoje. Equipe muito profissional e Dr. Wingo foi incrível. Forneceu tudo que eu precisava por um preço justo. Fez o processo rápido e fácil, respondeu todas as minhas perguntas. Definitivamente recomendo!" },
-        { name: "Ashley", text: "É aqui que você quer estar!! Meu marido e eu fomos para nosso exame de imigração e Dr. Wingo nos fez sentir como família. Todos são super agradáveis no escritório e muito prestativos! Altamente recomendo!!" },
-        { name: "Cynthia", text: "Desde o início foram muito acolhedores e prestativos. Liguei para a recepcionista para fazer perguntas e ela sabia exatamente do que eu estava falando. O Dr. foi muito gentil e acolhedor. Tudo correu bem. Definitivamente recomendamos!" }
+        {
+          name: "Toktam S.",
+          reviewCount: "3 avaliações",
+          time: "4 semanas atrás",
+          isNew: false,
+          text: "Dr. Wingo has been an outstanding physician. He is highly professional, knowledgeable, and genuinely caring.\nThe office staff is also friendly and organized, making appointments and follow-up communication smooth and stress-free."
+        },
+        {
+          name: "Lizell S.",
+          reviewCount: "6 avaliações",
+          time: "3 meses atrás",
+          isNew: false,
+          text: "Dr Wingo is extremely professional and well informed regarding immigration, immigration changes and law. Apart from his expertise, he is extremely kind and understanding regarding immigrants and what their challenges are. We have visited him twice and will and do recommend him to any immigrant. For sure."
+        },
+        {
+          name: "Ildo R.",
+          reviewCount: "4 avaliações · 2 fotos",
+          time: "3 semanas atrás",
+          isNew: true,
+          text: "Dr. Wingo is very professional and reliable. They help me out on the couple time. You won't regret giving them a chance to take care of all your medical needs related to Imigration. He is the fastest one around Lowcountry."
+        }
       ]
     },
+
     // Info
     info: {
       title: "Tudo Que Você Precisa Saber",
@@ -295,9 +314,27 @@ export const translations = {
     testimonials: {
       title: "Lo Que Dicen Nuestros Pacientes",
       items: [
-        { name: "Abigail", text: "Hice mi examen médico de inmigración aquí hoy. Equipo muy profesional y Dr. Wingo fue increíble. Proporcionó todo lo que necesitaba por un precio justo. Hizo el proceso rápido y fácil, respondió todas mis preguntas. ¡Definitivamente recomiendo!" },
-        { name: "Ashley", text: "¡Es aquí donde quiere estar! Mi esposo y yo fuimos para nuestro examen de inmigración y Dr. Wingo nos hizo sentir como familia. ¡Todos son súper agradables en la oficina y muy serviciales! ¡Altamente recomiendo!" },
-        { name: "Cynthia", text: "Desde el inicio fueron muy acogedores y serviciales. Llamé a la recepcionista para hacer preguntas y sabía exactamente de qué estaba hablando. El Dr. fue muy amable y acogedor. Todo salió bien. ¡Definitivamente recomendamos!" }
+        {
+          name: "Toktam S.",
+          reviewCount: "3 reseñas",
+          time: "hace 4 semanas",
+          isNew: false,
+          text: "Dr. Wingo has been an outstanding physician. He is highly professional, knowledgeable, and genuinely caring.\nThe office staff is also friendly and organized, making appointments and follow-up communication smooth and stress-free."
+        },
+        {
+          name: "Lizell S.",
+          reviewCount: "6 reseñas",
+          time: "hace 3 meses",
+          isNew: false,
+          text: "Dr Wingo is extremely professional and well informed regarding immigration, immigration changes and law. Apart from his expertise, he is extremely kind and understanding regarding immigrants and what their challenges are. We have visited him twice and will and do recommend him to any immigrant. For sure."
+        },
+        {
+          name: "Ildo R.",
+          reviewCount: "4 reseñas · 2 fotos",
+          time: "hace 3 semanas",
+          isNew: true,
+          text: "Dr. Wingo is very professional and reliable. They help me out on the couple time. You won't regret giving them a chance to take care of all your medical needs related to Imigration. He is the fastest one around Lowcountry."
+        }
       ]
     },
     // Info
@@ -517,9 +554,27 @@ export const translations = {
     testimonials: {
       title: "What Our Patients Say",
       items: [
-        { name: "Abigail", text: "Did my immigration medical exam here today. Very professional team and Dr. Wingo was amazing. Provided everything I needed at a fair price. Made the process quick and easy, answered all my questions. Definitely recommend!" },
-        { name: "Ashley", text: "This is where you want to be!! My husband and I came for our immigration exam and Dr. Wingo made us feel like family. Everyone is super nice in the office and very helpful! Highly recommend!!" },
-        { name: "Cynthia", text: "From the beginning they were very welcoming and helpful. Called the receptionist to ask questions and she knew exactly what I was talking about. The Dr. was very kind and welcoming. Everything went well. We definitely recommend!" }
+        {
+          name: "Toktam S.",
+          reviewCount: "3 reviews",
+          time: "4 weeks ago",
+          isNew: false,
+          text: "Dr. Wingo has been an outstanding physician. He is highly professional, knowledgeable, and genuinely caring.\nThe office staff is also friendly and organized, making appointments and follow-up communication smooth and stress-free."
+        },
+        {
+          name: "Lizell S.",
+          reviewCount: "6 reviews",
+          time: "3 months ago",
+          isNew: false,
+          text: "Dr Wingo is extremely professional and well informed regarding immigration, immigration changes and law. Apart from his expertise, he is extremely kind and understanding regarding immigrants and what their challenges are. We have visited him twice and will and do recommend him to any immigrant. For sure."
+        },
+        {
+          name: "Ildo R.",
+          reviewCount: "4 reviews · 2 photos",
+          time: "3 weeks ago",
+          isNew: true,
+          text: "Dr. Wingo is very professional and reliable. They help me out on the couple time. You won't regret giving them a chance to take care of all your medical needs related to Imigration. He is the fastest one around Lowcountry."
+        }
       ]
     },
     // Info
