@@ -1,11 +1,10 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Calendar, MessageCircle, Phone, X, Plus } from 'lucide-react';
+import { Calendar, Phone, X, Plus } from 'lucide-react';
 import { useLanguage } from './LanguageContext';
 
 const BOOKING_URL = "https://atlashealthcare.janeapp.com/";
 const MAIN_PHONE = "8433529353";
-const MESSAGE_PHONE = "8033084933";
 
 export default function FloatingButtons() {
   const [isOpen, setIsOpen] = useState(false);
@@ -18,13 +17,6 @@ export default function FloatingButtons() {
       href: BOOKING_URL,
       color: 'bg-[#4ECCA3]',
       external: true
-    },
-    {
-      icon: MessageCircle,
-      label: t.contact.sendMessage,
-      href: `sms:${MESSAGE_PHONE}`,
-      color: 'bg-[#3CB371]',
-      external: false
     },
     {
       icon: Phone,
