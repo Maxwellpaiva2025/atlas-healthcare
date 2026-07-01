@@ -138,13 +138,13 @@ function AboutContent() {
                 viewport={{ once: true }}
               >
                 <h2 className="text-3xl sm:text-4xl font-bold text-[#4ECCA3] mb-6">
-                  {t.aboutPage.loveSection.heading}
+                  {t.aboutPage?.loveSection?.heading}
                 </h2>
                 <p className="text-xl text-gray-600 leading-relaxed whitespace-pre-line">
-                  {t.aboutPage.loveSection.text}
+                  {t.aboutPage?.loveSection?.text}
                 </p>
                 <p className="mt-4 text-gray-900 font-semibold">
-                  {t.aboutPage.loveSection.author}
+                  {t.aboutPage?.loveSection?.author}
                 </p>
               </motion.div>
             </div>
