@@ -1,11 +1,10 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Phone, MessageCircle, Mail, MapPin, Calendar } from 'lucide-react';
+import { Phone, MapPin, Calendar } from 'lucide-react';
 import { useLanguage } from './LanguageContext';
 
 const BOOKING_URL = "https://atlashealthcare.janeapp.com/";
 const MAIN_PHONE = "8433529353";
-const MESSAGE_PHONE = "8033084933";
 
 export default function ContactSection() {
   const { t } = useLanguage();
@@ -17,20 +16,6 @@ export default function ContactSection() {
       value: '843-352-9353',
       href: `tel:${MAIN_PHONE}`,
       color: 'bg-blue-500'
-    },
-    {
-      icon: MessageCircle,
-      label: t.contact.sendMessage,
-      value: '803-308-4933',
-      href: `sms:${MESSAGE_PHONE}`,
-      color: 'bg-green-500'
-    },
-    {
-      icon: Mail,
-      label: t.contact.email,
-      value: 'contato@atlascharleston.com',
-      href: 'mailto:contato@atlascharleston.com',
-      color: 'bg-purple-500'
     },
     {
       icon: MapPin,
@@ -56,7 +41,7 @@ export default function ContactSection() {
           <div className="w-20 h-1 bg-[#4ECCA3] mx-auto rounded-full" />
         </motion.div>
 
-        <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-10">
+        <div className="grid sm:grid-cols-2 gap-4 mb-10 max-w-xl mx-auto">
           {contactItems.map((item, index) => (
             <motion.a
               key={index}
