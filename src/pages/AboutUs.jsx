@@ -9,6 +9,7 @@ import Footer from '../components/atlas/Footer';
 import FloatingButtons from '../components/atlas/FloatingButtons';
 
 const DR_PHOTO = "https://media.base44.com/images/public/698388acd2bf994a97ff1d42/b6f25bf85_Screenshot2026-06-29at08-40-22AtlasHealthcareImmigrationExamNearMe3040NorthHighway17MountPleasantSCUSA.png";
+const MEDICAL_TOOLS_PHOTO = "https://media.base44.com/images/public/698388acd2bf994a97ff1d42/0418b6504_generated_image.png";
 
 const valueIcons = [Award, Heart, Shield, Star, Users];
 
@@ -111,6 +112,41 @@ function AboutContent() {
                   </motion.div>
                 );
               })}
+            </div>
+          </div>
+        </section>
+
+        {/* Love What We Do Section */}
+        <section className="py-16 sm:py-24">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="grid lg:grid-cols-2 gap-12 items-center">
+              <motion.div
+                initial={{ opacity: 0, x: -30 }}
+                whileInView={{ opacity: 1, x: 0 }}
+                viewport={{ once: true }}
+              >
+                <img
+                  src={MEDICAL_TOOLS_PHOTO}
+                  alt="Medical exam instruments"
+                  className="rounded-2xl shadow-2xl"
+                />
+              </motion.div>
+
+              <motion.div
+                initial={{ opacity: 0, x: 30 }}
+                whileInView={{ opacity: 1, x: 0 }}
+                viewport={{ once: true }}
+              >
+                <h2 className="text-3xl sm:text-4xl font-bold text-[#4ECCA3] mb-6">
+                  {t.aboutPage.loveSection.heading}
+                </h2>
+                <p className="text-xl text-gray-600 leading-relaxed whitespace-pre-line">
+                  {t.aboutPage.loveSection.text}
+                </p>
+                <p className="mt-4 text-gray-900 font-semibold">
+                  {t.aboutPage.loveSection.author}
+                </p>
+              </motion.div>
             </div>
           </div>
         </section>

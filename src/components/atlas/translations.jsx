@@ -196,6 +196,12 @@ export const translations = {
       values: "Nossos Valores",
       valuesList: ["Excelência médica", "Compaixão", "Transparência", "Eficiência", "Acessibilidade"]
     },
+    // Love Section
+    loveSection: {
+      heading: "Por que Amamos o que Fazemos",
+      text: "Nós nos importamos profundamente com a saúde de nossa comunidade e, nesse espírito, queremos tornar o processo de imigração o mais fácil possível — que já é um processo estressante e caro. Oferecemos uma experiência econômica, eficiente em tempo e livre de ansiedade a todos os nossos clientes. Nosso foco principal ao fornecer exames médicos de imigração à nossa comunidade e além é manter nossa promessa de garantir um processo tranquilo do início ao fim.",
+      author: "— Dr. Tim Wingo"
+    },
     // Exam Page
     examPage: {
       title: "Exame de Imigração",
@@ -436,6 +442,12 @@ export const translations = {
       values: "Nuestros Valores",
       valuesList: ["Excelencia médica", "Compasión", "Transparencia", "Eficiencia", "Accesibilidad"]
     },
+    // Love Section
+    loveSection: {
+      heading: "Por Qué Amamos Lo Que Hacemos",
+      text: "Nos importamos profundamente con la salud de nuestra comunidad y, con ese espíritu, queremos hacer el proceso de inmigración lo más fácil posible — lo que ya es un proceso estresante y costoso. Ofrecemos una experiencia económica, eficiente en tiempo y libre de ansiedad a todos nuestros clientes. Nuestro enfoque principal al brindar exámenes médicos de inmigración a nuestra comunidad y más allá es cumplir nuestra promesa de garantizar un proceso tranquilo de principio a fin.",
+      author: "— Dr. Tim Wingo"
+    },
     // Exam Page
     examPage: {
       title: "Examen de Inmigración",
@@ -674,6 +686,12 @@ export const translations = {
       missionText: "As a family-based practice, Dr. Tim Wingo and the Atlas Healthcare team understand the importance of connecting with loved ones. That's why they have dedicated a large part of their practice to immigration medical exams.\n\nLocated in Mount Pleasant, South Carolina, the Atlas Healthcare team supports the medical needs of the community, from primary care and immigration exams to medical readiness for military members.",
       values: "Our Values",
       valuesList: ["Medical excellence", "Compassion", "Transparency", "Efficiency", "Accessibility"]
+    },
+    // Love Section
+    loveSection: {
+      heading: "Why We Love What We Do",
+      text: "We care deeply about the health of our community, and in that spirit, we want to make the immigration process as easy as possible — what is an already stressful and expensive process. We offer an affordable, time-efficient, anxiety-free experience to all of our clients. Our primary focus in providing immigration medical exams to our community and beyond is to keep our promise of ensuring a smooth process from start to finish.",
+      author: "— Dr. Tim Wingo"
     },
     // Exam Page
     examPage: {
