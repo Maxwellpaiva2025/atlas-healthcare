@@ -192,7 +192,7 @@ export const translations = {
     aboutPage: {
       title: "Sobre Nós",
       mission: "Nossa Missão",
-      missionText: "Como prática baseada na família, o Dr. Tim Wingo e a equipe da Atlas Healthcare entendem a importância de se conectar com entes queridos. Por isso, eles dedicaram uma grande parte de sua prática aos exames médicos de imigração.\n\nLocalizado em Mount Pleasant, Carolina do Sul, a equipe da Atlas Healthcare apoia as necessidades médicas da comunidade, desde cuidados primários, exames de imigração até prontidão médica para membros militares.",
+      missionText: "Como prática baseada na família, o Dr. Tim Wingo e a equipe da Atlas Healthcare entendem a importância de se conectar com entes queridos. Por isso, eles dedicaram uma grande parte de sua prática aos exames médicos de imigração.\n\nLocalizado em Mount Pleasant, Carolina do Sul, a equipe da Atlas Healthcare apoia as necessidades médicas da comunidade, desde cuidados primários, exames de imigração até prontidão médica para membros militares.\n\nIsso significa que seu exame não é realizado usando um protocolo de 'tamanho único'. Dr. Wingo revisa cuidadosamente sua documentação e adapta seu exame para atender aos requisitos específicos do USCIS. Essa abordagem individualizada permite que seu exame seja concluído de forma mais eficiente e econômica. Esta é apenas uma maneira pela qual os clientes se beneficiam diretamente da experiência e do cuidado personalizado do Dr. Wingo na Atlas Healthcare & Immigration.\n\nSe seu exame for rejeitado devido a um erro nosso, Dr. Wingo corrigirá seu exame sem custo adicional.",
       values: "Nossos Valores",
       valuesList: ["Excelência médica", "Compaixão", "Transparência", "Eficiência", "Acessibilidade"]
     },
@@ -438,7 +438,7 @@ export const translations = {
     aboutPage: {
       title: "Sobre Nosotros",
       mission: "Nuestra Misión",
-      missionText: "Como práctica basada en la familia, el Dr. Tim Wingo y el equipo de Atlas Healthcare entienden la importancia de conectarse con los seres queridos. Por eso, han dedicado una gran parte de su práctica a los exámenes médicos de inmigración.\n\nUbicado en Mount Pleasant, Carolina del Sur, el equipo de Atlas Healthcare apoya las necesidades médicas de la comunidad, desde atención primaria, exámenes de inmigración hasta preparación médica para miembros militares.",
+      missionText: "Como práctica basada en la familia, el Dr. Tim Wingo y el equipo de Atlas Healthcare entienden la importancia de conectarse con los seres queridos. Por eso, han dedicado una gran parte de su práctica a los exámenes médicos de inmigración.\n\nUbicado en Mount Pleasant, Carolina del Sur, el equipo de Atlas Healthcare apoya las necesidades médicas de la comunidad, desde atención primaria, exámenes de inmigración hasta preparación médica para miembros militares.\n\nEsto significa que su examen no se realiza utilizando un protocolo de 'talla única'. El Dr. Wingo revisa cuidadosamente su documentación y adapta su examen para cumplir con los requisitos específicos del USCIS. Este enfoque individualizado permite que su examen se complete de manera más eficiente y rentable. Esta es solo una forma en que los clientes se benefician directamente de la experiencia y el cuidado personalizado del Dr. Wingo en Atlas Healthcare & Immigration.\n\nSi su examen es rechazado debido a un error de nuestra parte, el Dr. Wingo corregirá su examen sin cargo adicional.",
       values: "Nuestros Valores",
       valuesList: ["Excelencia médica", "Compasión", "Transparencia", "Eficiencia", "Accesibilidad"]
     },
@@ -683,7 +683,7 @@ export const translations = {
     aboutPage: {
       title: "About Us",
       mission: "Our Mission",
-      missionText: "As a family-based practice, Dr. Tim Wingo and the Atlas Healthcare team understand the importance of connecting with loved ones. That's why they have dedicated a large part of their practice to immigration medical exams.\n\nLocated in Mount Pleasant, South Carolina, the Atlas Healthcare team supports the medical needs of the community, from primary care and immigration exams to medical readiness for military members.",
+      missionText: "As a family-based practice, Dr. Tim Wingo and the Atlas Healthcare team understand the importance of connecting with loved ones. That's why they have dedicated a large part of their practice to immigration medical exams.\n\nLocated in Mount Pleasant, South Carolina, the Atlas Healthcare team supports the medical needs of the community, from primary care and immigration exams to medical readiness for military members.\n\nThis means your exam is not performed using a one-size-fits-all protocol. Dr. Wingo carefully reviews your documentation and tailors your exam to meet the specific USCIS requirements. This individualized approach allows your exam to be completed more efficiently and cost-effectively. This is just one way clients benefit directly from Dr. Wingo's experience and personalized care at Atlas Healthcare & Immigration.\n\nIf your exam is rejected due to an error on our part, Dr. Wingo will correct your exam at no additional charge.",
       values: "Our Values",
       valuesList: ["Medical excellence", "Compassion", "Transparency", "Efficiency", "Accessibility"]
     },
