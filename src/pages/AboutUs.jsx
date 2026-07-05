@@ -7,6 +7,7 @@ import Header from '../components/atlas/Header';
 import TeamSection from '../components/atlas/TeamSection';
 import Footer from '../components/atlas/Footer';
 import FloatingButtons from '../components/atlas/FloatingButtons';
+import GuaranteeSection from '../components/atlas/GuaranteeSection';
 
 const DR_PHOTO = "https://media.base44.com/images/public/698388acd2bf994a97ff1d42/b6f25bf85_Screenshot2026-06-29at08-40-22AtlasHealthcareImmigrationExamNearMe3040NorthHighway17MountPleasantSCUSA.png";
 const MEDICAL_TOOLS_PHOTO = "https://media.base44.com/images/public/698388acd2bf994a97ff1d42/0418b6504_generated_image.png";
@@ -150,6 +151,9 @@ function AboutContent() {
             </div>
           </div>
         </section>
+
+        {/* Guarantee Section */}
+        <GuaranteeSection />
 
         {/* Team Section */}
         <TeamSection />

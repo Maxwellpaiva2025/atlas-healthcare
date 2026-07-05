@@ -202,6 +202,16 @@ export const translations = {
       text: "Nós nos importamos profundamente com a saúde de nossa comunidade e, nesse espírito, queremos tornar o processo de imigração o mais fácil possível — que já é um processo estressante e caro. Oferecemos uma experiência econômica, eficiente em tempo e livre de ansiedade a todos os nossos clientes. Nosso foco principal ao fornecer exames médicos de imigração à nossa comunidade e além é manter nossa promessa de garantir um processo tranquilo do início ao fim.",
       author: "— Dr. Tim Wingo"
     },
+    // Guarantee Section
+    guaranteeSection: {
+      heading: "Exame de Mais Alta Qualidade – Seu exame será realizado e revisado pelo Dr. Wingo, não delegado à equipe.",
+      bullets: [
+        "Dr. Wingo garante pessoalmente uma taxa de 100% de Aceitação pelo USCIS!",
+        "Menor Custo – Sem exames laboratoriais ou vacinas desnecessárias.",
+        "Máxima Conveniência – Agendamentos no mesmo dia e sem cita disponíveis para emergências. Todos os serviços podem ser realizados em nosso consultório no mesmo dia.",
+        "Tempo de Entrega Mais Rápido – Seu exame estará completo em uma semana ou menos na maioria dos casos."
+      ]
+    },
     // Exam Page
     examPage: {
       title: "Exame de Imigração",
@@ -448,6 +458,16 @@ export const translations = {
       text: "Nos importamos profundamente con la salud de nuestra comunidad y, con ese espíritu, queremos hacer el proceso de inmigración lo más fácil posible — lo que ya es un proceso estresante y costoso. Ofrecemos una experiencia económica, eficiente en tiempo y libre de ansiedad a todos nuestros clientes. Nuestro enfoque principal al brindar exámenes médicos de inmigración a nuestra comunidad y más allá es cumplir nuestra promesa de garantizar un proceso tranquilo de principio a fin.",
       author: "— Dr. Tim Wingo"
     },
+    // Guarantee Section
+    guaranteeSection: {
+      heading: "Examen de Más Alta Calidad – Su examen será realizado y revisado por el Dr. Wingo, no delegado al personal.",
+      bullets: [
+        "¡El Dr. Wingo garantiza personalmente una tasa de aceptación del 100% por USCIS!",
+        "Menor Costo – Sin exámenes de laboratorio o vacunas innecesarias.",
+        "Máxima Conveniencia – Citas el mismo día y sin cita disponibles para emergencias. Todos los servicios pueden realizarse en nuestro consultorio el mismo día.",
+        "Tiempo de Entrega Más Rápido – Su examen estará completo en una semana o menos en la mayoría de los casos."
+      ]
+    },
     // Exam Page
     examPage: {
       title: "Examen de Inmigración",
@@ -692,6 +712,16 @@ export const translations = {
       heading: "Why We Love What We Do",
       text: "We care deeply about the health of our community, and in that spirit, we want to make the immigration process as easy as possible — what is an already stressful and expensive process. We offer an affordable, time-efficient, anxiety-free experience to all of our clients. Our primary focus in providing immigration medical exams to our community and beyond is to keep our promise of ensuring a smooth process from start to finish.",
       author: "— Dr. Tim Wingo"
+    },
+    // Guarantee Section
+    guaranteeSection: {
+      heading: "Highest Quality Exam – Your exam will be performed and reviewed by Dr. Wingo, not delegated to staff.",
+      bullets: [
+        "Dr. Wingo personally guarantees a 100% Acceptance rate by USCIS!",
+        "Lowest Cost – No Unnecessary lab tests or vaccines.",
+        "Most Convenience – Same day and walk-in appointments available for emergencies. All services can be performed in our office on the same day.",
+        "Fastest Turnaround Time – Your exam will be complete in one week or less in most cases."
+      ]
     },
     // Exam Page
     examPage: {
