@@ -72,6 +72,7 @@ export const translations = {
     // Testimonials
     testimonials: {
       title: "O Que Nossos Pacientes Dizem",
+      viewAllReviews: "Ver Todas as Avaliações no Google",
       items: [
         {
           name: "Toktam S.",
@@ -329,6 +330,7 @@ export const translations = {
     // Testimonials
     testimonials: {
       title: "Lo Que Dicen Nuestros Pacientes",
+      viewAllReviews: "Ver Todas las Reseñas en Google",
       items: [
         {
           name: "Toktam S.",
@@ -585,6 +587,7 @@ export const translations = {
     // Testimonials
     testimonials: {
       title: "What Our Patients Say",
+      viewAllReviews: "See All Google Reviews",
       items: [
         {
           name: "Toktam S.",

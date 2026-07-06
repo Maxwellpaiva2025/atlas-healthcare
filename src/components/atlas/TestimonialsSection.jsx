@@ -1,9 +1,10 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Star, ChevronLeft, ChevronRight, ThumbsUp, Heart, Share2 } from 'lucide-react';
+import { Star, ChevronLeft, ChevronRight, ThumbsUp, Heart, Share2, ExternalLink } from 'lucide-react';
 import { useLanguage } from './LanguageContext';
 
 const AVATAR_COLORS = ['#4ECCA3', '#3B82F6', '#8B5CF6'];
+const GOOGLE_REVIEWS_URL = "https://www.google.com/search?q=atlas+charleston+health&sca_esv=e501d8701d597876&hl=pt-BR&sxsrf=APpeQntcK2qDPPtT_FR4SbSX5dcAH3tnJQ%3A1783342571498&source=hp&ei=66VLavXfG4-75OUPl5SsoQk&iflsig=ABILxe8AAAAAakuz-3XL3nBCT9bkDijoAtEXeTa1BIjf&ved=0ahUKEwi1gfDjjL6VAxWPHbkGHRcKK5QQ4dUDCDQ&uact=5&oq=atlas+charleston+health&gs_lp=Egdnd3Mtd2l6IhdhdGxhcyBjaGFybGVzdG9uIGhlYWx0aDIGEAAYFhgeMgYQABgWGB4yBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMgUQABjvBUi-A1AAWABwAHgAkAEAmAGjAaABowGqAQMwLjG4AQPIAQD4AQL4AQGYAgGgAqoBmAMAkgcDMC4xoAe6BLIHAzAuMbgHqgHCBwMyLTHIBwSACAE&sclient=gws-wiz#lrd=0x88f8a546f3d0bf85:0xd8aebe0d53c439a,1,,,,";
 
 export default function TestimonialsSection() {
   const { t } = useLanguage();
@@ -138,6 +139,19 @@ export default function TestimonialsSection() {
             >
               <ChevronRight className="w-5 h-5" />
             </button>
+          </div>
+
+          {/* Google Reviews Button */}
+          <div className="flex justify-center mt-10">
+            <a
+              href={GOOGLE_REVIEWS_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 px-6 py-3 bg-white border-2 border-[#4ECCA3] text-[#1a3a5c] font-semibold rounded-full hover:bg-[#4ECCA3] hover:text-white transition-all duration-300 shadow-md"
+            >
+              <ExternalLink className="w-5 h-5" />
+              {t.testimonials.viewAllReviews}
+            </a>
           </div>
         </div>
       </div>
