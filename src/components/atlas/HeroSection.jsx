@@ -54,9 +54,8 @@ export default function HeroSection() {
           </motion.div>
 
           {/* Main Title */}
-          <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-6">
-            <span className="block">{t.hero.title.split(' ').slice(0, 2).join(' ')}</span>
-            <span className="block text-[#4ECCA3]">{t.hero.title.split(' ').slice(2).join(' ')}</span>
+          <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold leading-tight mb-6">
+            <span className="block text-[#4ECCA3]">{t.hero.title}</span>
           </h1>
 
           {/* Subtitle */}
