@@ -1,10 +1,9 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Calendar, MessageCircle, Star, Shield, Award } from 'lucide-react';
+import { Calendar, Star, Shield, Award } from 'lucide-react';
 import { useLanguage } from './LanguageContext';
 
 const BOOKING_URL = "https://atlashealthcare.janeapp.com/";
-const MESSAGE_PHONE = "8033084933";
 
 export default function HeroSection() {
   const { t } = useLanguage();
@@ -83,13 +82,6 @@ export default function HeroSection() {
             >
               <Calendar className="w-5 h-5" />
               {t.hero.bookOnline}
-            </a>
-            <a
-              href={`sms:${MESSAGE_PHONE}`}
-              className="group flex items-center gap-2 px-8 py-4 bg-white/10 hover:bg-white/20 backdrop-blur-sm text-white font-semibold rounded-full border border-white/30 transition-all duration-300"
-            >
-              <MessageCircle className="w-5 h-5" />
-              {t.hero.sendMessage}
             </a>
           </motion.div>
         </motion.div>
