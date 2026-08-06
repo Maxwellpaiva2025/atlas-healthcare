@@ -17,8 +17,8 @@ export default function DoctorSection() {
   ];
 
   const stats = [
-    { value: '12+', label: t.doctor.years },
-    { value: '10K+', label: t.doctor.exams },
+    { value: '14+', label: t.doctor.years },
+    { value: '15K+', label: t.doctor.exams },
   ];
 
   return (

@@ -11,7 +11,7 @@ export default function HeroSection() {
   const trustItems = [
     { icon: Shield, label: 'Civil Surgeon USCIS' },
     { icon: Star, label: '4.9/5 Google Reviews' },
-    { icon: Award, label: '10,000+ Exams' },
+    { icon: Award, label: '15,000+ Exams' },
   ];
 
   return (

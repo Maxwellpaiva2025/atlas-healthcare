@@ -18,11 +18,11 @@ export const translations = {
       click: "Clique para Continuar",
       badges: {
         reviews: "4.9/5 Google Reviews",
-        experience: "12+ Anos de Experiência",
+        experience: "14+ Anos de Experiência",
         accepted: "100% Aceito pelo USCIS",
         oneStop: "One-Stop Shop",
         authorized: "Civil Surgeon Autorizado",
-        exams: "+10,000 Exames Realizados"
+        exams: "+15,000 Exames Realizados"
       }
     },
     // Hero
@@ -54,7 +54,7 @@ export const translations = {
         { title: "Preço Transparente", desc: "Adulto: $480-$1,030 | Criança: $380+. Inclui TODOS os exames laboratoriais necessários." },
         { title: "Rápido e Conveniente", desc: "Mesmo dia e walk-ins disponíveis. Resultados em 1 semana ou menos." },
         { title: "One-Stop Shop", desc: "Exame, laboratório e vacinas tudo no mesmo lugar. Uma visita resolve." },
-        { title: "Experiência Real", desc: "Dr. Wingo tem 12+ anos e já realizou 10.000+ exames de imigração." }
+        { title: "Experiência Real", desc: "Dr. Wingo tem 14+ anos de experiência e já realizou mais de 15.000 exames de imigração." }
       ]
     },
     // Steps
@@ -136,7 +136,7 @@ export const translations = {
         role: "Médico de Medicina Familiar",
         desc1: "Cirurgião Civil Autorizado USCIS",
         desc2: "Navy Veteran (24 anos de serviço)",
-        desc3: "14,000+ exames realizados"
+        desc3: "15,000+ exames realizados"
       },
       bethany: {
         name: "Bethany Wingo",
@@ -278,11 +278,11 @@ export const translations = {
       click: "Haga Clic para Continuar",
       badges: {
         reviews: "4.9/5 Google Reviews",
-        experience: "12+ Años de Experiencia",
+        experience: "14+ Años de Experiencia",
         accepted: "100% Aceptado por USCIS",
         oneStop: "One-Stop Shop",
         authorized: "Civil Surgeon Autorizado",
-        exams: "+10,000 Exámenes Realizados"
+        exams: "+15,000 Exámenes Realizados"
       }
     },
     // Hero
@@ -314,7 +314,7 @@ export const translations = {
         { title: "Precio Transparente", desc: "Adulto: $480-$1,030 | Niño: $380+. Incluye TODOS los exámenes de laboratorio necesarios." },
         { title: "Rápido y Conveniente", desc: "Mismo día y walk-ins disponibles. Resultados en 1 semana o menos." },
         { title: "One-Stop Shop", desc: "Examen, laboratorio y vacunas todo en el mismo lugar. Una visita resuelve." },
-        { title: "Experiencia Real", desc: "Dr. Wingo tiene 12+ años y ha realizado 10,000+ exámenes de inmigración." }
+        { title: "Experiencia Real", desc: "Dr. Wingo tiene 14+ años de experiencia y ha realizado más de 15,000 exámenes de inmigración." }
       ]
     },
     // Steps
@@ -395,7 +395,7 @@ export const translations = {
         role: "Médico de Medicina Familiar",
         desc1: "Cirujano Civil Autorizado USCIS",
         desc2: "Veterano de la Marina (24 años de servicio)",
-        desc3: "14,000+ exámenes realizados"
+        desc3: "15,000+ exámenes realizados"
       },
       bethany: {
         name: "Bethany Wingo",
@@ -537,11 +537,11 @@ export const translations = {
       click: "Click to Continue",
       badges: {
         reviews: "4.9/5 Google Reviews",
-        experience: "12+ Years Experience",
+        experience: "14+ Years Experience",
         accepted: "100% USCIS Accepted",
         oneStop: "One-Stop Shop",
         authorized: "USCIS Authorized Civil Surgeon",
-        exams: "+10,000 Exams Completed"
+        exams: "+15,000 Exams Completed"
       }
     },
     // Hero
@@ -573,7 +573,7 @@ export const translations = {
         { title: "Transparent Pricing", desc: "Adult: $480-$1,030 | Child: $380+. Includes ALL required lab tests." },
         { title: "Fast & Convenient", desc: "Same day and walk-ins available. Results in 1 week or less." },
         { title: "One-Stop Shop", desc: "Exam, lab and vaccines all in one place. One visit solves it." },
-        { title: "Real Experience", desc: "Dr. Wingo has 12+ years and has performed 10,000+ immigration exams." }
+        { title: "Real Experience", desc: "Dr. Wingo has 14+ years of experience and has performed over 15,000 immigration exams." }
       ]
     },
     // Steps
@@ -654,7 +654,7 @@ export const translations = {
         role: "Family Medicine Physician",
         desc1: "USCIS Authorized Civil Surgeon",
         desc2: "Navy Veteran (24 years of service)",
-        desc3: "14,000+ exams performed"
+        desc3: "15,000+ exams performed"
       },
       bethany: {
         name: "Bethany Wingo",
