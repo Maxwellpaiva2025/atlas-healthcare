@@ -21,10 +21,11 @@ export default function Footer() {
   ];
 
   const hours = [
-    { day: t.info.monday, time: '9:30 - 4:00 PM' },
-    { day: t.info.tuesday, time: '9:30 - 4:00 PM' },
-    { day: t.info.thursday, time: '9:30 - 4:00 PM' },
-    { day: t.info.friday, time: '9:30 - 1:00 PM' },
+    { day: t.info.monday, time: '9:00 AM - 3:30 PM' },
+    { day: t.info.tuesday, time: '9:00 AM - 3:30 PM' },
+    { day: t.info.wednesday, time: t.info.closed },
+    { day: t.info.thursday, time: '9:00 AM - 3:30 PM' },
+    { day: t.info.friday, time: '9:00 AM - 2:00 PM' },
   ];
 
   return (

@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Clock, Users, Calendar } from 'lucide-react';
+import { Clock, Calendar } from 'lucide-react';
 import { useLanguage } from './LanguageContext';
 
 const BOOKING_URL = "https://atlashealthcare.janeapp.com/";
@@ -49,13 +49,9 @@ export default function WalkInsSection() {
                 <p className="text-[#4ECCA3] text-sm font-medium">{t.walkins.lessWait}</p>
               </div>
             </div>
-            <p className="text-gray-700 font-medium text-lg mb-2">
+            <p className="text-gray-700 font-medium text-lg">
               {t.walkins.schedule1}
             </p>
-            <div className="flex items-center gap-2 text-gray-500 text-sm">
-              <Users className="w-4 h-4" />
-              {t.walkins.fullTeam}
-            </div>
           </motion.div>
 
           {/* Also Serve Card */}

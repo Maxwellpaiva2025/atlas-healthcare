@@ -36,10 +36,11 @@ export default function InfoSection() {
       title: t.info.hours,
       content: (
         <div className="space-y-1 text-sm">
-          <p><span className="text-gray-500">{t.info.monday}:</span> 9:30 - 4:00 PM</p>
-          <p><span className="text-gray-500">{t.info.tuesday}:</span> 9:30 - 4:00 PM</p>
-          <p><span className="text-gray-500">{t.info.thursday}:</span> 9:30 - 4:00 PM</p>
-          <p><span className="text-gray-500">{t.info.friday}:</span> 9:30 - 1:00 PM</p>
+          <p><span className="text-gray-500">{t.info.monday}:</span> 9:00 AM - 3:30 PM</p>
+          <p><span className="text-gray-500">{t.info.tuesday}:</span> 9:00 AM - 3:30 PM</p>
+          <p><span className="text-gray-500">{t.info.wednesday}:</span> {t.info.closed}</p>
+          <p><span className="text-gray-500">{t.info.thursday}:</span> 9:00 AM - 3:30 PM</p>
+          <p><span className="text-gray-500">{t.info.friday}:</span> 9:00 AM - 2:00 PM</p>
         </div>
       )
     },
