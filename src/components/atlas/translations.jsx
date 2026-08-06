@@ -28,7 +28,7 @@ export const translations = {
     // Hero
     hero: {
       title: "Oferecendo Agendamentos por Texto",
-      subtitle: "A maioria dos exames completados em UMA visita • Exame, laboratório e vacinas no mesmo dia • 100% aceito pelo USCIS",
+      subtitle: "A maioria dos exames completados em UMA visita • Exame, laboratório e vacinas no mesmo dia • 100% aceito pelo USCIS, Garantido!",
       bookOnline: "Agendar Online",
       sendMessage: "Enviar Mensagem"
     },
@@ -288,7 +288,7 @@ export const translations = {
     // Hero
     hero: {
       title: "Ofreciendo Citas por Mensaje de Texto",
-      subtitle: "La mayoría de los exámenes completados en UNA visita • Examen, laboratorio y vacunas el mismo día • 100% aceptado por USCIS",
+      subtitle: "La mayoría de los exámenes completados en UNA visita • Examen, laboratorio y vacunas el mismo día • 100% aceptado por USCIS, ¡Garantizado!",
       bookOnline: "Agendar en Línea",
       sendMessage: "Enviar Mensaje"
     },
@@ -547,7 +547,7 @@ export const translations = {
     // Hero
     hero: {
       title: "Offering Text-To-Book Appointments",
-      subtitle: "Most exams completed in ONE visit • Exam, lab & vaccines same day • 100% USCIS accepted",
+      subtitle: "Most exams completed in ONE visit • Exam, lab & vaccines same day • 100% USCIS accepted, Guaranteed!",
       bookOnline: "Book Online",
       sendMessage: "Send Message"
     },
