@@ -78,7 +78,18 @@ function ExpectContent() {
                       <Icon className="w-5 h-5 text-[#4ECCA3]" />
                       <h3 className="text-xl font-bold text-gray-900">{step.title}</h3>
                     </div>
-                    <p className="text-gray-600 leading-relaxed">{step.desc}</p>
+                    {step.list ? (
+                      <ul className="text-gray-600 leading-relaxed space-y-2">
+                        {step.list.map((item, i) => (
+                          <li key={i} className="flex items-start gap-3">
+                            <span className="w-2 h-2 bg-[#4ECCA3] rounded-full mt-2 flex-shrink-0" />
+                            <span>{item}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    ) : (
+                      <p className="text-gray-600 leading-relaxed">{step.desc}</p>
+                    )}
 
                     {/* Book Now button for first step */}
                     {index === 0 && (
