@@ -28,7 +28,7 @@ function ContactContent() {
     {
       icon: MapPin,
       label: t.contact.address,
-      value: '3040 N Hwy 17 Suite A, Mt Pleasant, SC',
+      value: '3040 N Hwy 17, Suite A, Mt Pleasant, SC',
       href: 'https://maps.google.com/?q=3040+N+Hwy+17+Suite+A+Mt+Pleasant+SC+29466',
       color: 'bg-red-500'
     }

@@ -12,7 +12,7 @@ export default function InfoSection() {
       title: t.info.location,
       content: (
         <p className="text-gray-700">
-          3040 N Hwy 17 Suite A<br />
+          3040 N Hwy 17, Suite A<br />
           Mt Pleasant, SC 29466
         </p>
       )
