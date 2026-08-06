@@ -220,8 +220,8 @@ export const translations = {
       title: "Exame de Imigração",
       whatIncluded: "O que está incluído no Exame Médico de Imigração?",
       includedList: [
-        "Exame físico e revisão de saúde geral",
-        "Revisão de histórico médico e de saúde mental",
+        "Revisão de histórico médico, de saúde mental e medicamentos",
+        "Exame físico",
         "Exames laboratoriais obrigatórios pelo USCIS",
         "Revisão de cartão de vacinação",
         "Vacinas administradas, se necessário",
@@ -479,8 +479,8 @@ export const translations = {
       title: "Examen de Inmigración",
       whatIncluded: "¿Qué está incluido en el Examen Médico de Inmigración?",
       includedList: [
-        "Examen físico y revisión de salud general",
-        "Revisión de historial médico y de salud mental",
+        "Revisión de historial médico, de salud mental y medicamentos",
+        "Examen físico",
         "Exámenes de laboratorio obligatorios por USCIS",
         "Revisión de tarjeta de vacunación",
         "Vacunas administradas, si es necesario",
@@ -737,8 +737,8 @@ export const translations = {
       title: "Immigration Exam",
       whatIncluded: "What is included in the Immigration Medical Exam?",
       includedList: [
-        "Physical exam and general health review",
-        "Medical and mental health history review",
+        "Review of medical and mental health history and medications",
+        "Physical exam",
         "USCIS-required laboratory testing",
         "Vaccination record review",
         "Administered vaccinations, if necessary",
