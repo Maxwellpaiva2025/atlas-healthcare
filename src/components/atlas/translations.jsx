@@ -136,7 +136,8 @@ export const translations = {
         role: "Médico de Medicina Familiar",
         desc1: "Cirurgião Civil Autorizado USCIS",
         desc2: "Navy Veteran (24 anos de serviço)",
-        desc3: "15,000+ exames realizados"
+        desc3: "15,000+ exames realizados",
+        desc4: "Membro do USCIS Physician Working Group"
       },
       bethany: {
         name: "Bethany Wingo",
@@ -395,7 +396,8 @@ export const translations = {
         role: "Médico de Medicina Familiar",
         desc1: "Cirujano Civil Autorizado USCIS",
         desc2: "Veterano de la Marina (24 años de servicio)",
-        desc3: "15,000+ exámenes realizados"
+        desc3: "15,000+ exámenes realizados",
+        desc4: "Miembro del USCIS Physician Working Group"
       },
       bethany: {
         name: "Bethany Wingo",
@@ -654,7 +656,8 @@ export const translations = {
         role: "Family Medicine Physician",
         desc1: "USCIS Authorized Civil Surgeon",
         desc2: "Navy Veteran (24 years of service)",
-        desc3: "15,000+ exams performed"
+        desc3: "15,000+ exams performed",
+        desc4: "Member of the USCIS Physician Working Group"
       },
       bethany: {
         name: "Bethany Wingo",

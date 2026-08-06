@@ -13,7 +13,7 @@ export default function TeamSection() {
       photo: DR_PHOTO,
       name: t.team.tim.name,
       role: t.team.tim.role,
-      descriptions: [t.team.tim.desc1, t.team.tim.desc2, t.team.tim.desc3]
+      descriptions: [t.team.tim.desc1, t.team.tim.desc2, t.team.tim.desc3, t.team.tim.desc4]
     },
     {
       photo: BETHANY_PHOTO,
