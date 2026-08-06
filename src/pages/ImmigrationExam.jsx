@@ -77,7 +77,7 @@ function ExamContent() {
             <div className="grid sm:grid-cols-2 gap-4">
               <div className="bg-white rounded-2xl p-6 border border-gray-200 shadow-lg text-center">
                 <p className="text-gray-600 mb-2">{t.info.adult}</p>
-                <p className="text-3xl font-bold text-[#4ECCA3]">$480–$1,030</p>
+                <p className="text-3xl font-bold text-[#4ECCA3]">$480–$800</p>
               </div>
               <div className="bg-white rounded-2xl p-6 border border-gray-200 shadow-lg text-center">
                 <p className="text-gray-600 mb-2">{t.info.child}</p>
