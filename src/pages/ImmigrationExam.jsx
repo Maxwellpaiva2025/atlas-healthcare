@@ -85,7 +85,7 @@ function ExamContent() {
               </div>
             </div>
             <p className="text-center text-gray-600 mt-4">
-              {t.info.range}: $480–$1,030
+              {t.info.range}: $480–$800
             </p>
           </motion.section>
 

@@ -56,7 +56,7 @@ export default function InfoSection() {
             <span className="text-gray-500">{t.info.child}:</span> <span className="font-semibold">$380+</span>
           </p>
           <p className="text-sm text-gray-500">
-            {t.info.range}: $480–$1,030
+            {t.info.range}: $480–$800
           </p>
         </div>
       )
