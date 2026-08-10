@@ -51,7 +51,7 @@ export const translations = {
       items: [
         { title: "Exame Personalizado", desc: "Dr. Wingo avalia seu caso individualmente. Não usamos protocolo 'tamanho único'." },
         { title: "Garantia de Aceitação", desc: "100% de aceitação pelo USCIS. Se cometermos um erro, corrigiremos por nossa conta." },
-        { title: "Preço Transparente", desc: "Adulto: $480-$1,030 | Criança: $380+. Inclui TODOS os exames laboratoriais necessários." },
+        { title: "Preço Transparente", desc: "Adulto: $480-$800 | Criança: $380+. Inclui TODOS os exames laboratoriais necessários." },
         { title: "Rápido e Conveniente", desc: "Mesmo dia e walk-ins disponíveis. Resultados em 1 semana ou menos." },
         { title: "One-Stop Shop", desc: "Exame, laboratório e vacinas tudo no mesmo lugar. Uma visita resolve." },
         { title: "Experiência Real", desc: "Dr. Wingo tem 14+ anos de experiência e já realizou mais de 15.000 exames de imigração." }
@@ -312,7 +312,7 @@ export const translations = {
       items: [
         { title: "Examen Personalizado", desc: "Dr. Wingo evalúa su caso individualmente. No usamos protocolo 'talla única'." },
         { title: "Garantía de Aceptación", desc: "100% de aceptación por USCIS. Si cometemos un error, lo corregiremos por nuestra cuenta." },
-        { title: "Precio Transparente", desc: "Adulto: $480-$1,030 | Niño: $380+. Incluye TODOS los exámenes de laboratorio necesarios." },
+        { title: "Precio Transparente", desc: "Adulto: $480-$800 | Niño: $380+. Incluye TODOS los exámenes de laboratorio necesarios." },
         { title: "Rápido y Conveniente", desc: "Mismo día y walk-ins disponibles. Resultados en 1 semana o menos." },
         { title: "One-Stop Shop", desc: "Examen, laboratorio y vacunas todo en el mismo lugar. Una visita resuelve." },
         { title: "Experiencia Real", desc: "Dr. Wingo tiene 14+ años de experiencia y ha realizado más de 15,000 exámenes de inmigración." }
@@ -572,7 +572,7 @@ export const translations = {
       items: [
         { title: "Personalized Exam", desc: "Dr. Wingo evaluates your case individually. We don't use 'one-size-fits-all' protocol." },
         { title: "Acceptance Guarantee", desc: "100% USCIS acceptance. If we make an error, we will fix it at our cost." },
-        { title: "Transparent Pricing", desc: "Adult: $480-$1,030 | Child: $380+. Includes ALL required lab tests." },
+        { title: "Transparent Pricing", desc: "Adult: $480-$800 | Child: $380+. Includes ALL required lab tests." },
         { title: "Fast & Convenient", desc: "Same day and walk-ins available. Results in 1 week or less." },
         { title: "One-Stop Shop", desc: "Exam, lab and vaccines all in one place. One visit solves it." },
         { title: "Real Experience", desc: "Dr. Wingo has 14+ years of experience and has performed over 15,000 immigration exams." }
