@@ -50,7 +50,7 @@ export default function InfoSection() {
       content: (
         <div className="space-y-2">
           <p className="text-gray-700">
-            <span className="text-gray-500">{t.info.adult}:</span> <span className="font-semibold">$480–$1,030</span>
+            <span className="text-gray-500">{t.info.adult}:</span> <span className="font-semibold">$480–$800</span>
           </p>
           <p className="text-gray-700">
             <span className="text-gray-500">{t.info.child}:</span> <span className="font-semibold">$380+</span>
