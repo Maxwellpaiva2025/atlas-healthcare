@@ -79,6 +79,24 @@ export default function WalkInsSection() {
           </motion.div>
         </div>
 
+        {/* Info Notes */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ delay: 0.35 }}
+          className="max-w-4xl mx-auto mt-6 flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-4"
+        >
+          <div className="inline-flex items-center gap-2 px-4 py-2 bg-white/15 backdrop-blur-sm rounded-full border border-white/20">
+            <Clock className="w-4 h-4 text-white" />
+            <span className="text-white text-sm font-medium">{t.walkins.shortWaitDays}</span>
+          </div>
+          <div className="inline-flex items-center gap-2 px-4 py-2 bg-white/15 backdrop-blur-sm rounded-full border border-white/20">
+            <Calendar className="w-4 h-4 text-white" />
+            <span className="text-white text-sm font-medium">{t.walkins.closedDay}</span>
+          </div>
+        </motion.div>
+
         {/* CTA */}
         <motion.div
           initial={{ opacity: 0, y: 20 }}

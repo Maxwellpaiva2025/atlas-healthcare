@@ -43,6 +43,8 @@ export const translations = {
       alsoServe: "Também atendemos:",
       schedule2: "Sextas · 9:00 AM - 2:00 PM",
       mayWait: "(horário reduzido)",
+      shortWaitDays: "Menor tempo de espera às segundas e sextas-feiras",
+      closedDay: "Fechado às quartas-feiras",
       viewSchedule: "VER TODOS OS HORÁRIOS"
     },
     // Differentiators
@@ -297,6 +299,8 @@ export const translations = {
       alsoServe: "También atendemos:",
       schedule2: "Viernes · 9:00 AM - 2:00 PM",
       mayWait: "(horario reducido)",
+      shortWaitDays: "Menor tiempo de espera los lunes y viernes",
+      closedDay: "Cerrado los miércoles",
       viewSchedule: "VER TODOS LOS HORARIOS"
     },
     // Differentiators
@@ -550,6 +554,8 @@ export const translations = {
       alsoServe: "We also serve:",
       schedule2: "Friday · 9:00 AM - 2:00 PM",
       mayWait: "(shorter hours)",
+      shortWaitDays: "Shorter wait times on Mondays and Fridays",
+      closedDay: "Closed on Wednesdays",
       viewSchedule: "VIEW ALL SCHEDULES"
     },
     // Differentiators
