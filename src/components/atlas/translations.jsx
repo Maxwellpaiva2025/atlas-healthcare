@@ -221,12 +221,8 @@ export const translations = {
       title: "Exame de Imigração",
       whatIncluded: "O que está incluído no Exame Médico de Imigração?",
       includedList: [
-        "Revisão de histórico médico, de saúde mental e medicamentos",
-        "Exame físico",
-        "Exames laboratoriais obrigatórios pelo USCIS",
-        "Revisão de cartão de vacinação",
-        "Vacinas administradas, se necessário",
-        "Formulário I-693 lacrado"
+        "Revisão do histórico médico e de saúde mental e medicamentos",
+        "Exame físico"
       ],
       cost: "Quanto custa o exame?",
       whatToBring: "O que trazer para o agendamento?",
@@ -478,12 +474,8 @@ export const translations = {
       title: "Examen de Inmigración",
       whatIncluded: "¿Qué está incluido en el Examen Médico de Inmigración?",
       includedList: [
-        "Revisión de historial médico, de salud mental y medicamentos",
-        "Examen físico",
-        "Exámenes de laboratorio obligatorios por USCIS",
-        "Revisión de tarjeta de vacunación",
-        "Vacunas administradas, si es necesario",
-        "Formulario I-693 sellado"
+        "Revisión del historial médico y de salud mental y medicamentos",
+        "Examen físico"
       ],
       cost: "¿Cuánto cuesta el examen?",
       whatToBring: "¿Qué traer a la cita?",
@@ -735,11 +727,7 @@ export const translations = {
       whatIncluded: "What is included in the Immigration Medical Exam?",
       includedList: [
         "Review of medical and mental health history and medications",
-        "Physical exam",
-        "USCIS-required laboratory testing",
-        "Vaccination record review",
-        "Administered vaccinations, if necessary",
-        "Sealed Form I-693"
+        "Physical exam"
       ],
       cost: "How much does the exam cost?",
       whatToBring: "What to bring to the appointment?",
