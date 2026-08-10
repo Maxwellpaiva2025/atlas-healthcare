@@ -38,11 +38,11 @@ export const translations = {
       subtitle: "Todos os dias estamos aqui para ajudar você e sua família",
       bestTimes: "MELHORES HORÁRIOS",
       lessWait: "Menos Espera",
-      schedule1: "Segundas e Sextas",
+      schedule1: "Segundas, Terças e Quintas · 9:00 AM - 3:30 PM",
       fullTeam: "Equipe completa disponível",
       alsoServe: "Também atendemos:",
-      schedule2: "Terças e Quintas",
-      mayWait: "(pode haver tempo de espera maior)",
+      schedule2: "Sextas · 9:00 AM - 2:00 PM",
+      mayWait: "(horário reduzido)",
       viewSchedule: "VER TODOS OS HORÁRIOS"
     },
     // Differentiators
@@ -299,11 +299,11 @@ export const translations = {
       subtitle: "Todos los días estamos aquí para ayudarle a usted y su familia",
       bestTimes: "MEJORES HORARIOS",
       lessWait: "Menos Espera",
-      schedule1: "Lunes y Viernes",
+      schedule1: "Lunes, Martes y Jueves · 9:00 AM - 3:30 PM",
       fullTeam: "Equipo completo disponible",
       alsoServe: "También atendemos:",
-      schedule2: "Martes y Jueves",
-      mayWait: "(puede haber mayor tiempo de espera)",
+      schedule2: "Viernes · 9:00 AM - 2:00 PM",
+      mayWait: "(horario reducido)",
       viewSchedule: "VER TODOS LOS HORARIOS"
     },
     // Differentiators
@@ -559,11 +559,11 @@ export const translations = {
       subtitle: "Every day we're here to help you and your family",
       bestTimes: "BEST TIMES",
       lessWait: "Less Wait",
-      schedule1: "Mondays & Fridays",
+      schedule1: "Monday, Tuesday & Thursday · 9:00 AM - 3:30 PM",
       fullTeam: "Full team available",
       alsoServe: "We also serve:",
-      schedule2: "Tuesdays & Thursdays",
-      mayWait: "(may have longer wait times)",
+      schedule2: "Friday · 9:00 AM - 2:00 PM",
+      mayWait: "(shorter hours)",
       viewSchedule: "VIEW ALL SCHEDULES"
     },
     // Differentiators
